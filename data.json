@@ -1,0 +1,97 @@
+{
+  "updatedAt": "2026-07-03T08:15:36.925Z",
+  "categories": [
+    {
+      "id": "closures",
+      "label": "Bank closures",
+      "live": true
+    },
+    {
+      "id": "rates",
+      "label": "Rate changes",
+      "live": false
+    },
+    {
+      "id": "mergers",
+      "label": "Mergers & M&A",
+      "live": false
+    },
+    {
+      "id": "fintech",
+      "label": "Fintech",
+      "live": false
+    }
+  ],
+  "stories": [
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
+      "headline": "Guardian Credit Union coming to the Town of Pine Level",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
+      "date": "Jun 19, 2025",
+      "source": "WAKA 8"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
+      "headline": "Update To The Guardian Credit Union ATM Robbery In Prattville",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXI3U1k3M1RwYlNPQkxiaU05b25tWHlpWUpMZ0wxSHVKRldwazhNdHM3djBfdllaVnRLd0tZc1ZRMVo3WXJJZGRXSXhrd0tzcnRiTWRXTll2d2Q3dFItRHZyZEFOLWc5RlVnSjVOQzNDWm4zOTQzVTM0dmFUaTJiSGV6VVhVYXIyZUJTcnRzd1ZHQWlvQmZCT2otNmpTVlVMTE5XZm53?oc=5",
+      "date": "Dec 23, 2024",
+      "source": "Elmore-Autauga News"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
+      "headline": "Guardian Credit Union expanding to Prattville",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
+      "date": "Feb 24, 2023",
+      "source": "1819 News"
+    },
+    {
+      "inst": "marcus",
+      "instLabel": "Marcus by Goldman Sachs",
+      "color": "c-coral",
+      "category": "closures",
+      "headline": "Goldman Sachs closes Marcus account to new UK savers",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
+      "date": "Jun 10, 2020",
+      "source": "The Guardian"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "RBI lists July 2026 bank closures across multiple states",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNUdNbXhuVXAwUWFLOWU1VnQ5NFNOVWRsbjZ1TnJjVGdxMDgwS2tyc214N0dvbndtTEZWcEZnN3Q4dU5wZV96X3VkVjBuUUhmYWpFQ1lIZEUtdEdic0t1NExWQ1VFNjlrM3U5VHkyVkpKekNTcEdaQlN2cGxNUmxQeklpdHk0WTMtdkxiR2xyeXRYR2JlQllWMy14N2tfWlprRDdGT3kxUG5RaXdVc1dmV2lpMjg3dFBOTkRDQW5jZGhSWE14UGRWQnpSZHdJWVBFRFVTNmdqVjFBQU9EVE1XZmpRVmdRVHkydWV2bnh1UQ?oc=5",
+      "date": "Jun 30, 2026",
+      "source": "MSN"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Wells Fargo to close 18 bank branches, including 2 in the Philadelphia area",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQks0dWhuZDZyNjdIRVVwaS1MMFVxRWV1bFZrMWVpRW1zRmlvekZBQWczaDVRZmdsTXpIZEpkOWNBSnVKd24tWWg2OERweU15V3Q3bU5vcGlxNFRrZldrVGlERENZaVRCWkt5YU9QUEp1cUNPOU5kZHpUZlVfVWczNVRKZ3FNR216U1QxVURROGtTcUczZ1VEdFJjUE1lQkVxaEw2RThBN2R2R2c?oc=5",
+      "date": "Jun 29, 2026",
+      "source": "The Business Journals"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "How many banks have closed in your area? See our chart",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3Rl9COVNYT3V0QVFmQ0pLYmR3LUZZSGRWS3A3TGwzcTQ0Y003a2doVEU4TVEyRWQ0dmEwTjExb2M1VDBUUUJKRWdyM3dld1RmbFYwSHJGYnpBdw?oc=5",
+      "date": "Jun 21, 2026",
+      "source": "BBC"
+    }
+  ]
+}
