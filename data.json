@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T11:28:40.053Z",
+  "updatedAt": "2026-07-04T10:51:20.081Z",
   "categories": [
     {
       "id": "closures",
@@ -48,10 +48,10 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Guardian Credit Union expanding to Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
-      "date": "Feb 24, 2023",
-      "source": "1819 News"
+      "headline": "Guardian Credit Union announces ‘Letters to Santa: A Holiday Giveback’ campaign",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVJLUnd3MWZiRzVBWFlRbVlOakxsV3RaSjVhTjZETnF6emxiR2hpbjMtVTZrdmdnVjVNRXpHczEtUGY5aGZTSXd4TWR6eGpvVk1IVFA3ZUltb3RhVFdRWWVvOUliRHREZ3JhTHBrMzRCRjlRQnpjb29ySFFuSEJWSS1MWE9BalM3SXd6R3U3dFJYSUxTdnVmdkJLY3RUSHhZWDFONV9PRQ?oc=5",
+      "date": "Nov 27, 2023",
+      "source": "WSFA"
     },
     {
       "inst": "marcus",
@@ -68,10 +68,10 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "RBI lists July 2026 bank closures across multiple states",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNUdNbXhuVXAwUWFLOWU1VnQ5NFNOVWRsbjZ1TnJjVGdxMDgwS2tyc214N0dvbndtTEZWcEZnN3Q4dU5wZV96X3VkVjBuUUhmYWpFQ1lIZEUtdEdic0t1NExWQ1VFNjlrM3U5VHkyVkpKekNTcEdaQlN2cGxNUmxQeklpdHk0WTMtdkxiR2xyeXRYR2JlQllWMy14N2tfWlprRDdGT3kxUG5RaXdVc1dmV2lpMjg3dFBOTkRDQW5jZGhSWE14UGRWQnpSZHdJWVBFRFVTNmdqVjFBQU9EVE1XZmpRVmdRVHkydWV2bnh1UQ?oc=5",
-      "date": "Jun 30, 2026",
-      "source": "MSN"
+      "headline": "July 3 open or closed in Massachusetts? Banks, mail, stores",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNU19WM1lrUWJkWVVSSjdsNkZzeFlEUGxzNnJiWlduc3h6M3ZHUlRzbk5uRUo3czlrakdxSGhlTHUzWHVUNGhuaUlDWi1KczkxRzRaeUhVUldVeWNTTUtoR013STZiVUJtcV9heTRHR2ljd3pjeDVIYXNSRDFxWVdydzVPblFJS3Y4MWYyU29XRHVzaVJCSEpqazdXWVhxdE1MdmJNRDRhTTktZXJUbExwNWxnamdycmZZRWg1cGsycmtEcUlTX05UdnFsNjJCcnNfdFgwZnI5V09Zcmx1ZUpIdllnMjNmd1BlV054QjUxRGM3VFVpTm5J?oc=5",
+      "date": "Jul 1, 2026",
+      "source": "Worcester Telegram"
     },
     {
       "inst": "industry",
@@ -88,10 +88,10 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "How many banks have closed in your area? See our chart",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3Rl9COVNYT3V0QVFmQ0pLYmR3LUZZSGRWS3A3TGwzcTQ0Y003a2doVEU4TVEyRWQ0dmEwTjExb2M1VDBUUUJKRWdyM3dld1RmbFYwSHJGYnpBdw?oc=5",
-      "date": "Jun 21, 2026",
-      "source": "BBC"
+      "headline": "RBI lists July 2026 bank closures across multiple states",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNUdNbXhuVXAwUWFLOWU1VnQ5NFNOVWRsbjZ1TnJjVGdxMDgwS2tyc214N0dvbndtTEZWcEZnN3Q4dU5wZV96X3VkVjBuUUhmYWpFQ1lIZEUtdEdic0t1NExWQ1VFNjlrM3U5VHkyVkpKekNTcEdaQlN2cGxNUmxQeklpdHk0WTMtdkxiR2xyeXRYR2JlQllWMy14N2tfWlprRDdGT3kxUG5RaXdVc1dmV2lpMjg3dFBOTkRDQW5jZGhSWE14UGRWQnpSZHdJWVBFRFVTNmdqVjFBQU9EVE1XZmpRVmdRVHkydWV2bnh1UQ?oc=5",
+      "date": "Jun 29, 2026",
+      "source": "MSN"
     }
   ]
 }
