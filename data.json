@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T11:43:01.607Z",
+  "updatedAt": "2026-07-08T10:59:45.161Z",
   "categories": [
     {
       "id": "closures",
@@ -68,30 +68,30 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "PNC Bank closing 14 Colorado branches following FirstBank rebranding",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbEswUVRGd1dQeFNTTGxubGItVktMVUZrR21IdVp0UVd2NGRfMVlpcWQ5MmFFM3g5aXp6N3c5R3VtRTJMRjZVeDNrLXBFNkZoY0kyZDNaM0U5a0M0eFZwd3cxRnJZd0xXcFE4RDVveWp1RG9PVklRY3BfbTdjRjR5bURiRmJvdHhjUnlhVlQ3RQ?oc=5",
+      "date": "Jul 7, 2026",
+      "source": "The Denver Post"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "PNC closing 14 Colorado bank branches after FirstBank transition",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelF5Y1VZdmc2OWRVRDRqMmFGZ0N2SHlzdnlOU215Sm9mUG01dG4wVmRaeHgxMUp1dDFSZ0lrSmdQLVk2bkZqc29wNjliU0lPNy1SUVQtZVJhYzIzY3Y1ZWNiY29lZ0g4QXFCdWRSRU9xaFktak9IdWZVS2hJb21NdlZYdnhFY2c3Z3ZUZVNfYjhBeU9Zc2Naek1scE5aTElHTkpuSEhzVDVjemZkemxLV1FWVHcxRkdIbktLMG5OTUd2U29MZjNZWGpNU2dWT1U?oc=5",
+      "date": "Jul 7, 2026",
+      "source": "9News"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "Great Southern Bank to close 9 branches, cut 66 jobs in restructuring",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMm54WGRtalNLaWxMUVpIZVU4aVluS1N1alAwaWRBZXpDdUVLUEFNTDdNcVpfbzRtY0lVQTBqRmlKWkZNX0pSSDBoaU9iZHV0N3NlQjlFUVR3eVd3Vll6UWdEdFF6WHRkTWNqbmxUVXJLVXlkYXJ6c1d1Q3FjVTRjWFhn?oc=5",
       "date": "Jul 1, 2026",
       "source": "Springfield Daily Citizen"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "July 3 open or closed in Massachusetts? Banks, mail, stores",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNU19WM1lrUWJkWVVSSjdsNkZzeFlEUGxzNnJiWlduc3h6M3ZHUlRzbk5uRUo3czlrakdxSGhlTHUzWHVUNGhuaUlDWi1KczkxRzRaeUhVUldVeWNTTUtoR013STZiVUJtcV9heTRHR2ljd3pjeDVIYXNSRDFxWVdydzVPblFJS3Y4MWYyU29XRHVzaVJCSEpqazdXWVhxdE1MdmJNRDRhTTktZXJUbExwNWxnamdycmZZRWg1cGsycmtEcUlTX05UdnFsNjJCcnNfdFgwZnI5V09Zcmx1ZUpIdllnMjNmd1BlV054QjUxRGM3VFVpTm5J?oc=5",
-      "date": "Jul 1, 2026",
-      "source": "Worcester Telegram"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Wells Fargo to close 18 bank branches, including 2 in the Philadelphia area",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQks0dWhuZDZyNjdIRVVwaS1MMFVxRWV1bFZrMWVpRW1zRmlvekZBQWczaDVRZmdsTXpIZEpkOWNBSnVKd24tWWg2OERweU15V3Q3bU5vcGlxNFRrZldrVGlERENZaVRCWkt5YU9QUEp1cUNPOU5kZHpUZlVfVWczNVRKZ3FNR216U1QxVURROGtTcUczZ1VEdFJjUE1lQkVxaEw2RThBN2R2R2c?oc=5",
-      "date": "Jun 29, 2026",
-      "source": "The Business Journals"
     }
   ]
 }
