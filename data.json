@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T10:22:11.333Z",
+  "updatedAt": "2026-07-13T11:56:36.126Z",
   "categories": [
     {
       "id": "closures",
@@ -54,6 +54,16 @@
       "source": "Sun Belt Conference"
     },
     {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
+      "headline": "Navy Federal Credit Union Hours: Full Schedule and Holiday Closures",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDIteTBocWxnRjV2QlVOdDVLb1dLemFGQk1QMUpOUGVCMFBTZXpMSmpiUmswMDlpSkNzUHA0bFVBOWlTcnBzSFdTWDYtSVQ4QnluRVA5ZFNuaktKQWQ4aTFEMlRDSllVZkRUMGU0THZUcmVpTlg5eUQ3Sk9ETUVBanp4NlJvVWhIM3JRa2l3?oc=5",
+      "date": "Jan 2, 2026",
+      "source": "GOBankingRates"
+    },
+    {
       "inst": "marcus",
       "instLabel": "Marcus by Goldman Sachs",
       "color": "c-coral",
@@ -62,6 +72,16 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
       "date": "Jun 10, 2020",
       "source": "The Guardian"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Bank Branch Consolidations Resume Amid Agency Business Concerns",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckd0azFEX3VkTGQ4QWc3amg5MWJiYTRYVTZfaFhIZmlUaFBsRExWbENQZ1B3VHFvSjdIcjJWLTdRLW5zSWVNOFRrOGZKdGkwVDJUY3M0bkJsVHFvVkNfOTlZM2JVcHdJcHRKRDlfNTFtZWlUejVGUGtjdFl1MmJmNmFqQU5UUjBFd3pxS1RR?oc=5",
+      "date": "Jul 13, 2026",
+      "source": "조선일보"
     },
     {
       "inst": "industry",
@@ -82,16 +102,6 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNelF5Y1VZdmc2OWRVRDRqMmFGZ0N2SHlzdnlOU215Sm9mUG01dG4wVmRaeHgxMUp1dDFSZ0lrSmdQLVk2bkZqc29wNjliU0lPNy1SUVQtZVJhYzIzY3Y1ZWNiY29lZ0g4QXFCdWRSRU9xaFktak9IdWZVS2hJb21NdlZYdnhFY2c3Z3ZUZVNfYjhBeU9Zc2Naek1scE5aTElHTkpuSEhzVDVjemZkemxLV1FWVHcxRkdIbktLMG5OTUd2U29MZjNZWGpNU2dWT1U?oc=5",
       "date": "Jul 7, 2026",
       "source": "9News"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Bank branch closures: is your local bank closing?",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblEyUzcwY0tHUHlxMVQ1MlhfdTdEM1NHMXptMUxhRjhJMDl1b1UxMmJiV2NnbkgyZ0ZFVWpyUnJWSnFqUFN3OFZYWlIwRUs1cWpPMHdqLW9NREV6cnhsRlRXTHVuN0EtWmNsUEJNUDZ6ZGhfNm1mSS1rMU9uWDJPN1Z2WFFwSS15WFhGd0JnT2RGeEdaTkp1bDREazBLU3pKeXVfNUJ6UXF5QklJd0tFUG9pTXJtWnlObnc?oc=5",
-      "date": "Jul 6, 2026",
-      "source": "which.co.uk"
     }
   ]
 }
