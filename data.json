@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T10:40:35.953Z",
+  "updatedAt": "2026-07-15T10:44:27.796Z",
   "categories": [
     {
       "id": "closures",
@@ -68,6 +68,16 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "Huntington Bank closing 13 Michigan branches next month",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2h1bVg0SkpESmVVWkVDSXNUdEF4MnZFQVNzT19pXzZaQTN2ME1KUEg5MjU2U2Z1ekctaVNfcHlhY09JTlF1TVJrT2NQenlRODBGWU9TYmVmLWRSdFZrdnFzUTNfYWlOcUljZkhjU29udGprekNWWjJqb1liV21TNUtyQ29xNDltc0FkSHdVWmM3ZkxGUjAxdmNyN0o3aU1TZW5uNlh2NTItNW03M2c?oc=5",
+      "date": "Jul 14, 2026",
+      "source": "ClickOnDetroit | WDIV Local 4"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "Huntington Bank to close 13 branches in Michigan",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUGdHOXVXRXB2T3l5YmRxamNMODU0Q0VsVklVcEpDSlZ3QnI3SVJ6R2tPNzF0QTZGV2tkeHNHNUZyblowYzMwT0hGRi1sN3dDNG1WeUpPdTJkelNwQzlJUmdkZVhmR3F5MkNLRDdFOWtGVzhGdDdxdng2MEVockxsVDM2eW52ME9GRUlwQ0lmek5yd2NvN2tHcFU3LXBzSC1wMnNyZFI0R3pRbk43T2xuQ0l4VUhsLU05bzVWUklrcmhWWWhDcXNSVWxETXlQUEZRWjUw?oc=5",
       "date": "Jul 13, 2026",
@@ -82,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0hhcC11dlAwN0huSFMtZ0VFUV9wcWNuSV9PT1YzODBRLVhEM3ppOTc2dXNicVhZc3lJWlcxREd2RXV5V1Bhdmo3LUxueWU0STBhMVdEajR5TDNNWEtWN1Jzb2pERGdJb3NZMUZvNnJ3QzNvamwzcUVuaEZlRTVlbHJEc3RiR3FEZ0VUcFJneTJJdTF6NGZBTVhNeW9oS1ZBZ3pqU2YzRElYdTZha2hBMU82cw?oc=5",
       "date": "Jul 13, 2026",
       "source": "Detroit Free Press"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Bank Branch Consolidations Resume Amid Agency Business Concerns",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckd0azFEX3VkTGQ4QWc3amg5MWJiYTRYVTZfaFhIZmlUaFBsRExWbENQZ1B3VHFvSjdIcjJWLTdRLW5zSWVNOFRrOGZKdGkwVDJUY3M0bkJsVHFvVkNfOTlZM2JVcHdJcHRKRDlfNTFtZWlUejVGUGtjdFl1MmJmNmFqQU5UUjBFd3pxS1RR?oc=5",
-      "date": "Jul 13, 2026",
-      "source": "조선일보"
     }
   ]
 }
