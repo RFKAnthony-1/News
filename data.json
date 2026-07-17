@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T10:53:33.112Z",
+  "updatedAt": "2026-07-17T10:41:34.292Z",
   "categories": [
     {
       "id": "closures",
@@ -68,6 +68,16 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "Huntington Bank closing 13 Michigan branches",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDVVTlVGTDJseE1leWxtV1R5YTNQNHNrN0RPTE9OSHZjQTFBdnY4X2lkcUZ3dVU0R3VjQnBscGs1RklnSVZLVWVFYXhjR0lwRkY5SmxTRy1rbC0tRjFQQ0JQWThrMnFfSXpiY3k4SVRFNzlidjBfa3ZSUk9NVzloMjc2djFzRDJpVDBKMEQ0OURGaWtPWWk1em9SZlM1TGowc2tlSHBTSVJfOGRxQ2FhSTRIUm5VRi1hMVhUS0VfQ01uRkhz?oc=5",
+      "date": "Jul 14, 2026",
+      "source": "WZZM13.com"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "Huntington Bank closing 13 Michigan branches next month",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2h1bVg0SkpESmVVWkVDSXNUdEF4MnZFQVNzT19pXzZaQTN2ME1KUEg5MjU2U2Z1ekctaVNfcHlhY09JTlF1TVJrT2NQenlRODBGWU9TYmVmLWRSdFZrdnFzUTNfYWlOcUljZkhjU29udGprekNWWjJqb1liV21TNUtyQ29xNDltc0FkSHdVWmM3ZkxGUjAxdmNyN0o3aU1TZW5uNlh2NTItNW03M2c?oc=5",
       "date": "Jul 14, 2026",
@@ -82,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUGdHOXVXRXB2T3l5YmRxamNMODU0Q0VsVklVcEpDSlZ3QnI3SVJ6R2tPNzF0QTZGV2tkeHNHNUZyblowYzMwT0hGRi1sN3dDNG1WeUpPdTJkelNwQzlJUmdkZVhmR3F5MkNLRDdFOWtGVzhGdDdxdng2MEVockxsVDM2eW52ME9GRUlwQ0lmek5yd2NvN2tHcFU3LXBzSC1wMnNyZFI0R3pRbk43T2xuQ0l4VUhsLU05bzVWUklrcmhWWWhDcXNSVWxETXlQUEZRWjUw?oc=5",
       "date": "Jul 13, 2026",
       "source": "The Detroit News"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank to close 13 Michigan branches",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYk1rb3lINXdOUG9MeDN0S3lJVDR1UXd3Vl9CNDBVNjg4Wkc2NlEtSG1ZWUNVYlYzQWtzMnBnSjY0czhULWxGTm9pVUNFT05NYS1FT2JwLV9KRXJHVHA0SllWUXNoamZsVm9IdVFZMVpYaXN0WVd2VE1UVmlLT2t1dUFRZEtaSm5jeTk0OHo1Yzk3d002Z21HT0ZR?oc=5",
-      "date": "Jul 13, 2026",
-      "source": "Crain's Detroit Business"
     }
   ]
 }
