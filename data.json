@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T11:40:09.909Z",
+  "updatedAt": "2026-07-21T11:02:59.740Z",
   "categories": [
     {
       "id": "closures",
@@ -22,76 +22,5 @@
       "live": false
     }
   ],
-  "stories": [
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Guardian Credit Union coming to the Town of Pine Level",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
-      "date": "Jun 19, 2025",
-      "source": "WAKA 8"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Update To The Guardian Credit Union ATM Robbery In Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXI3U1k3M1RwYlNPQkxiaU05b25tWHlpWUpMZ0wxSHVKRldwazhNdHM3djBfdllaVnRLd0tZc1ZRMVo3WXJJZGRXSXhrd0tzcnRiTWRXTll2d2Q3dFItRHZyZEFOLWc5RlVnSjVOQzNDWm4zOTQzVTM0dmFUaTJiSGV6VVhVYXIyZUJTcnRzd1ZHQWlvQmZCT2otNmpTVlVMTE5XZm53?oc=5",
-      "date": "Dec 23, 2024",
-      "source": "Elmore-Autauga News"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Guardian Credit Union expanding to Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
-      "date": "Feb 24, 2023",
-      "source": "1819 News"
-    },
-    {
-      "inst": "marcus",
-      "instLabel": "Marcus by Goldman Sachs",
-      "color": "c-coral",
-      "category": "closures",
-      "headline": "Goldman Sachs closes Marcus account to new UK savers",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
-      "date": "Jun 10, 2020",
-      "source": "The Guardian"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank closing 13 Michigan branches",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDVVTlVGTDJseE1leWxtV1R5YTNQNHNrN0RPTE9OSHZjQTFBdnY4X2lkcUZ3dVU0R3VjQnBscGs1RklnSVZLVWVFYXhjR0lwRkY5SmxTRy1rbC0tRjFQQ0JQWThrMnFfSXpiY3k4SVRFNzlidjBfa3ZSUk9NVzloMjc2djFzRDJpVDBKMEQ0OURGaWtPWWk1em9SZlM1TGowc2tlSHBTSVJfOGRxQ2FhSTRIUm5VRi1hMVhUS0VfQ01uRkhz?oc=5",
-      "date": "Jul 14, 2026",
-      "source": "WZZM13.com"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank closing 13 Michigan branches next month",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2h1bVg0SkpESmVVWkVDSXNUdEF4MnZFQVNzT19pXzZaQTN2ME1KUEg5MjU2U2Z1ekctaVNfcHlhY09JTlF1TVJrT2NQenlRODBGWU9TYmVmLWRSdFZrdnFzUTNfYWlOcUljZkhjU29udGprekNWWjJqb1liV21TNUtyQ29xNDltc0FkSHdVWmM3ZkxGUjAxdmNyN0o3aU1TZW5uNlh2NTItNW03M2c?oc=5",
-      "date": "Jul 14, 2026",
-      "source": "ClickOnDetroit | WDIV Local 4"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank to close 13 branches in Michigan",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUGdHOXVXRXB2T3l5YmRxamNMODU0Q0VsVklVcEpDSlZ3QnI3SVJ6R2tPNzF0QTZGV2tkeHNHNUZyblowYzMwT0hGRi1sN3dDNG1WeUpPdTJkelNwQzlJUmdkZVhmR3F5MkNLRDdFOWtGVzhGdDdxdng2MEVockxsVDM2eW52ME9GRUlwQ0lmek5yd2NvN2tHcFU3LXBzSC1wMnNyZFI0R3pRbk43T2xuQ0l4VUhsLU05bzVWUklrcmhWWWhDcXNSVWxETXlQUEZRWjUw?oc=5",
-      "date": "Jul 13, 2026",
-      "source": "The Detroit News"
-    }
-  ]
+  "stories": []
 }
