@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T11:03:34.507Z",
+  "updatedAt": "2026-07-23T11:05:53.476Z",
   "categories": [
     {
       "id": "closures",
@@ -22,76 +22,5 @@
       "live": false
     }
   ],
-  "stories": [
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Guardian Credit Union coming to the Town of Pine Level",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
-      "date": "Jun 19, 2025",
-      "source": "WAKA 8"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Update To The Guardian Credit Union ATM Robbery In Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXI3U1k3M1RwYlNPQkxiaU05b25tWHlpWUpMZ0wxSHVKRldwazhNdHM3djBfdllaVnRLd0tZc1ZRMVo3WXJJZGRXSXhrd0tzcnRiTWRXTll2d2Q3dFItRHZyZEFOLWc5RlVnSjVOQzNDWm4zOTQzVTM0dmFUaTJiSGV6VVhVYXIyZUJTcnRzd1ZHQWlvQmZCT2otNmpTVlVMTE5XZm53?oc=5",
-      "date": "Dec 23, 2024",
-      "source": "Elmore-Autauga News"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Guardian Credit Union expanding to Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
-      "date": "Feb 24, 2023",
-      "source": "1819 News"
-    },
-    {
-      "inst": "marcus",
-      "instLabel": "Marcus by Goldman Sachs",
-      "color": "c-coral",
-      "category": "closures",
-      "headline": "Goldman Sachs closes Marcus account to new UK savers",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
-      "date": "Jun 10, 2020",
-      "source": "The Guardian"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Santander promises no more bank branch closures before 2028",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmYtVlN0Y1JzTTlBUHpURS0zOG5oM2k2Sk02NFV6QlNUdWdYWXpsb3BKcmJfTkxhaDdyNTk0UGRvUU9nb3lDMzJ1NkdyVmtCczR1YzQtUy1lLXNCWjNLY2FMYVdjeWlfQ21Sb19ROFdhZXR2WU83TmxNeFZhOWdnLTAzNA?oc=5",
-      "date": "Jul 22, 2026",
-      "source": "AOL.co.uk"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank to close 13 Michigan branches by the end of August -- see full list here",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmdCNFB0cExRdzdoTUFmd29SUnljU19tQXNjcGtKZnFDV1QwZFFzN2N4N2FDSlkxR0hPaWdrQk9iQnZTZTVJWHo4RmhJTVlXblVaRExndHoxTjU4T2NrR08wcnlVR19jT2VDVFFpSWEyVGVwTEg1UGFxY2hnS1FPdC1jN25ZMU9wUmlWWVdzSVdieW9ZS0dOVHhHX2JLZERfajFmZWZaTDZMYURXSlRIaWVJT25Gd2lRb0NfUVh0U2s5SjYwREx6b1J4OXo3Q3ZxalMzTVln?oc=5",
-      "date": "Jul 18, 2026",
-      "source": "ClickOnDetroit | WDIV Local 4"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank closing 13 Michigan branches",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDVVTlVGTDJseE1leWxtV1R5YTNQNHNrN0RPTE9OSHZjQTFBdnY4X2lkcUZ3dVU0R3VjQnBscGs1RklnSVZLVWVFYXhjR0lwRkY5SmxTRy1rbC0tRjFQQ0JQWThrMnFfSXpiY3k4SVRFNzlidjBfa3ZSUk9NVzloMjc2djFzRDJpVDBKMEQ0OURGaWtPWWk1em9SZlM1TGowc2tlSHBTSVJfOGRxQ2FhSTRIUm5VRi1hMVhUS0VfQ01uRkhz?oc=5",
-      "date": "Jul 14, 2026",
-      "source": "WZZM13.com"
-    }
-  ]
+  "stories": []
 }
