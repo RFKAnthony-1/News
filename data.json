@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T10:58:41.072Z",
+  "updatedAt": "2026-07-25T10:23:31.310Z",
   "categories": [
     {
       "id": "closures",
@@ -31,7 +31,7 @@
       "headline": "Guardian Credit Union coming to the Town of Pine Level",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
       "date": "Jun 19, 2025",
-      "source": "WAKA Action 8 News"
+      "source": "WAKA 8"
     },
     {
       "inst": "guardian",
@@ -52,16 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
       "date": "Feb 24, 2023",
       "source": "1819 News"
-    },
-    {
-      "inst": "navyfederal",
-      "instLabel": "Navy Federal Credit Union",
-      "color": "c-blue",
-      "category": "closures",
-      "headline": "Navy Federal Credit Union branch in Columbus temporarily closes after positive COVID-19 case",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjBUM0FWcl9RWDVJMWxubVZhQUpCNmw3X0QwNFlTTzNYRWJadlFOcWI3VC12LTV0NWdleWZIc3hhVU1jMkdPdzhhd2tLTlFyMmppS29DVXlQWmV6a0JuXzlGalo1NTBZSTVoTGxBdkk0SUZQYktJQ0RMNFZMTS1SVEVZejBfTi1EVFlNWTRiWjRIelFDR0F5MGtMRnhiUWI3SUExY0VlQ2lQYmgzdEluYlh0VWxCbDdMcVFN0gHPAUFVX3lxTE9nT1VTR2tIczhhbmNkclBHT293SW40MGtHNjAxaVRQMnR3WDFQWXZ3SkxWcDNfMFFBTWozdVlVUV9kRGpqbFVPY3YycEx5SlFneGJTYU11ZVRZcUQ5RmM1UEVzZTdtQlVNcFRDMXJHLV9IczVab29mYVZGWUx0RFFzbFo4VUJ0X25jdVdaVGtBNWlGTDlSZElMQzE2dEdJVTBRTmpkb2xzcFdwTzI3U3FHTHNzcmVZOXhnN1YxZFFNdk5ON3RhT0dvQXhrTlQ0MA?oc=5",
-      "date": "Aug 31, 2020",
-      "source": "WTVM.com"
     },
     {
       "inst": "marcus",
@@ -88,20 +78,20 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Huntington Bank closing 13 Michigan branches",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDVVTlVGTDJseE1leWxtV1R5YTNQNHNrN0RPTE9OSHZjQTFBdnY4X2lkcUZ3dVU0R3VjQnBscGs1RklnSVZLVWVFYXhjR0lwRkY5SmxTRy1rbC0tRjFQQ0JQWThrMnFfSXpiY3k4SVRFNzlidjBfa3ZSUk9NVzloMjc2djFzRDJpVDBKMEQ0OURGaWtPWWk1em9SZlM1TGowc2tlSHBTSVJfOGRxQ2FhSTRIUm5VRi1hMVhUS0VfQ01uRkhz?oc=5",
+      "headline": "Huntington Bank closing 13 Michigan branches, including 2 near Grand Rapids",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTVIbkFSd3l0Vm0yQmJpUUJpaFpZS1hkYkxaaTl2MkdnZkY4LWZ5MkhmeHEyclhsSjJUcEhXR2ZwTi1JX1IyUnZMMVhLT2ZfUDVFc3RFeFh1dWhGeHctNE05Q2lOOE41eVd2QjlBUF9mUHdQU2o5enpXbGc2Vk9MSDdNN2NSY3NORC03eWQzalpjV2pPVjlEV2VjNGwtMzBmZ01sX3pCQmlNcVRJZFB3WllB0gG3AUFVX3lxTFBQNF9TVFhsbm9NMGhMTEJWaGxXMFlyZFZpdF9yVVJtNmNtbWJoNUFjQ3B3eC14SWlqMHgtWmVfOVRDRVhzdHBCMGxNUmxOSjFHNUtsNklZLVAya1VXWDh3SmMzcnh4MHlQV1FSamVpMXVnOVMzdTBWZVhBOVVuOFhFU3hjRk5SR3pvaWQyY1MyZ3hnd3VQQlhSRXVkWFVrdnNzdEVnTjBRQ1lZd3JLQnlkNEp1Vk5Xdw?oc=5",
       "date": "Jul 14, 2026",
-      "source": "WZZM13.com"
+      "source": "WOODTV.com"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Huntington Bank to close 13 branches in Michigan",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUGdHOXVXRXB2T3l5YmRxamNMODU0Q0VsVklVcEpDSlZ3QnI3SVJ6R2tPNzF0QTZGV2tkeHNHNUZyblowYzMwT0hGRi1sN3dDNG1WeUpPdTJkelNwQzlJUmdkZVhmR3F5MkNLRDdFOWtGVzhGdDdxdng2MEVockxsVDM2eW52ME9GRUlwQ0lmek5yd2NvN2tHcFU3LXBzSC1wMnNyZFI0R3pRbk43T2xuQ0l4VUhsLU05bzVWUklrcmhWWWhDcXNSVWxETXlQUEZRWjUw?oc=5",
-      "date": "Jul 13, 2026",
-      "source": "The Detroit News"
+      "headline": "Huntington Bank closing 13 Michigan branches",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDVVTlVGTDJseE1leWxtV1R5YTNQNHNrN0RPTE9OSHZjQTFBdnY4X2lkcUZ3dVU0R3VjQnBscGs1RklnSVZLVWVFYXhjR0lwRkY5SmxTRy1rbC0tRjFQQ0JQWThrMnFfSXpiY3k4SVRFNzlidjBfa3ZSUk9NVzloMjc2djFzRDJpVDBKMEQ0OURGaWtPWWk1em9SZlM1TGowc2tlSHBTSVJfOGRxQ2FhSTRIUm5VRi1hMVhUS0VfQ01uRkhz?oc=5",
+      "date": "Jul 14, 2026",
+      "source": "WZZM13.com"
     }
   ]
 }
