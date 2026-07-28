@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T12:16:39.751Z",
+  "updatedAt": "2026-07-28T11:12:18.882Z",
   "categories": [
     {
       "id": "closures",
@@ -54,6 +54,16 @@
       "source": "1819 News"
     },
     {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
+      "headline": "Navy Federal Credit Union branch in Columbus temporarily closes after positive COVID-19 case",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjBUM0FWcl9RWDVJMWxubVZhQUpCNmw3X0QwNFlTTzNYRWJadlFOcWI3VC12LTV0NWdleWZIc3hhVU1jMkdPdzhhd2tLTlFyMmppS29DVXlQWmV6a0JuXzlGalo1NTBZSTVoTGxBdkk0SUZQYktJQ0RMNFZMTS1SVEVZejBfTi1EVFlNWTRiWjRIelFDR0F5MGtMRnhiUWI3SUExY0VlQ2lQYmgzdEluYlh0VWxCbDdMcVFN0gHPAUFVX3lxTE9nT1VTR2tIczhhbmNkclBHT293SW40MGtHNjAxaVRQMnR3WDFQWXZ3SkxWcDNfMFFBTWozdVlVUV9kRGpqbFVPY3YycEx5SlFneGJTYU11ZVRZcUQ5RmM1UEVzZTdtQlVNcFRDMXJHLV9IczVab29mYVZGWUx0RFFzbFo4VUJ0X25jdVdaVGtBNWlGTDlSZElMQzE2dEdJVTBRTmpkb2xzcFdwTzI3U3FHTHNzcmVZOXhnN1YxZFFNdk5ON3RhT0dvQXhrTlQ0MA?oc=5",
+      "date": "Aug 31, 2020",
+      "source": "WTVM.com"
+    },
+    {
       "inst": "marcus",
       "instLabel": "Marcus by Goldman Sachs",
       "color": "c-coral",
@@ -68,30 +78,30 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "Bank branch trends for 2026 (2nd quarter): Continued growth in the Southeast and Southwest metros",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEMwcmlSRHM4cmhGWFVPcVl4SmJVejlnMmR4ZHJIRjdJdTBDUmVlcXFwNXlaamZPcnBmYmNvTUgwTzRjR2tDRUZyVGw5eHV4QVVUS1hEZGN1a1hOVnBsQkJHQ1lFWmtUVGZza29BQTYzTGFHMURQR3pkLTNJd2prNTZxRFhadmlLaW1tT1owaXl2ZTU4eFVGSm9WNlZ3ak1WYlZxNE4yZWZJa0F5WVdYLV93?oc=5",
+      "date": "Jul 27, 2026",
+      "source": "NCRC"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Citizens Bank shutters more than 100 supermarket outposts — with plans to open more standalone branches",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXEweVNmd0ozc25HQ2lmVlVXSzJrWWR6TDJTR3FyNTJVQVkzdVZYdGpabW1uS3g0b09MLW1aNnNtUnJKTXV5a3lOOVdVTWJKbmV1RFNfWlBHbVBlbWVZTXRQeWIxVWhUZjk5bEU5aG1aWk9QY1BwdWVaWDdIeHd0ZkpsYVhmRjNJLXpURkJzdExxd2tKbkJZUzNaZTVoS3c?oc=5",
+      "date": "Jul 23, 2026",
+      "source": "New York Post"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "Huntington Bank closing 13 Michigan branches next month",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2h1bVg0SkpESmVVWkVDSXNUdEF4MnZFQVNzT19pXzZaQTN2ME1KUEg5MjU2U2Z1ekctaVNfcHlhY09JTlF1TVJrT2NQenlRODBGWU9TYmVmLWRSdFZrdnFzUTNfYWlOcUljZkhjU29udGprekNWWjJqb1liV21TNUtyQ29xNDltc0FkSHdVWmM3ZkxGUjAxdmNyN0o3aU1TZW5uNlh2NTItNW03M2c?oc=5",
       "date": "Jul 14, 2026",
       "source": "ClickOnDetroit | WDIV Local 4"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank closing 13 Michigan branches, including 2 near Grand Rapids",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTVIbkFSd3l0Vm0yQmJpUUJpaFpZS1hkYkxaaTl2MkdnZkY4LWZ5MkhmeHEyclhsSjJUcEhXR2ZwTi1JX1IyUnZMMVhLT2ZfUDVFc3RFeFh1dWhGeHctNE05Q2lOOE41eVd2QjlBUF9mUHdQU2o5enpXbGc2Vk9MSDdNN2NSY3NORC03eWQzalpjV2pPVjlEV2VjNGwtMzBmZ01sX3pCQmlNcVRJZFB3WllB0gG3AUFVX3lxTFBQNF9TVFhsbm9NMGhMTEJWaGxXMFlyZFZpdF9yVVJtNmNtbWJoNUFjQ3B3eC14SWlqMHgtWmVfOVRDRVhzdHBCMGxNUmxOSjFHNUtsNklZLVAya1VXWDh3SmMzcnh4MHlQV1FSamVpMXVnOVMzdTBWZVhBOVVuOFhFU3hjRk5SR3pvaWQyY1MyZ3hnd3VQQlhSRXVkWFVrdnNzdEVnTjBRQ1lZd3JLQnlkNEp1Vk5Xdw?oc=5",
-      "date": "Jul 14, 2026",
-      "source": "WOODTV.com"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank closing 13 Michigan branches",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDVVTlVGTDJseE1leWxtV1R5YTNQNHNrN0RPTE9OSHZjQTFBdnY4X2lkcUZ3dVU0R3VjQnBscGs1RklnSVZLVWVFYXhjR0lwRkY5SmxTRy1rbC0tRjFQQ0JQWThrMnFfSXpiY3k4SVRFNzlidjBfa3ZSUk9NVzloMjc2djFzRDJpVDBKMEQ0OURGaWtPWWk1em9SZlM1TGowc2tlSHBTSVJfOGRxQ2FhSTRIUm5VRi1hMVhUS0VfQ01uRkhz?oc=5",
-      "date": "Jul 14, 2026",
-      "source": "WZZM13.com"
     }
   ]
 }
