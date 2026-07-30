@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T11:19:54.750Z",
+  "updatedAt": "2026-07-30T11:02:32.934Z",
   "categories": [
     {
       "id": "closures",
@@ -54,16 +54,6 @@
       "source": "1819 News"
     },
     {
-      "inst": "navyfederal",
-      "instLabel": "Navy Federal Credit Union",
-      "color": "c-blue",
-      "category": "closures",
-      "headline": "Navy Federal Credit Union branch in Columbus temporarily closes after positive COVID-19 case",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjBUM0FWcl9RWDVJMWxubVZhQUpCNmw3X0QwNFlTTzNYRWJadlFOcWI3VC12LTV0NWdleWZIc3hhVU1jMkdPdzhhd2tLTlFyMmppS29DVXlQWmV6a0JuXzlGalo1NTBZSTVoTGxBdkk0SUZQYktJQ0RMNFZMTS1SVEVZejBfTi1EVFlNWTRiWjRIelFDR0F5MGtMRnhiUWI3SUExY0VlQ2lQYmgzdEluYlh0VWxCbDdMcVFN0gHPAUFVX3lxTE9nT1VTR2tIczhhbmNkclBHT293SW40MGtHNjAxaVRQMnR3WDFQWXZ3SkxWcDNfMFFBTWozdVlVUV9kRGpqbFVPY3YycEx5SlFneGJTYU11ZVRZcUQ5RmM1UEVzZTdtQlVNcFRDMXJHLV9IczVab29mYVZGWUx0RFFzbFo4VUJ0X25jdVdaVGtBNWlGTDlSZElMQzE2dEdJVTBRTmpkb2xzcFdwTzI3U3FHTHNzcmVZOXhnN1YxZFFNdk5ON3RhT0dvQXhrTlQ0MA?oc=5",
-      "date": "Aug 31, 2020",
-      "source": "WTVM.com"
-    },
-    {
       "inst": "marcus",
       "instLabel": "Marcus by Goldman Sachs",
       "color": "c-coral",
@@ -88,20 +78,20 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Huntington Bank closing 13 Michigan branches next month",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2h1bVg0SkpESmVVWkVDSXNUdEF4MnZFQVNzT19pXzZaQTN2ME1KUEg5MjU2U2Z1ekctaVNfcHlhY09JTlF1TVJrT2NQenlRODBGWU9TYmVmLWRSdFZrdnFzUTNfYWlOcUljZkhjU29udGprekNWWjJqb1liV21TNUtyQ29xNDltc0FkSHdVWmM3ZkxGUjAxdmNyN0o3aU1TZW5uNlh2NTItNW03M2c?oc=5",
-      "date": "Jul 14, 2026",
-      "source": "ClickOnDetroit | WDIV Local 4"
+      "headline": "Huntington Bank to close 13 branches in Illinois. See the list",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXNDLVpJRTh3WmszbHJneWZMUGlOXzBZampIM0tVNTJ3OXVyZmhCcE5PRnpuUU05NWV4NkZQeU15Y3l5bkF0UUxUUDdyY0VfUDJUTXRiNHp1eVhyRGh1SG5ETzlEWWtCSjY1bmVBXzkzTkpmRTZ3Rnk4WnEteWNPTmJ5d0tjWS05ZDBQSVRzUjVaTE4ybm5QX3lhQXhuLUluNWZaOTFFOERKSWFPZTNNcTczcEN4cmVNam04alJsNXE?oc=5",
+      "date": "Jul 15, 2026",
+      "source": "pjstar.com"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Huntington Bank closing 13 Michigan branches",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDVVTlVGTDJseE1leWxtV1R5YTNQNHNrN0RPTE9OSHZjQTFBdnY4X2lkcUZ3dVU0R3VjQnBscGs1RklnSVZLVWVFYXhjR0lwRkY5SmxTRy1rbC0tRjFQQ0JQWThrMnFfSXpiY3k4SVRFNzlidjBfa3ZSUk9NVzloMjc2djFzRDJpVDBKMEQ0OURGaWtPWWk1em9SZlM1TGowc2tlSHBTSVJfOGRxQ2FhSTRIUm5VRi1hMVhUS0VfQ01uRkhz?oc=5",
+      "headline": "Huntington Bank closing 13 Michigan branches next month",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2h1bVg0SkpESmVVWkVDSXNUdEF4MnZFQVNzT19pXzZaQTN2ME1KUEg5MjU2U2Z1ekctaVNfcHlhY09JTlF1TVJrT2NQenlRODBGWU9TYmVmLWRSdFZrdnFzUTNfYWlOcUljZkhjU29udGprekNWWjJqb1liV21TNUtyQ29xNDltc0FkSHdVWmM3ZkxGUjAxdmNyN0o3aU1TZW5uNlh2NTItNW03M2c?oc=5",
       "date": "Jul 14, 2026",
-      "source": "WZZM13.com"
+      "source": "ClickOnDetroit | WDIV Local 4"
     }
   ]
 }
