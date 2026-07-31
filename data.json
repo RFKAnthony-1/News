@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T11:02:32.934Z",
+  "updatedAt": "2026-07-31T11:25:42.742Z",
   "categories": [
     {
       "id": "closures",
@@ -68,6 +68,16 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "HSBC to close all branches and pull out of Australian retail banking market",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXUxSXREMnpfV2ZnbWdMbHg2NE9jU0IydzBkTmJDLUlxVUpSRm5JSmEzY01NekxqRDRtamVaRUo5VERWVEJGN1N4dEFIZW5qUzEyNkRMTFJ2NW9ra3hEZlJsVDhlekNFNlNhbWdSWmZlbDNITDYzS041d0o5cC1CYmRzZmk2SEdZWDVVWjJWY1ljM0hCMmR3TlFBWmZwc2dJdl9J?oc=5",
+      "date": "Jul 31, 2026",
+      "source": "The Guardian"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "Bank branch trends for 2026 (2nd quarter): Continued growth in the Southeast and Southwest metros",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNEMwcmlSRHM4cmhGWFVPcVl4SmJVejlnMmR4ZHJIRjdJdTBDUmVlcXFwNXlaamZPcnBmYmNvTUgwTzRjR2tDRUZyVGw5eHV4QVVUS1hEZGN1a1hOVnBsQkJHQ1lFWmtUVGZza29BQTYzTGFHMURQR3pkLTNJd2prNTZxRFhadmlLaW1tT1owaXl2ZTU4eFVGSm9WNlZ3ak1WYlZxNE4yZWZJa0F5WVdYLV93?oc=5",
       "date": "Jul 27, 2026",
@@ -81,17 +91,7 @@
       "headline": "Huntington Bank to close 13 branches in Illinois. See the list",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXNDLVpJRTh3WmszbHJneWZMUGlOXzBZampIM0tVNTJ3OXVyZmhCcE5PRnpuUU05NWV4NkZQeU15Y3l5bkF0UUxUUDdyY0VfUDJUTXRiNHp1eVhyRGh1SG5ETzlEWWtCSjY1bmVBXzkzTkpmRTZ3Rnk4WnEteWNPTmJ5d0tjWS05ZDBQSVRzUjVaTE4ybm5QX3lhQXhuLUluNWZaOTFFOERKSWFPZTNNcTczcEN4cmVNam04alJsNXE?oc=5",
       "date": "Jul 15, 2026",
-      "source": "pjstar.com"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank closing 13 Michigan branches next month",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2h1bVg0SkpESmVVWkVDSXNUdEF4MnZFQVNzT19pXzZaQTN2ME1KUEg5MjU2U2Z1ekctaVNfcHlhY09JTlF1TVJrT2NQenlRODBGWU9TYmVmLWRSdFZrdnFzUTNfYWlOcUljZkhjU29udGprekNWWjJqb1liV21TNUtyQ29xNDltc0FkSHdVWmM3ZkxGUjAxdmNyN0o3aU1TZW5uNlh2NTItNW03M2c?oc=5",
-      "date": "Jul 14, 2026",
-      "source": "ClickOnDetroit | WDIV Local 4"
+      "source": "Peoria Journal Star"
     }
   ]
 }
