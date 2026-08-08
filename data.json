@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T09:55:42.064Z",
+  "updatedAt": "2026-08-08T09:32:03.525Z",
   "categories": [
     {
       "id": "closures",
@@ -68,18 +68,8 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "U.S. Bank Is Closing Local Branches in 2026: Is Yours One?",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xM1d3bmhPZDlqcHVMTVZFWWs0djljWWFOaW5tbFJmZ0h3VnJJNFNJU0g5bExCaGdJUDlHbFYzUWw2dkFYWkNfYklSQVdxcDZ5X2VFY0VNYWtZTktIZ2pvaWF3?oc=5",
-      "date": "Aug 6, 2026",
-      "source": "FinanceBuzz"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
       "headline": "TD Bank Has Closed Dozens of Branches in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BNFg0WnozNm15TEpNNl9JMVFmcmNMSFFFS21ZX0FWTmNyZ3JvY3h6UzdFR0I0Tlpoci1pOHFySEVhVzJrZ0pxUGZrMGZXdkJHX1lEMDdVa0Vla1U?oc=5",
       "date": "Aug 5, 2026",
       "source": "FinanceBuzz"
     },
@@ -92,6 +82,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlBhcHN4cXpBX2l0RDc5Y0trTzZwOEZGdVhoTzFZNERkUlRvbHh2Y1BHcTNyS2ljbXJRNjFuSzdlT1U1V3JuZHJMVGhyM1UwTDVJQmhRUElzRzd1cEVKX2xkX05obl9wRlpMX2JHVmlYSmNMVWVMQ2gwRmdtalJDUDNxZ0t4T25CWGY2YzNvV2dXWHRsN2hneUd6SFY0V0R4?oc=5",
       "date": "Aug 4, 2026",
       "source": "Fast Company"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "HSBC to close all branches and pull out of Australian retail banking market",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXUxSXREMnpfV2ZnbWdMbHg2NE9jU0IydzBkTmJDLUlxVUpSRm5JSmEzY01NekxqRDRtamVaRUo5VERWVEJGN1N4dEFIZW5qUzEyNkRMTFJ2NW9ra3hEZlJsVDhlekNFNlNhbWdSWmZlbDNITDYzS041d0o5cC1CYmRzZmk2SEdZWDVVWjJWY1ljM0hCMmR3TlFBWmZwc2dJdl9J?oc=5",
+      "date": "Jul 31, 2026",
+      "source": "The Guardian"
     }
   ]
 }
