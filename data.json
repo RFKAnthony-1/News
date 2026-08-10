@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T09:33:04.557Z",
+  "updatedAt": "2026-08-10T10:12:05.771Z",
   "categories": [
     {
       "id": "closures",
@@ -38,20 +38,30 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Bracket Set for 2024 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLURrNmlVa0ZNVDRxdTQ2dUEwbEdWSl9nQjIybEk3TDhMeUJCUjJuXzVqRGJ1WUJncW5xeHJ2cVgxSWxjSjJfdmVTaVY4VDJ6aGdtSFhXdHlZN0QyUkhPWklFT0NfcHpKaXZVZ25kSVluM0lTSGk0RF9CWU05cEt0MXBUd1kxSjZkQzZXbHplRlRZZFJFbzhCSkMtZUw2X0VJbUF6X1pqWU1KVHhNcnJrLUYwcE5SVC11cTVOR05JenBSenI0Z3k0QmdYYzBpblFoekJiNWV5cVBYdTM5TnZxZDJkaE85VDRRUXluY0tvM0s?oc=5",
-      "date": "May 18, 2024",
-      "source": "Sun Belt Conference"
+      "headline": "PPD Looking For Three Suspects In Prattville Guardian Credit Union ATM Robbery",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzY1bG5OdFJkWGZBcEhva1RPWTNXNHh3TGNlbFAxbWV5NU54X1otOWhRS2Z1dEthZ29Ob21qVHRtRGYzN3g1d0hQZTJFSllXZ3hTbFl4eVpQcFp6SXZUWFBqLWxBdE5mY0VnRTRCbElrT1dlbFQtdDU1N0U5TUdTWUpjX1QzcUp4ZFhKdFFRdDhNWDlveTltZWZlZmZoR2FJd0w2TlA0SXpGZDA3YTBMMDZCdFp6N0RKTkVmSA?oc=5",
+      "date": "Dec 13, 2024",
+      "source": "elmoreautauganews.com"
     },
     {
       "inst": "guardian",
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Guardian Credit Union expanding to Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
-      "date": "Feb 24, 2023",
-      "source": "1819news.com"
+      "headline": "Bracket Set for 2024 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLURrNmlVa0ZNVDRxdTQ2dUEwbEdWSl9nQjIybEk3TDhMeUJCUjJuXzVqRGJ1WUJncW5xeHJ2cVgxSWxjSjJfdmVTaVY4VDJ6aGdtSFhXdHlZN0QyUkhPWklFT0NfcHpKaXZVZ25kSVluM0lTSGk0RF9CWU05cEt0MXBUd1kxSjZkQzZXbHplRlRZZFJFbzhCSkMtZUw2X0VJbUF6X1pqWU1KVHhNcnJrLUYwcE5SVC11cTVOR05JenBSenI0Z3k0QmdYYzBpblFoekJiNWV5cVBYdTM5TnZxZDJkaE85VDRRUXluY0tvM0s?oc=5",
+      "date": "May 18, 2024",
+      "source": "sunbeltsports.org"
+    },
+    {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
+      "headline": "Navy Federal Credit Union Celebrates the Grand Opening of New Apple Valley Branch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2labTBHUndtOF9nVDZ6MUVuMUFVZk1udUNmczNpYjNVUkVvZENPX2NuOHIyTkZtb0pmSFhCSFpMTEkzYmFNTXN4a3kwMVNlOFI3STVNM0dvTTZJeFhKRXlheWxfTldVV2I2U0lUUGtDdWdxd3Y3YkxXS3dsZVBOVmI1YURpa0U4MXMyNktpQ1VVWjY2OWhfOEZkLW4tcW1tdjFOVG53?oc=5",
+      "date": "Aug 24, 2025",
+      "source": "VVNG"
     },
     {
       "inst": "marcus",
@@ -61,7 +71,7 @@
       "headline": "Goldman Sachs closes Marcus account to new UK savers",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
       "date": "Jun 10, 2020",
-      "source": "The Guardian"
+      "source": "theguardian.com"
     },
     {
       "inst": "industry",
@@ -88,10 +98,10 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "HSBC to close all branches and pull out of Australian retail banking market",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXUxSXREMnpfV2ZnbWdMbHg2NE9jU0IydzBkTmJDLUlxVUpSRm5JSmEzY01NekxqRDRtamVaRUo5VERWVEJGN1N4dEFIZW5qUzEyNkRMTFJ2NW9ra3hEZlJsVDhlekNFNlNhbWdSWmZlbDNITDYzS041d0o5cC1CYmRzZmk2SEdZWDVVWjJWY1ljM0hCMmR3TlFBWmZwc2dJdl9J?oc=5",
-      "date": "Jul 31, 2026",
-      "source": "The Guardian"
+      "headline": "Huntington Bank closing 13 Michigan branches next month",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2h1bVg0SkpESmVVWkVDSXNUdEF4MnZFQVNzT19pXzZaQTN2ME1KUEg5MjU2U2Z1ekctaVNfcHlhY09JTlF1TVJrT2NQenlRODBGWU9TYmVmLWRSdFZrdnFzUTNfYWlOcUljZkhjU29udGprekNWWjJqb1liV21TNUtyQ29xNDltc0FkSHdVWmM3ZkxGUjAxdmNyN0o3aU1TZW5uNlh2NTItNW03M2c?oc=5",
+      "date": "Jul 14, 2026",
+      "source": "ClickOnDetroit | WDIV Local 4"
     }
   ]
 }
