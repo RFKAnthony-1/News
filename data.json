@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T09:56:10.863Z",
+  "updatedAt": "2026-08-13T09:58:17.889Z",
   "categories": [
     {
       "id": "closures",
@@ -38,9 +38,9 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "PPD Looking For Three Suspects In Prattville Guardian Credit Union ATM Robbery",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzY1bG5OdFJkWGZBcEhva1RPWTNXNHh3TGNlbFAxbWV5NU54X1otOWhRS2Z1dEthZ29Ob21qVHRtRGYzN3g1d0hQZTJFSllXZ3hTbFl4eVpQcFp6SXZUWFBqLWxBdE5mY0VnRTRCbElrT1dlbFQtdDU1N0U5TUdTWUpjX1QzcUp4ZFhKdFFRdDhNWDlveTltZWZlZmZoR2FJd0w2TlA0SXpGZDA3YTBMMDZCdFp6N0RKTkVmSA?oc=5",
-      "date": "Dec 13, 2024",
+      "headline": "Update To The Guardian Credit Union ATM Robbery In Prattville",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXI3U1k3M1RwYlNPQkxiaU05b25tWHlpWUpMZ0wxSHVKRldwazhNdHM3djBfdllaVnRLd0tZc1ZRMVo3WXJJZGRXSXhrd0tzcnRiTWRXTll2d2Q3dFItRHZyZEFOLWc5RlVnSjVOQzNDWm4zOTQzVTM0dmFUaTJiSGV6VVhVYXIyZUJTcnRzd1ZHQWlvQmZCT2otNmpTVlVMTE5XZm53?oc=5",
+      "date": "Dec 23, 2024",
       "source": "elmoreautauganews.com"
     },
     {
@@ -48,10 +48,10 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Bracket Set for 2024 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLURrNmlVa0ZNVDRxdTQ2dUEwbEdWSl9nQjIybEk3TDhMeUJCUjJuXzVqRGJ1WUJncW5xeHJ2cVgxSWxjSjJfdmVTaVY4VDJ6aGdtSFhXdHlZN0QyUkhPWklFT0NfcHpKaXZVZ25kSVluM0lTSGk0RF9CWU05cEt0MXBUd1kxSjZkQzZXbHplRlRZZFJFbzhCSkMtZUw2X0VJbUF6X1pqWU1KVHhNcnJrLUYwcE5SVC11cTVOR05JenBSenI0Z3k0QmdYYzBpblFoekJiNWV5cVBYdTM5TnZxZDJkaE85VDRRUXluY0tvM0s?oc=5",
-      "date": "May 18, 2024",
-      "source": "Sun Belt Conference"
+      "headline": "Sorrell 360 programs provides financial literacy program to more than 20 students in inaugural Guardian Credit Union 360 Finance cohort",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mZW15NFdYclI4dmJTWlI0ZVo4d2FCbXB6QzN0TC1GanEtc29XV3lra0otY1d6WFpHNUNVVWJNeVVZRzNYYnhSdDZ2TVBvckFrZlpwTTYyZnc2S3JD?oc=5",
+      "date": "Nov 27, 2024",
+      "source": "Troy University"
     },
     {
       "inst": "marcus",
@@ -68,19 +68,9 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Citizens Bank Is Closing These 6 Branches in 2026: Is Yours One?",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xVzdRazI5OXlGNVZWSDFPR1VjaU9rYzg1bjFfWE4tTlRLeVc3U01TLWUzMTZJLVFOYU14RG1Kd1JhU0V5NEw4WXcxY29hdm0wNGpVYUh5OHBCQ2ktcV9sWmhyYXpuZUstU0E?oc=5",
-      "date": "Aug 6, 2026",
-      "source": "FinanceBuzz"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "These Bank of America Branches Are Closing in 2026: Is Yours One?",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNmpWeG5ZYUhwZS14Q28tb0NuamI2Z1pHdVdkcFNJOEIyTzRHMmk5bTUxd3Itcm15N204b0RfLU9HR2w0dVBmV0g0T0g2dmQ3cC1SVS1ncktabkF5Y0tUUzRId3Exdm5PeXFuQg?oc=5",
-      "date": "Aug 5, 2026",
+      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
+      "date": "Aug 7, 2026",
       "source": "FinanceBuzz"
     },
     {
@@ -92,6 +82,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlBhcHN4cXpBX2l0RDc5Y0trTzZwOEZGdVhoTzFZNERkUlRvbHh2Y1BHcTNyS2ljbXJRNjFuSzdlT1U1V3JuZHJMVGhyM1UwTDVJQmhRUElzRzd1cEVKX2xkX05obl9wRlpMX2JHVmlYSmNMVWVMQ2gwRmdtalJDUDNxZ0t4T25CWGY2YzNvV2dXWHRsN2hneUd6SFY0V0R4?oc=5",
       "date": "Aug 4, 2026",
       "source": "Fast Company"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Huntington Bank to close 13 Michigan branches by the end of August -- see full list here",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmdCNFB0cExRdzdoTUFmd29SUnljU19tQXNjcGtKZnFDV1QwZFFzN2N4N2FDSlkxR0hPaWdrQk9iQnZTZTVJWHo4RmhJTVlXblVaRExndHoxTjU4T2NrR08wcnlVR19jT2VDVFFpSWEyVGVwTEg1UGFxY2hnS1FPdC1jN25ZMU9wUmlWWVdzSVdieW9ZS0dOVHhHX2JLZERfajFmZWZaTDZMYURXSlRIaWVJT25Gd2lRb0NfUVh0U2s5SjYwREx6b1J4OXo3Q3ZxalMzTVln?oc=5",
+      "date": "Jul 18, 2026",
+      "source": "ClickOnDetroit | WDIV Local 4"
     }
   ]
 }
