@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T09:58:17.889Z",
+  "updatedAt": "2026-08-14T09:54:41.290Z",
   "categories": [
     {
       "id": "closures",
@@ -48,10 +48,20 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Sorrell 360 programs provides financial literacy program to more than 20 students in inaugural Guardian Credit Union 360 Finance cohort",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mZW15NFdYclI4dmJTWlI0ZVo4d2FCbXB6QzN0TC1GanEtc29XV3lra0otY1d6WFpHNUNVVWJNeVVZRzNYYnhSdDZ2TVBvckFrZlpwTTYyZnc2S3JD?oc=5",
-      "date": "Nov 27, 2024",
-      "source": "Troy University"
+      "headline": "Bracket Set for 2024 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLURrNmlVa0ZNVDRxdTQ2dUEwbEdWSl9nQjIybEk3TDhMeUJCUjJuXzVqRGJ1WUJncW5xeHJ2cVgxSWxjSjJfdmVTaVY4VDJ6aGdtSFhXdHlZN0QyUkhPWklFT0NfcHpKaXZVZ25kSVluM0lTSGk0RF9CWU05cEt0MXBUd1kxSjZkQzZXbHplRlRZZFJFbzhCSkMtZUw2X0VJbUF6X1pqWU1KVHhNcnJrLUYwcE5SVC11cTVOR05JenBSenI0Z3k0QmdYYzBpblFoekJiNWV5cVBYdTM5TnZxZDJkaE85VDRRUXluY0tvM0s?oc=5",
+      "date": "May 18, 2024",
+      "source": "Sun Belt Conference"
+    },
+    {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
+      "headline": "Navy Federal Credit Union branch in Columbus temporarily closes after positive COVID-19 case",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjBUM0FWcl9RWDVJMWxubVZhQUpCNmw3X0QwNFlTTzNYRWJadlFOcWI3VC12LTV0NWdleWZIc3hhVU1jMkdPdzhhd2tLTlFyMmppS29DVXlQWmV6a0JuXzlGalo1NTBZSTVoTGxBdkk0SUZQYktJQ0RMNFZMTS1SVEVZejBfTi1EVFlNWTRiWjRIelFDR0F5MGtMRnhiUWI3SUExY0VlQ2lQYmgzdEluYlh0VWxCbDdMcVFN0gHPAUFVX3lxTE9nT1VTR2tIczhhbmNkclBHT293SW40MGtHNjAxaVRQMnR3WDFQWXZ3SkxWcDNfMFFBTWozdVlVUV9kRGpqbFVPY3YycEx5SlFneGJTYU11ZVRZcUQ5RmM1UEVzZTdtQlVNcFRDMXJHLV9IczVab29mYVZGWUx0RFFzbFo4VUJ0X25jdVdaVGtBNWlGTDlSZElMQzE2dEdJVTBRTmpkb2xzcFdwTzI3U3FHTHNzcmVZOXhnN1YxZFFNdk5ON3RhT0dvQXhrTlQ0MA?oc=5",
+      "date": "Aug 31, 2020",
+      "source": "WTVM.com"
     },
     {
       "inst": "marcus",
