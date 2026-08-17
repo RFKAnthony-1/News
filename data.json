@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:21:43.796Z",
+  "updatedAt": "2026-08-17T09:35:11.610Z",
   "categories": [
     {
       "id": "closures",
@@ -51,7 +51,7 @@
       "headline": "Bracket Set for 2023 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMlJQcnppR0FIam02U0RIa2lkNzREVjVheXdqeGtLS3VBdHFNQnUwdm5FalhHYXE3X2lJRGVyN0RqdWZuYVFlSEI0WVBtSUo0LTlXSm9CN1pDSDVuM2x4S0hrQVFzZlB4eDZqWlpsZ3JWbURWb2ExbDlNTmZtVnBmZjRwa1VqNEJFS1U1aUNtcDJGTlhkWUszZEZ0UXEwNmxDSkF6NURMT0kxNDZYeVZpNTRYZ0lNOGJrcnBKMFZidDN3dWtMTDN1b3lFcGxmbm9nVklGVVFVZU5uZGZsSjVCNzN2WGk5SUVLYlBoQlFTSWU?oc=5",
       "date": "May 20, 2023",
-      "source": "sunbeltsports.org"
+      "source": "Sun Belt Conference"
     },
     {
       "inst": "marcus",
@@ -69,9 +69,19 @@
       "color": "c-gray",
       "category": "closures",
       "headline": "TD Bank Has Closed Dozens of Branches in 2026",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbzMtRkdYNTdYU3JMeDdoQlU3dVJUekxSb05lVmZmSk5wbVNmTnU3LXdHc1pTbzBpMGI3ODVJYjFOM0UybDYyS2wyX3J3OHIyQjM1Y1gxUXplVU1CTVdQdzZLUE10aUZDVjlkTnAtYWx4eEpzdzkwQW1DZ0V3N28?oc=5",
+      "date": "Aug 15, 2026",
+      "source": "AOL.com"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
       "date": "Aug 7, 2026",
-      "source": "financebuzz.com"
+      "source": "FinanceBuzz"
     },
     {
       "inst": "industry",
@@ -82,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlBhcHN4cXpBX2l0RDc5Y0trTzZwOEZGdVhoTzFZNERkUlRvbHh2Y1BHcTNyS2ljbXJRNjFuSzdlT1U1V3JuZHJMVGhyM1UwTDVJQmhRUElzRzd1cEVKX2xkX05obl9wRlpMX2JHVmlYSmNMVWVMQ2gwRmdtalJDUDNxZ0t4T25CWGY2YzNvV2dXWHRsN2hneUd6SFY0V0R4?oc=5",
       "date": "Aug 4, 2026",
       "source": "Fast Company"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank to close 13 Michigan branches by the end of August -- see full list here",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORmdCNFB0cExRdzdoTUFmd29SUnljU19tQXNjcGtKZnFDV1QwZFFzN2N4N2FDSlkxR0hPaWdrQk9iQnZTZTVJWHo4RmhJTVlXblVaRExndHoxTjU4T2NrR08wcnlVR19jT2VDVFFpSWEyVGVwTEg1UGFxY2hnS1FPdC1jN25ZMU9wUmlWWVdzSVdieW9ZS0dOVHhHX2JLZERfajFmZWZaTDZMYURXSlRIaWVJT25Gd2lRb0NfUVh0U2s5SjYwREx6b1J4OXo3Q3ZxalMzTVln?oc=5",
-      "date": "Jul 18, 2026",
-      "source": "ClickOnDetroit | WDIV Local 4"
     }
   ]
 }
