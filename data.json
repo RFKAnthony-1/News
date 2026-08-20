@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T09:27:24.953Z",
+  "updatedAt": "2026-08-20T09:27:25.829Z",
   "categories": [
     {
       "id": "closures",
@@ -51,7 +51,7 @@
       "headline": "Guardian Credit Union expanding to Prattville",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
       "date": "Feb 24, 2023",
-      "source": "1819news.com"
+      "source": "1819 News"
     },
     {
       "inst": "marcus",
@@ -78,20 +78,20 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Chase Bank is closing another wave of branches this summer: See a list of shuttered locations in several states",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlBhcHN4cXpBX2l0RDc5Y0trTzZwOEZGdVhoTzFZNERkUlRvbHh2Y1BHcTNyS2ljbXJRNjFuSzdlT1U1V3JuZHJMVGhyM1UwTDVJQmhRUElzRzd1cEVKX2xkX05obl9wRlpMX2JHVmlYSmNMVWVMQ2gwRmdtalJDUDNxZ0t4T25CWGY2YzNvV2dXWHRsN2hneUd6SFY0V0R4?oc=5",
-      "date": "Aug 4, 2026",
-      "source": "Fast Company"
+      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbzMtRkdYNTdYU3JMeDdoQlU3dVJUekxSb05lVmZmSk5wbVNmTnU3LXdHc1pTbzBpMGI3ODVJYjFOM0UybDYyS2wyX3J3OHIyQjM1Y1gxUXplVU1CTVdQdzZLUE10aUZDVjlkTnAtYWx4eEpzdzkwQW1DZ0V3N28?oc=5",
+      "date": "Aug 7, 2026",
+      "source": "AOL.com"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Huntington Bank to close 13 branches in Illinois. See the list",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXNDLVpJRTh3WmszbHJneWZMUGlOXzBZampIM0tVNTJ3OXVyZmhCcE5PRnpuUU05NWV4NkZQeU15Y3l5bkF0UUxUUDdyY0VfUDJUTXRiNHp1eVhyRGh1SG5ETzlEWWtCSjY1bmVBXzkzTkpmRTZ3Rnk4WnEteWNPTmJ5d0tjWS05ZDBQSVRzUjVaTE4ybm5QX3lhQXhuLUluNWZaOTFFOERKSWFPZTNNcTczcEN4cmVNam04alJsNXE?oc=5",
-      "date": "Jul 15, 2026",
-      "source": "Peoria Journal Star"
+      "headline": "Chase Bank is closing another wave of branches this summer: See a list of shuttered locations in several states",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlBhcHN4cXpBX2l0RDc5Y0trTzZwOEZGdVhoTzFZNERkUlRvbHh2Y1BHcTNyS2ljbXJRNjFuSzdlT1U1V3JuZHJMVGhyM1UwTDVJQmhRUElzRzd1cEVKX2xkX05obl9wRlpMX2JHVmlYSmNMVWVMQ2gwRmdtalJDUDNxZ0t4T25CWGY2YzNvV2dXWHRsN2hneUd6SFY0V0R4?oc=5",
+      "date": "Aug 4, 2026",
+      "source": "Fast Company"
     }
   ]
 }
