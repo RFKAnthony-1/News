@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T09:21:41.848Z",
+  "updatedAt": "2026-08-24T09:40:27.578Z",
   "categories": [
     {
       "id": "closures",
@@ -28,6 +28,16 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
+      "headline": "Guardian Credit Union coming to the Town of Pine Level",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
+      "date": "Jun 19, 2025",
+      "source": "WAKA 8"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
       "headline": "Guardian Credit Union expanding to Prattville",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
       "date": "Feb 24, 2023",
@@ -41,16 +51,6 @@
       "headline": "Montgomery-based Guardian Credit Union building HQ in Prattville",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGw2YTlYRnAweGVjbjIyOF84N0F0YUhtcTMxU2hGbjVzTFBRcmtiLUtGN2RuVTRzdHVHSDdGTzhFRER0YlFvRWlBV1JzaDhKRXFOeFlndFE3LW1VNTVaUW15VTZtNEVqRm84M2sxd2NsRzZyTF9zQmxGLTZWNWRJZjJsNk03cUVZTENwNHE0Y2hxMENyQW5qMll30gGuAUFVX3lxTE5hQWhXNm9qQUpUVUV1WHh3NXRpUWFMc1FKTlNhWW9tS0dBRVhmdFpYSTRodTUzSVlGVEtWOUhkOHlnNUJOeGVaamVjeFlhaFdsU3BQM3FyZHJJZWlXa18xN0JzQjJFd0E1a2pzQVZzd3ZpcE5jYVkyX3k0MXVSdE1GYWdiZ19Ba0NjWHB5Z1prNjRLOG50SUdmb3VPWF93QUFFYVlYWnNrNWZKX05FQQ?oc=5",
       "date": "Feb 23, 2023",
-      "source": "WSFA"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Guardian Credit Union named 2022 Best Companies To Work for in Alabama",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWx1T0J1YnFqZHBCUUhEdTZrSUw3V3BpZVJ4TXVrQkZpb2lCYW43OTdmTExGdW85S0JNZVdMNjhGZzQtc2E5WEtVX0VDbm1lWkJKVXg4WVlYdmRFTk9jQ3ZHbU5aQ1ZHUHN0eF9zWDdaa09YZmtUSHNCU1ZuV2dlOGw5eDRsbW80YTVvZmE5MmxySlRlSXFDONIBrAFBVV95cUxPakhsazhYdFRGTWg2TkRTalZLVm9qc1lnWE1YT2lIVW5qeEVGcHJ4QnF0dGNraWdnT0xkbW85c1R0OFgxeGJZUHV2dlNNQjdDRFFBT1dyNUNqVWpjc0c2Nm9MMUhNcENQY21iOWl6NXFvRFZnZHhQcm0xdDlLTkdXemFuUXBKNEJzMzJUUUFLd2RCNEI2RWc2OWEyV3NWTGRXWllpVUxUX0EtODZp?oc=5",
-      "date": "Dec 22, 2022",
       "source": "WSFA"
     },
     {
@@ -68,30 +68,30 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Bank holiday today: Are banks open or closed on August 22? Check state-wise details",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbThuQXBTLTZPZVJTUUNQV2gxT05UNHc4YTlGU3RvSzBOWFR3UUQwS2sxTUxGQ20tQlpxS1NwMGo0VGwzYXpCbVc5M0FGalpGLWJVZThEZGdhSV9XVDAyb0lrVWhkZmhKUFI1MjNVUlpKSDdGVGZFeUdXMnA1UkJHdFR2ZEwxT3I3TnU2c0dlNk1Hd1NseGwySjhFVmUxNVFDZlBrN1VqU09kd1BTVDNfaWwwM2wxWkh3ekF2ZWZHN0JGYVRJeDZOWkhndzl6eExtRHJlNWlKOFJ6V3hjMERScXZKWTNEUWxldVJUT0ZTdXR6cFc0S1oxUXg5RdIBgAJBVV95cUxOSG1yUUI5UmhaVlVVN2NhaTczRUxiU2w2MFR5LU5fTmNyR2Y2NUxsTWxwRFFrTTZoREtUN0hEaFF2SDJEODVEU1ZQTmlGbjlGNXg5Z1BHTUhPTnNMSjE2cnhsaFRFeFp3LUVCUDFLUnNqbi03LUZZc3BFWmRsdVhQRHhTOTlMYUNkMk1qSGpnQVBkaDNpX28xdGtsTDg5YUVHYVRLQmpCS2xYenZHWVljTnpERkZTTHhQY284MjhOTDVnaGIxTkhlbEswRVJka3NpQ1o3aWViOTFEQzdWYmZZWjU4RW1pR1d4M0Z0ZGl3VlpJaUJkSUtfQWI2UXJRSEVF?oc=5",
-      "date": "Aug 22, 2026",
-      "source": "The Times of India"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rbzMtRkdYNTdYU3JMeDdoQlU3dVJUekxSb05lVmZmSk5wbVNmTnU3LXdHc1pTbzBpMGI3ODVJYjFOM0UybDYyS2wyX3J3OHIyQjM1Y1gxUXplVU1CTVdQdzZLUE10aUZDVjlkTnAtYWx4eEpzdzkwQW1DZ0V3N28?oc=5",
-      "date": "Aug 8, 2026",
-      "source": "AOL.com"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
       "headline": "Citizens Bank Is Closing These 6 Branches in 2026: Is Yours One?",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xVzdRazI5OXlGNVZWSDFPR1VjaU9rYzg1bjFfWE4tTlRLeVc3U01TLWUzMTZJLVFOYU14RG1Kd1JhU0V5NEw4WXcxY29hdm0wNGpVYUh5OHBCQ2ktcV9sWmhyYXpuZUstU0E?oc=5",
       "date": "Aug 6, 2026",
       "source": "FinanceBuzz"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Chase Bank is closing another wave of branches this summer: See a list of shuttered locations in several states",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlBhcHN4cXpBX2l0RDc5Y0trTzZwOEZGdVhoTzFZNERkUlRvbHh2Y1BHcTNyS2ljbXJRNjFuSzdlT1U1V3JuZHJMVGhyM1UwTDVJQmhRUElzRzd1cEVKX2xkX05obl9wRlpMX2JHVmlYSmNMVWVMQ2gwRmdtalJDUDNxZ0t4T25CWGY2YzNvV2dXWHRsN2hneUd6SFY0V0R4?oc=5",
+      "date": "Aug 4, 2026",
+      "source": "Fast Company"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Huntington Bank to close 13 branches in Illinois. See the list",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXNDLVpJRTh3WmszbHJneWZMUGlOXzBZampIM0tVNTJ3OXVyZmhCcE5PRnpuUU05NWV4NkZQeU15Y3l5bkF0UUxUUDdyY0VfUDJUTXRiNHp1eVhyRGh1SG5ETzlEWWtCSjY1bmVBXzkzTkpmRTZ3Rnk4WnEteWNPTmJ5d0tjWS05ZDBQSVRzUjVaTE4ybm5QX3lhQXhuLUluNWZaOTFFOERKSWFPZTNNcTczcEN4cmVNam04alJsNXE?oc=5",
+      "date": "Jul 15, 2026",
+      "source": "Peoria Journal Star"
     }
   ]
 }
