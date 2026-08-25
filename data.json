@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T09:40:27.578Z",
+  "updatedAt": "2026-08-25T09:29:24.010Z",
   "categories": [
     {
       "id": "closures",
@@ -38,20 +38,30 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Guardian Credit Union expanding to Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
-      "date": "Feb 24, 2023",
-      "source": "1819 News"
+      "headline": "Guardian Credit Union announces ‘Letters to Santa: A Holiday Giveback’ campaign",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVJLUnd3MWZiRzVBWFlRbVlOakxsV3RaSjVhTjZETnF6emxiR2hpbjMtVTZrdmdnVjVNRXpHczEtUGY5aGZTSXd4TWR6eGpvVk1IVFA3ZUltb3RhVFdRWWVvOUliRHREZ3JhTHBrMzRCRjlRQnpjb29ySFFuSEJWSS1MWE9BalM3SXd6R3U3dFJYSUxTdnVmdkJLY3RUSHhZWDFONV9PRQ?oc=5",
+      "date": "Nov 27, 2023",
+      "source": "WSFA"
     },
     {
       "inst": "guardian",
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Montgomery-based Guardian Credit Union building HQ in Prattville",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGw2YTlYRnAweGVjbjIyOF84N0F0YUhtcTMxU2hGbjVzTFBRcmtiLUtGN2RuVTRzdHVHSDdGTzhFRER0YlFvRWlBV1JzaDhKRXFOeFlndFE3LW1VNTVaUW15VTZtNEVqRm84M2sxd2NsRzZyTF9zQmxGLTZWNWRJZjJsNk03cUVZTENwNHE0Y2hxMENyQW5qMll30gGuAUFVX3lxTE5hQWhXNm9qQUpUVUV1WHh3NXRpUWFMc1FKTlNhWW9tS0dBRVhmdFpYSTRodTUzSVlGVEtWOUhkOHlnNUJOeGVaamVjeFlhaFdsU3BQM3FyZHJJZWlXa18xN0JzQjJFd0E1a2pzQVZzd3ZpcE5jYVkyX3k0MXVSdE1GYWdiZ19Ba0NjWHB5Z1prNjRLOG50SUdmb3VPWF93QUFFYVlYWnNrNWZKX05FQQ?oc=5",
-      "date": "Feb 23, 2023",
-      "source": "WSFA"
+      "headline": "Guardian Credit Union expanding to Prattville",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
+      "date": "Feb 24, 2023",
+      "source": "1819 News"
+    },
+    {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
+      "headline": "Navy Federal Credit Union Celebrates the Grand Opening of New Apple Valley Branch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2labTBHUndtOF9nVDZ6MUVuMUFVZk1udUNmczNpYjNVUkVvZENPX2NuOHIyTkZtb0pmSFhCSFpMTEkzYmFNTXN4a3kwMVNlOFI3STVNM0dvTTZJeFhKRXlheWxfTldVV2I2U0lUUGtDdWdxd3Y3YkxXS3dsZVBOVmI1YURpa0U4MXMyNktpQ1VVWjY2OWhfOEZkLW4tcW1tdjFOVG53?oc=5",
+      "date": "Aug 24, 2025",
+      "source": "VVNG"
     },
     {
       "inst": "marcus",
@@ -68,30 +78,30 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Citizens Bank Is Closing These 6 Branches in 2026: Is Yours One?",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xVzdRazI5OXlGNVZWSDFPR1VjaU9rYzg1bjFfWE4tTlRLeVc3U01TLWUzMTZJLVFOYU14RG1Kd1JhU0V5NEw4WXcxY29hdm0wNGpVYUh5OHBCQ2ktcV9sWmhyYXpuZUstU0E?oc=5",
-      "date": "Aug 6, 2026",
+      "headline": "Eid-e-Milad 2026: Are Schools, Colleges, Banks Closed In Your State? Check Details",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekF4bUx3SDY4bjNONG5mbHZWSnFsU0U1UGVuR3hjbjB6WEJBMENmMHNKUHIxSElDR2RUNFNSU1l0bkJ5clk4aENQNEhoNzFQeWo1SHZXNGNDdUxWNXZ6VkpkRGRQN0llMFBPT2hSbU9LVF96RVA0XzQ3Vm1GV3RCclpVN2cyZF94QWJPVkwxRTl6dmo3WWJaQkRfMGp4ZkZnQ0VtTjlxUHpncWt0Rmx4MTVEdUFTaHIxc1FPd9IBxAFBVV95cUxNaDJ6bXU2WEhYV0VyaWc2RU96Q0VvRFQ3Z2h2QVNZUE52TEp5Z0wwRkMtRFhscC1vWWVsYlFUWEJuZTVSdkJGWTVhLWJOX25Mem9kQjJPY25aeml4ekJlZHVuTl9xQXVOai1GeXJZUG10UnNjTjVSeV9wRHFJdUlwZ3loNWRVNWZIdlZaS0pSN2Z3dFN1d3Bkdk1PTVZvRVd5YVpJN3pwcVZtcUJNWkIzU2pfQV9PS1NiM1dtOEVkN0ZYWXM5?oc=5",
+      "date": "Aug 25, 2026",
+      "source": "NDTV Profit"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Bank holiday today, August 25: Are SBI, HDFC Bank, and other banks closed for first Onam, and Milad-i-Sherif?",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ3pHMFdHODJyTVNCZzFDZ1RYMjdOZ3dmOXJkUFByclpoSmNWNHZTOHMtZXBpWjVCSDBScEJJYWsyOEZiYjluQU1EcnIyNVA0YnREdkdKeEVKSTNnaVdKQ25KUko1b3FxcFM1Wk5WeXBLMThrclBzSllmR2NMM2N6M0UyNlRmLWdJbnJNZjhYVlUwTjVubGMyWVNiVWl4RGV6cWNNQkJsbVFqSGVib0N0aU5qRFEzbkdEUUJKZ0tMa3lLb2xHMzU0eThoV2JaeGdzV0hrWC15T1NTdV9mMUZqN0dqTFBFQUdzX0Q4d3BWX3JoUEExMS1tT1V0UHpvQdIBgwJBVV95cUxPcjA1TU1uSEZISmNyYTdzbGhnbVpVVUIwaWU1M0o4TkR3dkZpNWlXaVhIa0o0eDRRekJiYXhJRGFhSmd0YWpZUUVLbGp5OEhTLXF2c3hSVUc1LXZ5UGJxOU9KaWVfM0JucHQtTHA2UTFQRHFxZE85U1cxcmFwZkQtRTdJX2dSVTZ4dWRkSnV2ODdmOHVoLUNaUVgwSGhYNXdVUnlyQksxRHV4cVYzcVdHaVF0SUQteTMzQUVPdldCeFZSZFhDUC13QWFWM3JVTkhqeFhYLVdFanRKaVJoX29RZ29zZjhQUExmY21zVGhGb0k0ZF91WlNIZkJ3emtfcjE2R0dR?oc=5",
+      "date": "Aug 24, 2026",
+      "source": "Livemint"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "These Bank of America Branches Are Closing in 2026: Is Yours One?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNmpWeG5ZYUhwZS14Q28tb0NuamI2Z1pHdVdkcFNJOEIyTzRHMmk5bTUxd3Itcm15N204b0RfLU9HR2w0dVBmV0g0T0g2dmQ3cC1SVS1ncktabkF5Y0tUUzRId3Exdm5PeXFuQg?oc=5",
+      "date": "Aug 21, 2026",
       "source": "FinanceBuzz"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Chase Bank is closing another wave of branches this summer: See a list of shuttered locations in several states",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlBhcHN4cXpBX2l0RDc5Y0trTzZwOEZGdVhoTzFZNERkUlRvbHh2Y1BHcTNyS2ljbXJRNjFuSzdlT1U1V3JuZHJMVGhyM1UwTDVJQmhRUElzRzd1cEVKX2xkX05obl9wRlpMX2JHVmlYSmNMVWVMQ2gwRmdtalJDUDNxZ0t4T25CWGY2YzNvV2dXWHRsN2hneUd6SFY0V0R4?oc=5",
-      "date": "Aug 4, 2026",
-      "source": "Fast Company"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Huntington Bank to close 13 branches in Illinois. See the list",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXNDLVpJRTh3WmszbHJneWZMUGlOXzBZampIM0tVNTJ3OXVyZmhCcE5PRnpuUU05NWV4NkZQeU15Y3l5bkF0UUxUUDdyY0VfUDJUTXRiNHp1eVhyRGh1SG5ETzlEWWtCSjY1bmVBXzkzTkpmRTZ3Rnk4WnEteWNPTmJ5d0tjWS05ZDBQSVRzUjVaTE4ybm5QX3lhQXhuLUluNWZaOTFFOERKSWFPZTNNcTczcEN4cmVNam04alJsNXE?oc=5",
-      "date": "Jul 15, 2026",
-      "source": "Peoria Journal Star"
     }
   ]
 }
