@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T14:07:16.651Z",
+  "updatedAt": "2026-08-30T14:14:11.317Z",
   "categories": [
     {
       "id": "closures",
@@ -22,76 +22,5 @@
       "live": false
     }
   ],
-  "stories": [
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Guardian Credit Union Great Grits Cook-Off Returns For Its 13th Year",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYmpGSERDN21mdGVwamc2MTZETE1RMFNjWlNYMDFBV3NqOVJZWU82MGhPZzdwbFF1SC0wZnVFLWI5NHdmV3hBZVcxTDNNZUs4VXRlVlNtWm9kUXpjSmh4S3dhRWVLc2FlY2pvYTdYNDJ6UnNRMnZFc1p4MXdvSExFTzlkVy1xX2I3SUp1OERCWGx0NjBlRlR3X3k1NFVnUnphazB5YzJ4MzQ3amxZUXJ0VVBNdld3ampMNTBrV0RfSnV1UzRVNG9OSEFBSnZBUnNoT1lqQU1tOUtJU1ZDNFBES3RWVWxSQ1BhcUhieHpmN3Nnanc?oc=5",
-      "date": "Aug 27, 2026",
-      "source": "Montgomery Independent"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Guardian Credit Union and Robert Trent Jones Golf Trail to Continue Partnership with Epson Tour through 2026",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMUV5cnJLWkJENTdXS2lUeGhwVWhyaDM4WE5BWkdLeGNlSzNQc1RGSXpVRkkxNlN1c2gyZG0xYXBhSXpGbzNabG1Kc0J3WmltQzk3aWhRTmFtbkxhdVVxcU9LRGNvWjZ5TzFMV0dRODRRYmwwWjZXc3FFb1BzYi1jX1ZnYmRDcE9jNU9aQVdWWUpLRkdjM2dGQ1A4dEZnQ1h5d2x1bmZFcDJKcnQxSzZjUFc1QkdYODM2RllhNDZzYUpYYnctN0VpUld6SQ?oc=5",
-      "date": "Sep 15, 2023",
-      "source": "Epson Tour"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Guardian Credit Union expanding to Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
-      "date": "Feb 24, 2023",
-      "source": "1819 News"
-    },
-    {
-      "inst": "marcus",
-      "instLabel": "Marcus by Goldman Sachs",
-      "color": "c-coral",
-      "category": "closures",
-      "headline": "Goldman Sachs closes Marcus account to new UK savers",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
-      "date": "Jun 10, 2020",
-      "source": "The Guardian"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
-      "date": "Aug 25, 2026",
-      "source": "FinanceBuzz"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Fifth bank fails in 2026 as drip of small-bank closures continues",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcU5RNlNnYUlOSmwyemxmWlFzNTJmNXYwcktYNC1sUDBMNjdKZ2xTNmJFcVRDZHY4T3VNdkZ3eXFaX0tJYmZETThIdjJHV0kxd21EaGVjbG9CYlJSdWNwdUxuR3JTOGVyQ0owSlVCYmxFTzJUVnpYMmVqMDU0MHBOLU5HNWNqZ0pFSWs3bzFuQ0VoRnc3dDBXTW81cUQzcENzWldN?oc=5",
-      "date": "Aug 21, 2026",
-      "source": "American Banker"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Chase Bank is closing another wave of branches this summer: See a list of shuttered locations in several states",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYlBhcHN4cXpBX2l0RDc5Y0trTzZwOEZGdVhoTzFZNERkUlRvbHh2Y1BHcTNyS2ljbXJRNjFuSzdlT1U1V3JuZHJMVGhyM1UwTDVJQmhRUElzRzd1cEVKX2xkX05obl9wRlpMX2JHVmlYSmNMVWVMQ2gwRmdtalJDUDNxZ0t4T25CWGY2YzNvV2dXWHRsN2hneUd6SFY0V0R4?oc=5",
-      "date": "Aug 4, 2026",
-      "source": "Fast Company"
-    }
-  ]
+  "stories": []
 }
