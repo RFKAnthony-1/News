@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T13:51:56.088Z",
+  "updatedAt": "2026-09-02T13:09:44.853Z",
   "categories": [
     {
       "id": "closures",
@@ -41,7 +41,7 @@
       "headline": "Sorrell 360 programs provides financial literacy program to more than 20 students in inaugural Guardian Credit Union 360 Finance cohort",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mZW15NFdYclI4dmJTWlI0ZVo4d2FCbXB6QzN0TC1GanEtc29XV3lra0otY1d6WFpHNUNVVWJNeVVZRzNYYnhSdDZ2TVBvckFrZlpwTTYyZnc2S3JD?oc=5",
       "date": "Nov 27, 2024",
-      "source": "today.troy.edu"
+      "source": "Troy University"
     },
     {
       "inst": "guardian",
@@ -52,6 +52,16 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLURrNmlVa0ZNVDRxdTQ2dUEwbEdWSl9nQjIybEk3TDhMeUJCUjJuXzVqRGJ1WUJncW5xeHJ2cVgxSWxjSjJfdmVTaVY4VDJ6aGdtSFhXdHlZN0QyUkhPWklFT0NfcHpKaXZVZ25kSVluM0lTSGk0RF9CWU05cEt0MXBUd1kxSjZkQzZXbHplRlRZZFJFbzhCSkMtZUw2X0VJbUF6X1pqWU1KVHhNcnJrLUYwcE5SVC11cTVOR05JenBSenI0Z3k0QmdYYzBpblFoekJiNWV5cVBYdTM5TnZxZDJkaE85VDRRUXluY0tvM0s?oc=5",
       "date": "May 18, 2024",
       "source": "Sun Belt Conference"
+    },
+    {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
+      "headline": "Navy Federal Credit Union continues branch expansion as banks scale back",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEZHekNZSkdmelBXM0ZpOVBGYWk0TU1ReTFUMk9NOXJTTmlZYmxzeWY2UFV4MGxld2g5YW5tczI4SnQteHJIenpJX1k1U1ltZzZiU2otRkFsNVVaSVpmWUVxdXYyQzR6TThKM00zalhiamNaNmRoLXRZRW1CV3hBLUFUTmZWMGxMVkJXLTRTRDdyUQ?oc=5",
+      "date": "Feb 3, 2021",
+      "source": "Banking Dive"
     },
     {
       "inst": "marcus",
@@ -68,30 +78,30 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "Full list of 14 Halifax bank branches set to close for good this month",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaVNEanQtR2xzYjE0NTVQclFPaGhXUFNCR3BhWkRQb2pyZWZhTC1aZ2VnVWYzaUNSaFZfd085c0xtMUVOQVNpTFRMVGphTlZXc1lvNS05bmxDYU9FSVVrTWRobEpQSDhJVjlGNmVDeU5pR1duNTJDNy1Tald3MlFXLTNHZFlGMDVqQW9XSW5PNDI2Rklmc0ZHcVlXTGFrTGxIM0UtNjRnWnZXNTd1YlVoUjZJSmc?oc=5",
+      "date": "Sep 2, 2026",
+      "source": "The National Scot"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Janmashtami 2026 Bank Holiday: Will banks be closed on September 4? Check state-wise list before visiting bra",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdGkxOTctcWZXUUlPN0dGb052M0NYSGwwa3VRNDVKTkpWNkZBVTJvYUxVRi1JS1JzQ3p2LTBIZWpGSmY5Q2VUS2xkMTk4TzVkaHRxbUhmeWtNcWNzZlhZNXJxODVmZHFpaE1KTHZCcDI5S04zdzNxSy1iM3Z6Sld3MDNKRXVkSmxCSjRhbmx2bDdnOTJfV3hxeC1PajVpdzRoaTBIYjdpT25RaDBoV0dtNmpUaUxCWHZtM3M4d2hJM3c1dzdseHlPUU5McmRlWl85cC14RVBLWS1tQ0JMc3BYalUxeUrSAeoBQVVfeXFMT2lNeTNHbEVmN0s5VTIxUFpoTTNHTjVMUlVyQWd6LXBOSVJXTE9jVGI2ZXZLLXBSeDQycENGUXJMX0hFbWc5aUJoWUtIMmYwMDhiYXQ4NjNZU3NXT0hSSm1BRm9SWl9JV1E0SjlwWkZTeWRFY3R5TW1ydnVrY0t0d0F4cHJybkQ0ZXkxb0pfZDF3eDRfY0JvUFd0b2VxdFMzU0NPbVpoN1U1UGtDdXFHQkdMdW94amI2amllbHA2SGhuUG9NazdHV3JqeWRKRkE5bzhBMUpuM2RyeXIwc01jRGxTMWs1UXYtSnpB?oc=5",
+      "date": "Sep 2, 2026",
+      "source": "India.com"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "Bank Holidays September 2026: Full list of festivals & closures",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUkRSTmx3UVJOZlJkS2h2OEZ6bmhEazdtS3RabllYcjdXN2J6RFNfSWdXV3lTOUM0Qm51NEN4UHV2MVYzZG81RC00MU82UFMtZk94aGp6amJzT2tvbzRicERONVRXeDY2QlZycEdlRklUNlNlUnZBWGtHSnk3QTBKTkdzeVNuamdmYXFoc3N6SllxWkI3YlBRb0x3cXNBT1NHZHVhVlFiTHNDREh5c0w0N3dTUHl0VklfMk83cDJtQjJyWWZfcVFxRlhpYUhOUkFUaDVCWmVOV3kyLTh3RVM4d09xWnZ3d9IB7AFBVV95cUxQR24xUjZVVkF4UG4yT2xQZFVGSGpyenEzWXZ3NVN5VDJQTzhiLUswd25iQldpWC1wa0NaWXRlQUJPM0Uxc0VzSHc0N1d0WkFQYnkzOUFtcFBCdndNaGk1eWQtZjhZNEg3dWlnMGlvekg1NEdsZjNQc2RuRmNDUUJrUHUwX0lfWHJHTlpJeFRTc2tJcmd0cUI1Z1p5RXo2ZU9CVTBGX2o3cklRNUgwZzdxbk9qNVdQaHVFRW1VYXNiNWwyejZTem1NT3VkS1J1QjJ6eUQ3RHJ4YUJ3TFNLekVNVVoxZlNtZHpLM1gtVQ?oc=5",
       "date": "Sep 1, 2026",
       "source": "BusinessLine"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
-      "date": "Aug 25, 2026",
-      "source": "FinanceBuzz"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Fifth bank fails in 2026 as drip of small-bank closures continues",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcU5RNlNnYUlOSmwyemxmWlFzNTJmNXYwcktYNC1sUDBMNjdKZ2xTNmJFcVRDZHY4T3VNdkZ3eXFaX0tJYmZETThIdjJHV0kxd21EaGVjbG9CYlJSdWNwdUxuR3JTOGVyQ0owSlVCYmxFTzJUVnpYMmVqMDU0MHBOLU5HNWNqZ0pFSWs3bzFuQ0VoRnc3dDBXTW81cUQzcENzWldN?oc=5",
-      "date": "Aug 21, 2026",
-      "source": "American Banker"
     }
   ]
 }
