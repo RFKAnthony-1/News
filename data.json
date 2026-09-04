@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T13:11:11.142Z",
+  "updatedAt": "2026-09-04T13:05:02.606Z",
   "categories": [
     {
       "id": "closures",
@@ -24,14 +24,64 @@
   ],
   "stories": [
     {
-      "inst": "navyfederal",
-      "instLabel": "Navy Federal Credit Union",
-      "color": "c-blue",
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
       "category": "closures",
-      "headline": "Navy Federal Credit Union Opening Branch in Newnan",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVVXOHN4UmRKMDgzcTRyQjhyY0FLUDd5NjRSRFRReFQ5VmhJbUZ0a0UyYlgwVkpqd2c2THFid1RQNEFtdHhwaVQzU2F6QmtoT3dWZFJYa0l4TzRTRVNMZDRwbXFhOC1sWHNqRW9ITVR6cE5lZ1UyU2tEeXB4UnlCbjhXYUFTNG5ZbWVnYnc0Slg?oc=5",
-      "date": "Nov 25, 2024",
-      "source": "The City Menus"
+      "headline": "Guardian Credit Union Great Grits Cook-Off Returns For Its 13th Year",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYmpGSERDN21mdGVwamc2MTZETE1RMFNjWlNYMDFBV3NqOVJZWU82MGhPZzdwbFF1SC0wZnVFLWI5NHdmV3hBZVcxTDNNZUs4VXRlVlNtWm9kUXpjSmh4S3dhRWVLc2FlY2pvYTdYNDJ6UnNRMnZFc1p4MXdvSExFTzlkVy1xX2I3SUp1OERCWGx0NjBlRlR3X3k1NFVnUnphazB5YzJ4MzQ3amxZUXJ0VVBNdld3ampMNTBrV0RfSnV1UzRVNG9OSEFBSnZBUnNoT1lqQU1tOUtJU1ZDNFBES3RWVWxSQ1BhcUhieHpmN3Nnanc?oc=5",
+      "date": "Aug 27, 2026",
+      "source": "Montgomery Independent"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
+      "headline": "Sorrell 360 programs provides financial literacy program to more than 20 students in inaugural Guardian Credit Union 360 Finance cohort",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mZW15NFdYclI4dmJTWlI0ZVo4d2FCbXB6QzN0TC1GanEtc29XV3lra0otY1d6WFpHNUNVVWJNeVVZRzNYYnhSdDZ2TVBvckFrZlpwTTYyZnc2S3JD?oc=5",
+      "date": "Nov 27, 2024",
+      "source": "Troy University"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
+      "headline": "Bracket Set for 2024 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLURrNmlVa0ZNVDRxdTQ2dUEwbEdWSl9nQjIybEk3TDhMeUJCUjJuXzVqRGJ1WUJncW5xeHJ2cVgxSWxjSjJfdmVTaVY4VDJ6aGdtSFhXdHlZN0QyUkhPWklFT0NfcHpKaXZVZ25kSVluM0lTSGk0RF9CWU05cEt0MXBUd1kxSjZkQzZXbHplRlRZZFJFbzhCSkMtZUw2X0VJbUF6X1pqWU1KVHhNcnJrLUYwcE5SVC11cTVOR05JenBSenI0Z3k0QmdYYzBpblFoekJiNWV5cVBYdTM5TnZxZDJkaE85VDRRUXluY0tvM0s?oc=5",
+      "date": "May 18, 2024",
+      "source": "sunbeltsports.org"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Simmons First National Announces Closure of 26 Bank Branches Effective December 2026",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNX1VCVXZFWVo2bVUtS3IyS3BkNnZVY0RZekVCRjRObGQ1LWpmXzdrbVBpX0diXzNLTlM5dlJNTE4tbV9OMWhwQ0V2Wm9fT1ZFa09wbHFUQmE1NWhFWGVwaU5VR1RTa3RIaFJyYlIzUkFsQWk0cG92TVNmY0Z5TE5La0pDaHJHbF9PSGpoTHBZdkt4d2NaN2FaQ1NfczhzdlI3WUxaOGtaVDFsV3ZZVlk5QldJS1ZzU3hLcjJ1YUJZc1hpWWRPbV9feXF0NA?oc=5",
+      "date": "Sep 4, 2026",
+      "source": "Kalkine Media"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Simmons Bank to Close Jonesboro Branch in December Amid 26-Location Consolidation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemlMZmhkcmVFVnp6c0RaeGhwRUFUNDNndS1tMjcxM1NXRkZaaFlvNndvWnpyUmI3ZTR2UGZqTHE5bUxlUU5fS1N1VThQZGlCaHJLdWtqN1hQNGVQYWhuRm54WkswV2o4dU5yV0dDLTBCRjVEOHlDY3ZBWWlOeUlkanlpSEZaS1l1bUh1azhUcUZueXR4T09MRjhscEJrZHdxVmtuZFJiQlp3RnRRZ3NWN3pqNHV0azRFaXVoYmY0SFlpZw?oc=5",
+      "date": "Sep 4, 2026",
+      "source": "Jonesboro Right Now"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Bank Holiday September 4: Banks To Be Closed In These Cities For Janmashtami",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTk9DWkNYbmVpbWxlWlNDQW9CS1lzWURlaGtpRFlaMlFpXzNaRDNscVVTbEhJeXdvd3psemRLR1VocEh4T1pXdXFMcm1Wb1AtVmhnRkpWY01tNm90ZEVnOS16cGh6NkI3TTZZS3NXQXVvUnB6VXZjeVJhVnFuNDM1WGhJYV9Wa2RDZ2VESVRvdV9lZmhRSGhXaVg3TTdYOTREX0tzaER1YjhaX2NvOHlHc0xyNXlPWW_SAb8BQVVfeXFMTjVGTl9RTHowZjlzQ0pYX2xLMGFYWnVBcXZUNWlaWUViTmtrcGY1ODA4TGpYWnNNSm5NTVcwQ1NVb1BTeWd4dHpGTkF5OUh3b3lQRnhVOE1SSzlrVV9JSU9aMmZQdXBRc3YyT1NUa2ZZbUZndUtqYS1UNkdjZURUM3ZUVkQyamlhcHhJSXdrVFV4MjU0MzJMdVpmOFBscVFhYmdFX1pnMXIxRC1IRlI1ZWhyZk1BbVNGN0ZsRGNfZlk?oc=5",
+      "date": "Sep 3, 2026",
+      "source": "NDTV"
     }
   ]
 }
