@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T12:17:17.657Z",
+  "updatedAt": "2026-09-06T12:32:36.880Z",
   "categories": [
     {
       "id": "closures",
@@ -31,17 +31,17 @@
       "headline": "Sorrell 360 programs provides financial literacy program to more than 20 students in inaugural Guardian Credit Union 360 Finance cohort",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mZW15NFdYclI4dmJTWlI0ZVo4d2FCbXB6QzN0TC1GanEtc29XV3lra0otY1d6WFpHNUNVVWJNeVVZRzNYYnhSdDZ2TVBvckFrZlpwTTYyZnc2S3JD?oc=5",
       "date": "Nov 27, 2024",
-      "source": "today.troy.edu"
+      "source": "Troy University"
     },
     {
       "inst": "guardian",
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Bracket Set for 2024 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLURrNmlVa0ZNVDRxdTQ2dUEwbEdWSl9nQjIybEk3TDhMeUJCUjJuXzVqRGJ1WUJncW5xeHJ2cVgxSWxjSjJfdmVTaVY4VDJ6aGdtSFhXdHlZN0QyUkhPWklFT0NfcHpKaXZVZ25kSVluM0lTSGk0RF9CWU05cEt0MXBUd1kxSjZkQzZXbHplRlRZZFJFbzhCSkMtZUw2X0VJbUF6X1pqWU1KVHhNcnJrLUYwcE5SVC11cTVOR05JenBSenI0Z3k0QmdYYzBpblFoekJiNWV5cVBYdTM5TnZxZDJkaE85VDRRUXluY0tvM0s?oc=5",
-      "date": "May 18, 2024",
-      "source": "Sun Belt Conference"
+      "headline": "Guardian Credit Union announces ‘Letters to Santa: A Holiday Giveback’ campaign",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVJLUnd3MWZiRzVBWFlRbVlOakxsV3RaSjVhTjZETnF6emxiR2hpbjMtVTZrdmdnVjVNRXpHczEtUGY5aGZTSXd4TWR6eGpvVk1IVFA3ZUltb3RhVFdRWWVvOUliRHREZ3JhTHBrMzRCRjlRQnpjb29ySFFuSEJWSS1MWE9BalM3SXd6R3U3dFJYSUxTdnVmdkJLY3RUSHhZWDFONV9PRQ?oc=5",
+      "date": "Nov 27, 2023",
+      "source": "WSFA"
     },
     {
       "inst": "guardian",
@@ -54,6 +54,16 @@
       "source": "1819 News"
     },
     {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
+      "headline": "Navy Federal Credit Union set to open 2nd Columbus branch",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMnc1QlVjeEpkeGtFZ0syZHdhS1hQMXNGeGNDeVhaSzFOb0V1TEpYQnhSMkttdGcwMlpyUDRlSTVPVExNZlNnZXd3ZnJYYzcyMVo5MFNKYnQ3ZnJETk9DMGFDR0t4SXZjaW15X056TGlOYjU4cEZaVFJCcHJlNDhIbTFHc1NSNy1PU1Z0a2FCRTXSAaQBQVVfeXFMTmotclExWk80NlpQVjFSaXI5UnZPSl95eW5ieVhXTkl6S0kyYk5jX3RTQWVReUJveGVGRldoZWhMMkJHMzlFWkMwZHZnT2hxWUZlX2g3SlFaaGM4c1BfaHVjck5EaWNSRzBqUW5ZajBDOWhlbHNDdFg5QjdobDZoRUFuZW1QRDRuaG9ZcjdaNlB6cExGdmZHMy1CdkZ3ZlZEdkNGNHM?oc=5",
+      "date": "Jul 8, 2025",
+      "source": "wtvm.com"
+    },
+    {
       "inst": "marcus",
       "instLabel": "Marcus by Goldman Sachs",
       "color": "c-coral",
@@ -61,7 +71,7 @@
       "headline": "Goldman Sachs closes Marcus account to new UK savers",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
       "date": "Jun 10, 2020",
-      "source": "The Guardian"
+      "source": "theguardian.com"
     },
     {
       "inst": "industry",
