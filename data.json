@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T12:32:36.880Z",
+  "updatedAt": "2026-09-07T14:41:55.347Z",
   "categories": [
     {
       "id": "closures",
@@ -54,16 +54,6 @@
       "source": "1819 News"
     },
     {
-      "inst": "navyfederal",
-      "instLabel": "Navy Federal Credit Union",
-      "color": "c-blue",
-      "category": "closures",
-      "headline": "Navy Federal Credit Union set to open 2nd Columbus branch",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMnc1QlVjeEpkeGtFZ0syZHdhS1hQMXNGeGNDeVhaSzFOb0V1TEpYQnhSMkttdGcwMlpyUDRlSTVPVExNZlNnZXd3ZnJYYzcyMVo5MFNKYnQ3ZnJETk9DMGFDR0t4SXZjaW15X056TGlOYjU4cEZaVFJCcHJlNDhIbTFHc1NSNy1PU1Z0a2FCRTXSAaQBQVVfeXFMTmotclExWk80NlpQVjFSaXI5UnZPSl95eW5ieVhXTkl6S0kyYk5jX3RTQWVReUJveGVGRldoZWhMMkJHMzlFWkMwZHZnT2hxWUZlX2g3SlFaaGM4c1BfaHVjck5EaWNSRzBqUW5ZajBDOWhlbHNDdFg5QjdobDZoRUFuZW1QRDRuaG9ZcjdaNlB6cExGdmZHMy1CdkZ3ZlZEdkNGNHM?oc=5",
-      "date": "Jul 8, 2025",
-      "source": "wtvm.com"
-    },
-    {
       "inst": "marcus",
       "instLabel": "Marcus by Goldman Sachs",
       "color": "c-coral",
@@ -71,7 +61,17 @@
       "headline": "Goldman Sachs closes Marcus account to new UK savers",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
       "date": "Jun 10, 2020",
-      "source": "theguardian.com"
+      "source": "The Guardian"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "What's Open and Closed on Labor Day 2026? Banks, Post Offices, Stores, Restaurants and More",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzEzM3o1OHdXbnhSMERJd2QwNmdOZkthUGNoTkNNbkJVM0xUN0VpQnFPbElHTkJ0eDIxMDlrYnVBQVZSSTRGVzhvcE9HcFBpdXdhTnU5ek40RnE5Zm0tTzduSENNRlBOVGlsaVZKWDlZbHVtUFhrZm5hclNtdVY1YXBxei1uVGVZOUYyaEpwb2dzNzRpanZtM1FPZ3VCMjdJdVZEakZCSEZTeXFFQ3RzYlBHd3l0R0RTUFBBS1NEREFOZHBGaE5JVkxoQ0NoS0JNTGlwa1FR?oc=5",
+      "date": "Sep 7, 2026",
+      "source": "finchannel"
     },
     {
       "inst": "industry",
@@ -92,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1o5TEhvSmlhLWVxZ1JRQV9od2lBeVNHbmYyR3pVOElIb2pmY0h3d2o4dF9nRUw3VE1vWXRjRVZlS2dnWExZNkQ5S0pOOVpGeHVZcGtBdFhlV2xKOVowS1JZaFZWMWxBeTJGcVQwSHRIRzRXdzB1RTV0cG1XYUpPUXJRMWFzdjh5OEIyYndXR0JIT3FhOXZDUzJwN29xRXhDQk9tN29KMGpDM3ZFSGREYm9PbXJKSERscWFfZDREQUhDQXdjdVVwMXZXY1dGLTZSTDd1Y3Y1emZmNWNYYk1lX0pR?oc=5",
       "date": "Sep 4, 2026",
       "source": "KATV"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Simmons Bank will close 26 branches, including six in Arkansas",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclRzNmVTeEdaNTg3aTVzZkhQQmdKQWRTMlhrdVREdV9Za2gyeTJaR3d2OUtuVXJtR2lvSzFjT1NmNUlfdzBSbGgzdHNZcXAzT2lMbkR0NHdfay10LTZsMG53R1hZZG1mc1ZvR1lfVzdXMmlMeXBURFJxRkRHYWZpbWZpQm5RYlFxUENNSzFLQ2VJXzA3REJJ?oc=5",
-      "date": "Sep 4, 2026",
-      "source": "The Arkansas Democrat-Gazette"
     }
   ]
 }
