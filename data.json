@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T13:14:01.530Z",
+  "updatedAt": "2026-09-09T13:19:21.869Z",
   "categories": [
     {
       "id": "closures",
@@ -41,17 +41,17 @@
       "headline": "Sorrell 360 programs provides financial literacy program to more than 20 students in inaugural Guardian Credit Union 360 Finance cohort",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mZW15NFdYclI4dmJTWlI0ZVo4d2FCbXB6QzN0TC1GanEtc29XV3lra0otY1d6WFpHNUNVVWJNeVVZRzNYYnhSdDZ2TVBvckFrZlpwTTYyZnc2S3JD?oc=5",
       "date": "Nov 27, 2024",
-      "source": "Troy University"
+      "source": "today.troy.edu"
     },
     {
       "inst": "guardian",
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Guardian Credit Union expanding to Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
-      "date": "Feb 24, 2023",
-      "source": "1819 News"
+      "headline": "Guardian Credit Union announces ‘Letters to Santa: A Holiday Giveback’ campaign",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVJLUnd3MWZiRzVBWFlRbVlOakxsV3RaSjVhTjZETnF6emxiR2hpbjMtVTZrdmdnVjVNRXpHczEtUGY5aGZTSXd4TWR6eGpvVk1IVFA3ZUltb3RhVFdRWWVvOUliRHREZ3JhTHBrMzRCRjlRQnpjb29ySFFuSEJWSS1MWE9BalM3SXd6R3U3dFJYSUxTdnVmdkJLY3RUSHhZWDFONV9PRQ?oc=5",
+      "date": "Nov 27, 2023",
+      "source": "WSFA"
     },
     {
       "inst": "marcus",
@@ -68,20 +68,20 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "What's Open and Closed on Labor Day 2026? Banks, Post Offices, Stores, Restaurants and More",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzEzM3o1OHdXbnhSMERJd2QwNmdOZkthUGNoTkNNbkJVM0xUN0VpQnFPbElHTkJ0eDIxMDlrYnVBQVZSSTRGVzhvcE9HcFBpdXdhTnU5ek40RnE5Zm0tTzduSENNRlBOVGlsaVZKWDlZbHVtUFhrZm5hclNtdVY1YXBxei1uVGVZOUYyaEpwb2dzNzRpanZtM1FPZ3VCMjdJdVZEakZCSEZTeXFFQ3RzYlBHd3l0R0RTUFBBS1NEREFOZHBGaE5JVkxoQ0NoS0JNTGlwa1FR?oc=5",
-      "date": "Sep 7, 2026",
-      "source": "finchannel"
+      "headline": "Are banks open on Labor Day? 12 federal holidays when your bank is closed.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk5jT2wtVkR3bjJiOC1uN3RiYWlvcEVmaTJuWktTTXBmdWZsSTZWQlhoV1J2Z2hQcTVRbGVPYjVNMlVIU25NZG4yV2U3UnRlcktUZWtmMks5d2pDRmcwajRFYms3cWRZOHVCaHp3S0c2NHVNLUtFM3pEU3NTZlBGMDk4UVlERGVzMURLdkZ3SGVlOGZxc0N5R0V3?oc=5",
+      "date": "Sep 6, 2026",
+      "source": "Yahoo Finance"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Are banks open on Labor Day? 12 federal holidays when your bank is closed.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk5jT2wtVkR3bjJiOC1uN3RiYWlvcEVmaTJuWktTTXBmdWZsSTZWQlhoV1J2Z2hQcTVRbGVPYjVNMlVIU25NZG4yV2U3UnRlcktUZWtmMks5d2pDRmcwajRFYms3cWRZOHVCaHp3S0c2NHVNLUtFM3pEU3NTZlBGMDk4UVlERGVzMURLdkZ3SGVlOGZxc0N5R0V3?oc=5",
-      "date": "Sep 6, 2026",
-      "source": "finance.yahoo.com"
+      "headline": "123-year-old bank quietly closes 26 locations",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRnNuSlAwU2VXY3ZjTU5FZWVpOWlONE5nNDJJQUJrSlM5UlMtY3VKNnExa1d6ZExZLWluOGZ6VGptMFA1dFQ5SWM4NGlBaDdqb1pISUJQQVl1V2QzN2tJLU9aMkdwZF9pY0VLWWw5ZUlyZ2hxX3FDeURydi1YcU0?oc=5",
+      "date": "Sep 5, 2026",
+      "source": "thestreet.com"
     },
     {
       "inst": "industry",
