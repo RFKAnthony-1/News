@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T13:10:26.045Z",
+  "updatedAt": "2026-09-12T12:34:23.629Z",
   "categories": [
     {
       "id": "closures",
@@ -28,16 +28,6 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Guardian Credit Union coming to the Town of Pine Level",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
-      "date": "Jun 19, 2025",
-      "source": "WAKA 8"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
       "headline": "Sorrell 360 programs provides financial literacy program to more than 20 students in inaugural Guardian Credit Union 360 Finance cohort",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mZW15NFdYclI4dmJTWlI0ZVo4d2FCbXB6QzN0TC1GanEtc29XV3lra0otY1d6WFpHNUNVVWJNeVVZRzNYYnhSdDZ2TVBvckFrZlpwTTYyZnc2S3JD?oc=5",
       "date": "Nov 27, 2024",
@@ -51,7 +41,17 @@
       "headline": "Guardian Credit Union expanding to Prattville",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
       "date": "Feb 24, 2023",
-      "source": "1819 News"
+      "source": "1819news.com"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
+      "headline": "Montgomery-based Guardian Credit Union building HQ in Prattville",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGw2YTlYRnAweGVjbjIyOF84N0F0YUhtcTMxU2hGbjVzTFBRcmtiLUtGN2RuVTRzdHVHSDdGTzhFRER0YlFvRWlBV1JzaDhKRXFOeFlndFE3LW1VNTVaUW15VTZtNEVqRm84M2sxd2NsRzZyTF9zQmxGLTZWNWRJZjJsNk03cUVZTENwNHE0Y2hxMENyQW5qMll30gGuAUFVX3lxTE5hQWhXNm9qQUpUVUV1WHh3NXRpUWFMc1FKTlNhWW9tS0dBRVhmdFpYSTRodTUzSVlGVEtWOUhkOHlnNUJOeGVaamVjeFlhaFdsU3BQM3FyZHJJZWlXa18xN0JzQjJFd0E1a2pzQVZzd3ZpcE5jYVkyX3k0MXVSdE1GYWdiZ19Ba0NjWHB5Z1prNjRLOG50SUdmb3VPWF93QUFFYVlYWnNrNWZKX05FQQ?oc=5",
+      "date": "Feb 23, 2023",
+      "source": "WSFA"
     },
     {
       "inst": "marcus",
@@ -61,7 +61,17 @@
       "headline": "Goldman Sachs closes Marcus account to new UK savers",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
       "date": "Jun 10, 2020",
-      "source": "theguardian.com"
+      "source": "The Guardian"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "What's Open and Closed on Labor Day 2026? Banks, Post Offices, Stores, Restaurants and More",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzEzM3o1OHdXbnhSMERJd2QwNmdOZkthUGNoTkNNbkJVM0xUN0VpQnFPbElHTkJ0eDIxMDlrYnVBQVZSSTRGVzhvcE9HcFBpdXdhTnU5ek40RnE5Zm0tTzduSENNRlBOVGlsaVZKWDlZbHVtUFhrZm5hclNtdVY1YXBxei1uVGVZOUYyaEpwb2dzNzRpanZtM1FPZ3VCMjdJdVZEakZCSEZTeXFFQ3RzYlBHd3l0R0RTUFBBS1NEREFOZHBGaE5JVkxoQ0NoS0JNTGlwa1FR?oc=5",
+      "date": "Sep 7, 2026",
+      "source": "finchannel"
     },
     {
       "inst": "industry",
@@ -72,16 +82,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk5jT2wtVkR3bjJiOC1uN3RiYWlvcEVmaTJuWktTTXBmdWZsSTZWQlhoV1J2Z2hQcTVRbGVPYjVNMlVIU25NZG4yV2U3UnRlcktUZWtmMks5d2pDRmcwajRFYms3cWRZOHVCaHp3S0c2NHVNLUtFM3pEU3NTZlBGMDk4UVlERGVzMURLdkZ3SGVlOGZxc0N5R0V3?oc=5",
       "date": "Sep 6, 2026",
       "source": "Yahoo Finance"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "123-year-old bank quietly closes 26 locations",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRnNuSlAwU2VXY3ZjTU5FZWVpOWlONE5nNDJJQUJrSlM5UlMtY3VKNnExa1d6ZExZLWluOGZ6VGptMFA1dFQ5SWM4NGlBaDdqb1pISUJQQVl1V2QzN2tJLU9aMkdwZF9pY0VLWWw5ZUlyZ2hxX3FDeURydi1YcU0?oc=5",
-      "date": "Sep 5, 2026",
-      "source": "thestreet.com"
     },
     {
       "inst": "industry",
