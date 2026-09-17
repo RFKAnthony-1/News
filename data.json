@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T13:58:34.071Z",
+  "updatedAt": "2026-09-17T14:02:21.968Z",
   "categories": [
     {
       "id": "closures",
@@ -61,7 +61,17 @@
       "headline": "Goldman Sachs closes Marcus account to new UK savers",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
       "date": "Jun 10, 2020",
-      "source": "The Guardian"
+      "source": "theguardian.com"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Full list of Lloyds and Halifax bank branches closing in North East in 2026",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcDhCRFJpbHNBc25rcXNxVi1BZGpIbG5pVTZucmZOQUluTjd1cjdaN2RsbkN0ZkxhVjhDR2lpRWljZ3dGeVBjM3Fhdm9URDBBc2tDSEVIREtPQ3pXeHJkcUswNmtKeGQzZWZrYmVzVGkxVGRWQ0dXLUFKam1oc3M5dnp5WS1Id1l6YU5BdjFUUEplY3R3UEHSAZsBQVVfeXFMTUdaVngxN3dGVXNZMFRPd0tmZjB0YS1IZ0V5bTV6LWpoZFpXcXNoaXJuVXFxNmFrOWV1UTYtdnVXcnlEOUU3OWR3WHNqYjY1WlN3VWs0WUhvVXVIdk5qSGh2N09FakY5dEJKQi04SVlVcGJ1eWkzSl9qT2d0eldWLV9CX0JNRWRIR1NONlN5MC1ldExNaW1mY0tOdXM?oc=5",
+      "date": "Sep 17, 2026",
+      "source": "Chronicle Live"
     },
     {
       "inst": "industry",
@@ -71,7 +81,7 @@
       "headline": "Simmons Bank closing 26 locations, 6 in Arkansas by end of 2026",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjZ1MGRscE1ORzJfMGJFRXg5Z3BNejMwZEYwbEtwU2lzbERDOU9NbUN2aDVSS19reTVMMG82cjRMTVY3MDlJaFYyMVM3SmItQTRuN3VWcGM3NzRxbGhlN3g1QjhlWnJJZFVLbEFacmxFbW50ZUdEMTRjLU5ldWdYMnM1bV9pLVJfN3hjSXpCOHJXeVRZaXNraXB6c0NHMW0tRS1MUFNTa3owdTjSAbABQVVfeXFMTkY2QXl4Uy1yaFNIbXJhSm9OMHNrTDc1SzRCbUhYUEtRWGlUQXZKZnM2dDF5dTNtWFBvREgycTdnREh2bHJFc2JKWWVtSDV1YnF4N1lVVVRzeUh3S1dsNlA0WTBfdE45dEtpVUR0eHRrUjFFUXdlVE9TSU81MzJweFFrdktxVDFVZnQ2WmJOWjVwWnE1MUt3YWxqWjR0azhiYUhyRG13ZGI5ckpSN1ZEYks?oc=5",
       "date": "Sep 4, 2026",
-      "source": "nwahomepage.com"
+      "source": "KNWA FOX24"
     },
     {
       "inst": "industry",
@@ -82,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclRzNmVTeEdaNTg3aTVzZkhQQmdKQWRTMlhrdVREdV9Za2gyeTJaR3d2OUtuVXJtR2lvSzFjT1NmNUlfdzBSbGgzdHNZcXAzT2lMbkR0NHdfay10LTZsMG53R1hZZG1mc1ZvR1lfVzdXMmlMeXBURFJxRkRHYWZpbWZpQm5RYlFxUENNSzFLQ2VJXzA3REJJ?oc=5",
       "date": "Sep 3, 2026",
       "source": "The Arkansas Democrat-Gazette"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Simmons Bank to Close Jonesboro Branch in December Amid 26-Location Consolidation",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemlMZmhkcmVFVnp6c0RaeGhwRUFUNDNndS1tMjcxM1NXRkZaaFlvNndvWnpyUmI3ZTR2UGZqTHE5bUxlUU5fS1N1VThQZGlCaHJLdWtqN1hQNGVQYWhuRm54WkswV2o4dU5yV0dDLTBCRjVEOHlDY3ZBWWlOeUlkanlpSEZaS1l1bUh1azhUcUZueXR4T09MRjhscEJrZHdxVmtuZFJiQlp3RnRRZ3NWN3pqNHV0azRFaXVoYmY0SFlpZw?oc=5",
-      "date": "Sep 3, 2026",
-      "source": "Jonesboro Right Now"
     }
   ]
 }
