@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:49:30.307Z",
+  "updatedAt": "2026-09-20T13:24:04.307Z",
   "categories": [
     {
       "id": "closures",
@@ -28,6 +28,16 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
+      "headline": "Guardian Credit Union coming to the Town of Pine Level",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
+      "date": "Jun 19, 2025",
+      "source": "WAKA 8"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
       "headline": "Sorrell 360 programs provides financial literacy program to more than 20 students in inaugural Guardian Credit Union 360 Finance cohort",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mZW15NFdYclI4dmJTWlI0ZVo4d2FCbXB6QzN0TC1GanEtc29XV3lra0otY1d6WFpHNUNVVWJNeVVZRzNYYnhSdDZ2TVBvckFrZlpwTTYyZnc2S3JD?oc=5",
       "date": "Nov 27, 2024",
@@ -44,16 +54,6 @@
       "source": "1819 News"
     },
     {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Montgomery-based Guardian Credit Union building HQ in Prattville",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGw2YTlYRnAweGVjbjIyOF84N0F0YUhtcTMxU2hGbjVzTFBRcmtiLUtGN2RuVTRzdHVHSDdGTzhFRER0YlFvRWlBV1JzaDhKRXFOeFlndFE3LW1VNTVaUW15VTZtNEVqRm84M2sxd2NsRzZyTF9zQmxGLTZWNWRJZjJsNk03cUVZTENwNHE0Y2hxMENyQW5qMll30gGuAUFVX3lxTE5hQWhXNm9qQUpUVUV1WHh3NXRpUWFMc1FKTlNhWW9tS0dBRVhmdFpYSTRodTUzSVlGVEtWOUhkOHlnNUJOeGVaamVjeFlhaFdsU3BQM3FyZHJJZWlXa18xN0JzQjJFd0E1a2pzQVZzd3ZpcE5jYVkyX3k0MXVSdE1GYWdiZ19Ba0NjWHB5Z1prNjRLOG50SUdmb3VPWF93QUFFYVlYWnNrNWZKX05FQQ?oc=5",
-      "date": "Feb 23, 2023",
-      "source": "WSFA"
-    },
-    {
       "inst": "marcus",
       "instLabel": "Marcus by Goldman Sachs",
       "color": "c-coral",
@@ -68,10 +68,10 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Saturday bank holiday: Are HDFC Bank, ICICI Bank, SBI open or closed today on September 19, 2026?",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ2J6cWdOc19MN1NuWTNKQml2WDhrWHVHRGhrdHMwdm1pcTVfOVVJY29sVGpOSmFTUE5RUWdZTDFwbUsyQUQ5clVtWkNHRDNIRUhOWXV3NGNlT1NvS3JIOUMwYWlWNUhPRVRsdDd6M2podlBCam5qcmdfQVdTSi1nS3l6UTRhYU9jZ2pjQ2JVQ2Z4azlmRHFZSTM5UFJ5MnlOeUlDeUtFWm95R2FGWlFINFB3Y2IxQzNyOHBRTWlkM1RPdXZEQ3JlX0dtLXNuNmVhRXJlZ25ZTlJmcm1vRGgtVmlZeG9IT1NYcFowRmRWUdIB9AFBVV95cUxQM1BCVkkwNU5NVEwwRXVLRWpkSG03LXktV1NTSF85bTVzektneU1Cdks0a3JsYzhLenJ6VmotUDdobWg5WVQxYVNmWEROWk1wNFZWY1FEOEhoN2V5SHJ6cE1PQU5SNEcydDM1NF91MVFBUGNtbTNJX1N5VUd3dzBDTEtvV19pbzdIWG1nTVNnSGcyMmR0Vk1UTDZPR0JDRE54T0R2LXZyY1czcVBHQTlTNFhlTXk2MTBiWEhtM3ItUHh0VmFwb0JKSWszZy14SFdwOEVfNjh4bFZWSEoxT0E4LUxzZi1RUWNGWHBNLUJwNHZFZTFf?oc=5",
-      "date": "Sep 19, 2026",
-      "source": "The Economic Times"
+      "headline": "Some Hawaii banks reopen Kauai branches following Hurricane Lowell closures",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOalNjNDJQNTU4YUpJSUtnUkhIUXNweGhKUEJEOXZoa25oZEZDVDlXVFZZb245RGZoVVpmTXRhbWxBcHZ5dTZPdm9ZNzN5WGVEQnRET09zMGlUYkRJanAwbllQRTBtUmZPbGo5RDQycDBwUW1ZOXJLV3VCNWFaa1lnOGVrOVd3cWE5cVQtaXlNd3VUYVhvd1pMbFBGQUJUT2oxV1Fv?oc=5",
+      "date": "Sep 9, 2026",
+      "source": "The Business Journals"
     },
     {
       "inst": "industry",
@@ -88,10 +88,10 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "123-year-old bank quietly closes 26 locations",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRnNuSlAwU2VXY3ZjTU5FZWVpOWlONE5nNDJJQUJrSlM5UlMtY3VKNnExa1d6ZExZLWluOGZ6VGptMFA1dFQ5SWM4NGlBaDdqb1pISUJQQVl1V2QzN2tJLU9aMkdwZF9pY0VLWWw5ZUlyZ2hxX3FDeURydi1YcU0?oc=5",
-      "date": "Sep 5, 2026",
-      "source": "thestreet.com"
+      "headline": "Simmons Bank closing 26 locations, 6 in Arkansas by end of 2026",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjZ1MGRscE1ORzJfMGJFRXg5Z3BNejMwZEYwbEtwU2lzbERDOU9NbUN2aDVSS19reTVMMG82cjRMTVY3MDlJaFYyMVM3SmItQTRuN3VWcGM3NzRxbGhlN3g1QjhlWnJJZFVLbEFacmxFbW50ZUdEMTRjLU5ldWdYMnM1bV9pLVJfN3hjSXpCOHJXeVRZaXNraXB6c0NHMW0tRS1MUFNTa3owdTjSAbABQVVfeXFMTkY2QXl4Uy1yaFNIbXJhSm9OMHNrTDc1SzRCbUhYUEtRWGlUQXZKZnM2dDF5dTNtWFBvREgycTdnREh2bHJFc2JKWWVtSDV1YnF4N1lVVVRzeUh3S1dsNlA0WTBfdE45dEtpVUR0eHRrUjFFUXdlVE9TSU81MzJweFFrdktxVDFVZnQ2WmJOWjVwWnE1MUt3YWxqWjR0azhiYUhyRG13ZGI5ckpSN1ZEYks?oc=5",
+      "date": "Sep 4, 2026",
+      "source": "KNWA FOX24"
     }
   ]
 }
