@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T13:50:11.059Z",
+  "updatedAt": "2026-09-23T14:01:29.690Z",
   "categories": [
     {
       "id": "closures",
@@ -28,10 +28,20 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
+      "headline": "Bracket Set for 2023 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMlJQcnppR0FIam02U0RIa2lkNzREVjVheXdqeGtLS3VBdHFNQnUwdm5FalhHYXE3X2lJRGVyN0RqdWZuYVFlSEI0WVBtSUo0LTlXSm9CN1pDSDVuM2x4S0hrQVFzZlB4eDZqWlpsZ3JWbURWb2ExbDlNTmZtVnBmZjRwa1VqNEJFS1U1aUNtcDJGTlhkWUszZEZ0UXEwNmxDSkF6NURMT0kxNDZYeVZpNTRYZ0lNOGJrcnBKMFZidDN3dWtMTDN1b3lFcGxmbm9nVklGVVFVZU5uZGZsSjVCNzN2WGk5SUVLYlBoQlFTSWU?oc=5",
+      "date": "May 20, 2023",
+      "source": "sunbeltsports.org"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
       "headline": "Guardian Credit Union expanding to Prattville",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
       "date": "Feb 24, 2023",
-      "source": "1819 News"
+      "source": "1819news.com"
     },
     {
       "inst": "guardian",
@@ -41,17 +51,7 @@
       "headline": "Montgomery-based Guardian Credit Union building HQ in Prattville",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGw2YTlYRnAweGVjbjIyOF84N0F0YUhtcTMxU2hGbjVzTFBRcmtiLUtGN2RuVTRzdHVHSDdGTzhFRER0YlFvRWlBV1JzaDhKRXFOeFlndFE3LW1VNTVaUW15VTZtNEVqRm84M2sxd2NsRzZyTF9zQmxGLTZWNWRJZjJsNk03cUVZTENwNHE0Y2hxMENyQW5qMll30gGuAUFVX3lxTE5hQWhXNm9qQUpUVUV1WHh3NXRpUWFMc1FKTlNhWW9tS0dBRVhmdFpYSTRodTUzSVlGVEtWOUhkOHlnNUJOeGVaamVjeFlhaFdsU3BQM3FyZHJJZWlXa18xN0JzQjJFd0E1a2pzQVZzd3ZpcE5jYVkyX3k0MXVSdE1GYWdiZ19Ba0NjWHB5Z1prNjRLOG50SUdmb3VPWF93QUFFYVlYWnNrNWZKX05FQQ?oc=5",
       "date": "Feb 23, 2023",
-      "source": "wsfa.com"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Guardian Credit Union named 2022 Best Companies To Work for in Alabama",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWx1T0J1YnFqZHBCUUhEdTZrSUw3V3BpZVJ4TXVrQkZpb2lCYW43OTdmTExGdW85S0JNZVdMNjhGZzQtc2E5WEtVX0VDbm1lWkJKVXg4WVlYdmRFTk9jQ3ZHbU5aQ1ZHUHN0eF9zWDdaa09YZmtUSHNCU1ZuV2dlOGw5eDRsbW80YTVvZmE5MmxySlRlSXFDONIBrAFBVV95cUxPakhsazhYdFRGTWg2TkRTalZLVm9qc1lnWE1YT2lIVW5qeEVGcHJ4QnF0dGNraWdnT0xkbW85c1R0OFgxeGJZUHV2dlNNQjdDRFFBT1dyNUNqVWpjc0c2Nm9MMUhNcENQY21iOWl6NXFvRFZnZHhQcm0xdDlLTkdXemFuUXBKNEJzMzJUUUFLd2RCNEI2RWc2OWEyV3NWTGRXWllpVUxUX0EtODZp?oc=5",
-      "date": "Dec 22, 2022",
-      "source": "wsfa.com"
+      "source": "WSFA"
     },
     {
       "inst": "marcus",
@@ -61,17 +61,27 @@
       "headline": "Goldman Sachs closes Marcus account to new UK savers",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
       "date": "Jun 10, 2020",
-      "source": "The Guardian"
+      "source": "theguardian.com"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Leamington bank branch prepares for closure",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR1UtUkZyOTVIeXhoMlN1dXNuZEtuUDd1TzB3c0xfS1pxanhjS3llQXZQY0liU3VBZmdvRVBoRVl4dTlMNXJsNmRzeTZDUFE2RmszakNuNVJEaDQxUHBFVWlPQlpCVlFfaFdidUpzSExVNXFrUDJXTWNIMGEyejJ1OExmdlg4UkgtY1hqNUlRcm43RW9XLVdFdjBn?oc=5",
+      "headline": "Lloyds to close 37 bank branches by end of 2026 with 2 Lancashire sites affected",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWpUbVhraXJ4ZUg1Vmdnb2E1ZWlyRmVhaS1ubXhEUjQ5OExOV2xGYjdLQnNBZmNzOGNhNi11RDJLb0Nid3NOYU9fR3k1dEFFQXpuX0hfTWk1LTdiQXdZbU5ISEpHRHlnazFGNXBnWk1xYzVSaDhkem5nclV3SWVPUXVsWnpoYTBXb0NtY2hqTW1JMnY5QUJ0TXFqTEJWeXBQalVsMWVKOHhraGlJdHc?oc=5",
+      "date": "Sep 23, 2026",
+      "source": "Lancashire Telegraph"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Bank Holiday On September 23: Are Branches Closed In Your City? Check Details",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbkl1N1ZRQnU3UTdkMVBDSTNFS2trWDJWWnpuVlNiRFJIZ2RTTzEzdnBFNWJkZnFmeTF6SUx2cFVYamZlOVFsOEN2U2NVQ0VuaU1pM1Y1bkpnSmkwd085WlRYR2JKMEw4NUZVX1FCWkczQkNkeUZ4TmxmanBvNjZEbnBVckRORlJlOURDT3h0SjNIS0VCN0VpczE2NGNhV0FvUFA1dWtjOVlBU3VoUDA0cmRBODJxNW_SAb8BQVVfeXFMTWIzRGNUUnJtdjFjXzA5QjFHeGowck9EdGxwUVEzRlBDQ0R4ZWRRMEk5WVA0Zzd5ODR3a1hsYVk0LTV6dENOZHVmWFNnTG9aWGVHMG1aX1cyTW5nQmZ0RnpnRGFZWmtvZ0VFLUNvT0NaX1A0dTBGSmM0TE1lbkdIZFVURFF0eHg4eVdnMjBhR2V6TVFuRDdFOFc4VGNZLW1NWkNoaEpIYW1nSzVBM3ctdTNhY24zUlNOQVhhLVZTSjQ?oc=5",
       "date": "Sep 22, 2026",
-      "source": "Leamington Nub News"
+      "source": "NDTV"
     },
     {
       "inst": "industry",
@@ -82,16 +92,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk5jT2wtVkR3bjJiOC1uN3RiYWlvcEVmaTJuWktTTXBmdWZsSTZWQlhoV1J2Z2hQcTVRbGVPYjVNMlVIU25NZG4yV2U3UnRlcktUZWtmMks5d2pDRmcwajRFYms3cWRZOHVCaHp3S0c2NHVNLUtFM3pEU3NTZlBGMDk4UVlERGVzMURLdkZ3SGVlOGZxc0N5R0V3?oc=5",
       "date": "Sep 6, 2026",
       "source": "Yahoo Finance"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "123-year-old bank quietly closes 26 locations",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pRnNuSlAwU2VXY3ZjTU5FZWVpOWlONE5nNDJJQUJrSlM5UlMtY3VKNnExa1d6ZExZLWluOGZ6VGptMFA1dFQ5SWM4NGlBaDdqb1pISUJQQVl1V2QzN2tJLU9aMkdwZF9pY0VLWWw5ZUlyZ2hxX3FDeURydi1YcU0?oc=5",
-      "date": "Sep 5, 2026",
-      "source": "thestreet.com"
     }
   ]
 }
