@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:01:29.690Z",
+  "updatedAt": "2026-09-24T13:57:47.026Z",
   "categories": [
     {
       "id": "closures",
@@ -28,10 +28,10 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Bracket Set for 2023 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMlJQcnppR0FIam02U0RIa2lkNzREVjVheXdqeGtLS3VBdHFNQnUwdm5FalhHYXE3X2lJRGVyN0RqdWZuYVFlSEI0WVBtSUo0LTlXSm9CN1pDSDVuM2x4S0hrQVFzZlB4eDZqWlpsZ3JWbURWb2ExbDlNTmZtVnBmZjRwa1VqNEJFS1U1aUNtcDJGTlhkWUszZEZ0UXEwNmxDSkF6NURMT0kxNDZYeVZpNTRYZ0lNOGJrcnBKMFZidDN3dWtMTDN1b3lFcGxmbm9nVklGVVFVZU5uZGZsSjVCNzN2WGk5SUVLYlBoQlFTSWU?oc=5",
-      "date": "May 20, 2023",
-      "source": "sunbeltsports.org"
+      "headline": "Guardian Credit Union coming to the Town of Pine Level",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
+      "date": "Jun 19, 2025",
+      "source": "WAKA Action 8 News"
     },
     {
       "inst": "guardian",
@@ -41,7 +41,7 @@
       "headline": "Guardian Credit Union expanding to Prattville",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
       "date": "Feb 24, 2023",
-      "source": "1819news.com"
+      "source": "1819 News"
     },
     {
       "inst": "guardian",
@@ -61,17 +61,7 @@
       "headline": "Goldman Sachs closes Marcus account to new UK savers",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
       "date": "Jun 10, 2020",
-      "source": "theguardian.com"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Lloyds to close 37 bank branches by end of 2026 with 2 Lancashire sites affected",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWpUbVhraXJ4ZUg1Vmdnb2E1ZWlyRmVhaS1ubXhEUjQ5OExOV2xGYjdLQnNBZmNzOGNhNi11RDJLb0Nid3NOYU9fR3k1dEFFQXpuX0hfTWk1LTdiQXdZbU5ISEpHRHlnazFGNXBnWk1xYzVSaDhkem5nclV3SWVPUXVsWnpoYTBXb0NtY2hqTW1JMnY5QUJ0TXFqTEJWeXBQalVsMWVKOHhraGlJdHc?oc=5",
-      "date": "Sep 23, 2026",
-      "source": "Lancashire Telegraph"
+      "source": "The Guardian"
     },
     {
       "inst": "industry",
@@ -88,10 +78,20 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "These Bank of America Branches Are Closing in 2026: Is Yours One?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNmpWeG5ZYUhwZS14Q28tb0NuamI2Z1pHdVdkcFNJOEIyTzRHMmk5bTUxd3Itcm15N204b0RfLU9HR2w0dVBmV0g0T0g2dmQ3cC1SVS1ncktabkF5Y0tUUzRId3Exdm5PeXFuQg?oc=5",
+      "date": "Sep 21, 2026",
+      "source": "FinanceBuzz"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "Are banks open on Labor Day? 12 federal holidays when your bank is closed.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk5jT2wtVkR3bjJiOC1uN3RiYWlvcEVmaTJuWktTTXBmdWZsSTZWQlhoV1J2Z2hQcTVRbGVPYjVNMlVIU25NZG4yV2U3UnRlcktUZWtmMks5d2pDRmcwajRFYms3cWRZOHVCaHp3S0c2NHVNLUtFM3pEU3NTZlBGMDk4UVlERGVzMURLdkZ3SGVlOGZxc0N5R0V3?oc=5",
       "date": "Sep 6, 2026",
-      "source": "Yahoo Finance"
+      "source": "finance.yahoo.com"
     }
   ]
 }
