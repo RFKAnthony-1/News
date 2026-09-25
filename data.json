@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T13:57:47.026Z",
+  "updatedAt": "2026-09-25T14:22:29.845Z",
   "categories": [
     {
       "id": "closures",
@@ -31,27 +31,27 @@
       "headline": "Guardian Credit Union coming to the Town of Pine Level",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
       "date": "Jun 19, 2025",
-      "source": "WAKA Action 8 News"
+      "source": "waka.com"
     },
     {
       "inst": "guardian",
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Guardian Credit Union expanding to Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
-      "date": "Feb 24, 2023",
-      "source": "1819 News"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Montgomery-based Guardian Credit Union building HQ in Prattville",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGw2YTlYRnAweGVjbjIyOF84N0F0YUhtcTMxU2hGbjVzTFBRcmtiLUtGN2RuVTRzdHVHSDdGTzhFRER0YlFvRWlBV1JzaDhKRXFOeFlndFE3LW1VNTVaUW15VTZtNEVqRm84M2sxd2NsRzZyTF9zQmxGLTZWNWRJZjJsNk03cUVZTENwNHE0Y2hxMENyQW5qMll30gGuAUFVX3lxTE5hQWhXNm9qQUpUVUV1WHh3NXRpUWFMc1FKTlNhWW9tS0dBRVhmdFpYSTRodTUzSVlGVEtWOUhkOHlnNUJOeGVaamVjeFlhaFdsU3BQM3FyZHJJZWlXa18xN0JzQjJFd0E1a2pzQVZzd3ZpcE5jYVkyX3k0MXVSdE1GYWdiZ19Ba0NjWHB5Z1prNjRLOG50SUdmb3VPWF93QUFFYVlYWnNrNWZKX05FQQ?oc=5",
-      "date": "Feb 23, 2023",
+      "headline": "Guardian Credit Union announces ‘Letters to Santa: A Holiday Giveback’ campaign",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVJLUnd3MWZiRzVBWFlRbVlOakxsV3RaSjVhTjZETnF6emxiR2hpbjMtVTZrdmdnVjVNRXpHczEtUGY5aGZTSXd4TWR6eGpvVk1IVFA3ZUltb3RhVFdRWWVvOUliRHREZ3JhTHBrMzRCRjlRQnpjb29ySFFuSEJWSS1MWE9BalM3SXd6R3U3dFJYSUxTdnVmdkJLY3RUSHhZWDFONV9PRQ?oc=5",
+      "date": "Nov 27, 2023",
       "source": "WSFA"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
+      "headline": "Bracket Set for 2023 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMlJQcnppR0FIam02U0RIa2lkNzREVjVheXdqeGtLS3VBdHFNQnUwdm5FalhHYXE3X2lJRGVyN0RqdWZuYVFlSEI0WVBtSUo0LTlXSm9CN1pDSDVuM2x4S0hrQVFzZlB4eDZqWlpsZ3JWbURWb2ExbDlNTmZtVnBmZjRwa1VqNEJFS1U1aUNtcDJGTlhkWUszZEZ0UXEwNmxDSkF6NURMT0kxNDZYeVZpNTRYZ0lNOGJrcnBKMFZidDN3dWtMTDN1b3lFcGxmbm9nVklGVVFVZU5uZGZsSjVCNzN2WGk5SUVLYlBoQlFTSWU?oc=5",
+      "date": "May 20, 2023",
+      "source": "Sun Belt Conference"
     },
     {
       "inst": "marcus",
@@ -68,10 +68,10 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Bank Holiday On September 23: Are Branches Closed In Your City? Check Details",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbkl1N1ZRQnU3UTdkMVBDSTNFS2trWDJWWnpuVlNiRFJIZ2RTTzEzdnBFNWJkZnFmeTF6SUx2cFVYamZlOVFsOEN2U2NVQ0VuaU1pM1Y1bkpnSmkwd085WlRYR2JKMEw4NUZVX1FCWkczQkNkeUZ4TmxmanBvNjZEbnBVckRORlJlOURDT3h0SjNIS0VCN0VpczE2NGNhV0FvUFA1dWtjOVlBU3VoUDA0cmRBODJxNW_SAb8BQVVfeXFMTWIzRGNUUnJtdjFjXzA5QjFHeGowck9EdGxwUVEzRlBDQ0R4ZWRRMEk5WVA0Zzd5ODR3a1hsYVk0LTV6dENOZHVmWFNnTG9aWGVHMG1aX1cyTW5nQmZ0RnpnRGFZWmtvZ0VFLUNvT0NaX1A0dTBGSmM0TE1lbkdIZFVURFF0eHg4eVdnMjBhR2V6TVFuRDdFOFc4VGNZLW1NWkNoaEpIYW1nSzVBM3ctdTNhY24zUlNOQVhhLVZTSjQ?oc=5",
-      "date": "Sep 22, 2026",
-      "source": "NDTV"
+      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
+      "date": "Sep 21, 2026",
+      "source": "FinanceBuzz"
     },
     {
       "inst": "industry",
@@ -88,10 +88,10 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Are banks open on Labor Day? 12 federal holidays when your bank is closed.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk5jT2wtVkR3bjJiOC1uN3RiYWlvcEVmaTJuWktTTXBmdWZsSTZWQlhoV1J2Z2hQcTVRbGVPYjVNMlVIU25NZG4yV2U3UnRlcktUZWtmMks5d2pDRmcwajRFYms3cWRZOHVCaHp3S0c2NHVNLUtFM3pEU3NTZlBGMDk4UVlERGVzMURLdkZ3SGVlOGZxc0N5R0V3?oc=5",
-      "date": "Sep 6, 2026",
-      "source": "finance.yahoo.com"
+      "headline": "Simmons Bank closing 26 locations, 6 in Arkansas by end of 2026",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbjZ1MGRscE1ORzJfMGJFRXg5Z3BNejMwZEYwbEtwU2lzbERDOU9NbUN2aDVSS19reTVMMG82cjRMTVY3MDlJaFYyMVM3SmItQTRuN3VWcGM3NzRxbGhlN3g1QjhlWnJJZFVLbEFacmxFbW50ZUdEMTRjLU5ldWdYMnM1bV9pLVJfN3hjSXpCOHJXeVRZaXNraXB6c0NHMW0tRS1MUFNTa3owdTjSAbABQVVfeXFMTkY2QXl4Uy1yaFNIbXJhSm9OMHNrTDc1SzRCbUhYUEtRWGlUQXZKZnM2dDF5dTNtWFBvREgycTdnREh2bHJFc2JKWWVtSDV1YnF4N1lVVVRzeUh3S1dsNlA0WTBfdE45dEtpVUR0eHRrUjFFUXdlVE9TSU81MzJweFFrdktxVDFVZnQ2WmJOWjVwWnE1MUt3YWxqWjR0azhiYUhyRG13ZGI5ckpSN1ZEYks?oc=5",
+      "date": "Sep 4, 2026",
+      "source": "KNWA FOX24"
     }
   ]
 }
