@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T14:22:29.845Z",
+  "updatedAt": "2026-09-26T13:34:38.213Z",
   "categories": [
     {
       "id": "closures",
@@ -31,17 +31,7 @@
       "headline": "Guardian Credit Union coming to the Town of Pine Level",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
       "date": "Jun 19, 2025",
-      "source": "waka.com"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
-      "headline": "Guardian Credit Union announces ‘Letters to Santa: A Holiday Giveback’ campaign",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVJLUnd3MWZiRzVBWFlRbVlOakxsV3RaSjVhTjZETnF6emxiR2hpbjMtVTZrdmdnVjVNRXpHczEtUGY5aGZTSXd4TWR6eGpvVk1IVFA3ZUltb3RhVFdRWWVvOUliRHREZ3JhTHBrMzRCRjlRQnpjb29ySFFuSEJWSS1MWE9BalM3SXd6R3U3dFJYSUxTdnVmdkJLY3RUSHhZWDFONV9PRQ?oc=5",
-      "date": "Nov 27, 2023",
-      "source": "WSFA"
+      "source": "WAKA Action 8 News"
     },
     {
       "inst": "guardian",
@@ -52,6 +42,16 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMlJQcnppR0FIam02U0RIa2lkNzREVjVheXdqeGtLS3VBdHFNQnUwdm5FalhHYXE3X2lJRGVyN0RqdWZuYVFlSEI0WVBtSUo0LTlXSm9CN1pDSDVuM2x4S0hrQVFzZlB4eDZqWlpsZ3JWbURWb2ExbDlNTmZtVnBmZjRwa1VqNEJFS1U1aUNtcDJGTlhkWUszZEZ0UXEwNmxDSkF6NURMT0kxNDZYeVZpNTRYZ0lNOGJrcnBKMFZidDN3dWtMTDN1b3lFcGxmbm9nVklGVVFVZU5uZGZsSjVCNzN2WGk5SUVLYlBoQlFTSWU?oc=5",
       "date": "May 20, 2023",
       "source": "Sun Belt Conference"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
+      "headline": "Guardian Credit Union expanding to Prattville",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
+      "date": "Feb 24, 2023",
+      "source": "1819 News"
     },
     {
       "inst": "marcus",
