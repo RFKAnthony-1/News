@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T14:30:58.419Z",
+  "updatedAt": "2026-09-28T17:16:06.462Z",
   "categories": [
     {
       "id": "closures",
@@ -31,7 +31,7 @@
       "headline": "Guardian Credit Union coming to the Town of Pine Level",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
       "date": "Jun 19, 2025",
-      "source": "waka.com"
+      "source": "WAKA Action 8 News"
     },
     {
       "inst": "guardian",
@@ -41,7 +41,7 @@
       "headline": "Guardian Credit Union expanding to Prattville",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
       "date": "Feb 24, 2023",
-      "source": "1819news.com"
+      "source": "1819 News"
     },
     {
       "inst": "guardian",
@@ -68,30 +68,30 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "Lloyds closing North East bank as 23 shutdowns confirmed across UK in October",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb193UnRnYzlUU0RIVFFkekxfRWN2SXNYV0RzWXctU0FaTnd5RUtnTWFyTHF6NlJ3bmc1X0p1bm1QNjA5N1V1UEs0VlgtRHpuVWRsSTY2WGFIZzdTSDkyd0JuRzlhOFlWM2VtU1NMYXgzSF9IaXRVbVBMM2VadzJEcms1aDBmaDBhcDRPRNIBkgFBVV95cUxQXzY2MGlDOGxtM1NNdU9rYlhBN2Q4WmdOUUZmSGV2X2E1ZHFfT3diSGd4eUgxcWxGM0J1cDNaWGNyNGR4ZXBCVjk2VktNdkRKM1FLeUJJTHNmSzJncjk4MHdJRlJzUXk4ZG1MUFhjN2V2dVhYTW1JTDA4WDlNSDIzdWJHWUhqQ3VNZXN6RS1ORENjQQ?oc=5",
+      "date": "Sep 28, 2026",
+      "source": "Chronicle Live"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Bank closure this week: When and where will banks stay shut from September 28 to October 4",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSWRMOHpEeTdTUFpQdGc5c1FDdEk0UGlQb2l4TVY5SVhKR25kZDRTMTZJX2loRmxvYURWVGVCQ2kyNHl0OGJ0OHFfV1lyYjFQblZOSHdteWZ5ODNUUS1XVjRPMXpzWHhiV0tVZTF6U0tIdl95MEl6ZFk3a3lnVGNNMmFuaGVORWJsYm1TbDVCNC1FZVp1b1ZoYzV2cC11dHhySE9WS0ZNWjhWLUxQSG5zbjhrWDZHdHpnRC1vN3pMTi04SGtiVmN1NUJMTTJfVGJlN05rdXlPRnFHMUdaTHlGUU9PUE84WjFIQUxoMV85Q0hrMWd5ZGI2c2NSUmdFeTFsOU5qZkZn0gGLAkFVX3lxTE5IZGtnMmRweGwtQVk0RWxXNk9ES3JGdU5IQ1I4Uno2c1Z1eFVVdlp0bnk5MkZ5MmR1dDFHM09MU2s2R0Z1SXBSWkk1NTh1N2d6cFNHZ09oRjJMemZIX3cteEdnVThYRmVqYXdtYjBVeUxQNHNZUXdScVoxOFBldmM2RXJKdlRHeEhDb0wtbGdsVmVoU3oyUC1RNW9pdDFqUko5RkdMcHB2cVg4TXB5UFhKM1RraGhtd1dsWmdJTEpZTVBaeEJ1ZV9tZUhvZVFUeWt0ZVJOVWN3STVmWGd3MnVucUM2SS02amFGazU5a1p3WXlkVDFGc0ZZS0luZWRQMDA0R1lBNGNIWWhRNA?oc=5",
+      "date": "Sep 27, 2026",
+      "source": "The Times of India"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "TD Bank Has Closed Dozens of Branches in 2026",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
       "date": "Sep 21, 2026",
       "source": "FinanceBuzz"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Simmons Bank will close 26 branches, including six in Arkansas",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclRzNmVTeEdaNTg3aTVzZkhQQmdKQWRTMlhrdVREdV9Za2gyeTJaR3d2OUtuVXJtR2lvSzFjT1NmNUlfdzBSbGgzdHNZcXAzT2lMbkR0NHdfay10LTZsMG53R1hZZG1mc1ZvR1lfVzdXMmlMeXBURFJxRkRHYWZpbWZpQm5RYlFxUENNSzFLQ2VJXzA3REJJ?oc=5",
-      "date": "Sep 4, 2026",
-      "source": "The Arkansas Democrat-Gazette"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Rural communities hit by bank branch closures - MP",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKRVFnN29nSTdQTnh4ZFlUZ2JCTURNY1RMZEtCRDhvWElwdDZ6SzNkM2J1ZXh1SXROXzFBdzMtOEZFRGVGdVh3NGFqcUFpVlc5SkY5TVRLS2dzQQ?oc=5",
-      "date": "Sep 2, 2026",
-      "source": "BBC"
     }
   ]
 }
