@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:16:11.007Z",
+  "updatedAt": "2026-10-03T14:06:32.584Z",
   "categories": [
     {
       "id": "closures",
@@ -31,7 +31,7 @@
       "headline": "Solutions First FCU merges with Guardian Credit Union",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2s1OWJXenhzZjBKYUN6RjE5ZF9VS0tHUi1vUW5UTEpjS2wxaUphcTZpWWN3LUpfbS05OTBtNlpVTVZsYzhYVTRoYldsV2s4eUkzdTNDRUdKWG1vaFRIS2JtMjZ2andCZnpEYkV5Snh0WnhaZWx0UUhQM3RwWXhadV9TRjRWUW9QQWh3MVJxWUdwVmhNSTQ5UWtwVEgwa0M5V3hZcnNBUkJ3QQ?oc=5",
       "date": "Oct 1, 2026",
-      "source": "Dothan Eagle"
+      "source": "dothaneagle.com"
     },
     {
       "inst": "guardian",
@@ -41,7 +41,7 @@
       "headline": "Guardian Credit Union coming to the Town of Pine Level",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
       "date": "Jun 19, 2025",
-      "source": "waka.com"
+      "source": "WAKA Action 8 News"
     },
     {
       "inst": "guardian",
@@ -64,6 +64,16 @@
       "source": "The Guardian"
     },
     {
+      "inst": "marcus",
+      "instLabel": "Marcus by Goldman Sachs",
+      "color": "c-coral",
+      "category": "closures",
+      "headline": "Savings surge forces Goldman to shut Marcus to new UK clients",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjRKYWY0eFA5TkxUdFRlVk0wMEQyTVFvV0pyeDEwdXowRzloQjByeVpwemFRVkZLaFVBYXB5S1JUQk1leTZ6eFNzRmdadVh5NjNHU1UyNk9iYmVWQWxJanhkcWVMWkZZU0JNQ2VRMGsxd0Iyc0R6SnlPMzFVNnp2SEhZTWluYjlsRTB1T000S0JrMklKd0lQZ2xIWFJTNTjSAaQBQVVfeXFMUFgwRklZaXVmV1k0dmFVNnlWZFlDdmdGM21fNUtiREZlaHlBZ0FsU3VQZnF5bExaLTVfTG94TUVZOEV4eEdNZjcyY1B2NGRhdXlfTVhoTWVEN0tUZ3BZZUc4YVQzZ0pPcTlDamcxWVlfY0RmOGt0bWhNRG9jUGMwc2UxRjhidXZEZ05kdW1EVC1Ib0RFODVlOG9rWlBWVjVGeDQ0WXE?oc=5",
+      "date": "Jun 10, 2020",
+      "source": "CNBC"
+    },
+    {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
@@ -71,27 +81,27 @@
       "headline": "Gandhi Jayanti 2026: Are banks open or closed today? Check October 2 bank holiday status | India News",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3djaWVUMWdYTGtkaUs5azhRZl9BTG9Wb1lnTmtsaXR4Nl9XN1ZGbWJTQ094YjNnenhxNmszVFVXaVgwRWU5d1NNR1BMYW56b2VNWXhyNmE3V3I5N1lKWGFjMHQxWDFzNWRKNkpFbjhXUWhoNVpSa0Q1QUdLajVfLWZOc2dYdXNZUk02VlB0TGoxWkR3Q0l4U3l0UkZ2Ujh2TklvcTRTUDNyOW1feXJaN3VzSm12Vkx5aDhpd1phTmFheHBKbzRBYTZCTV9WcjBfVDAtMktudUVtR09ITGFxa2dCa9IB6AFBVV95cUxQblpkYXA5R25VV2x0VG9uNHI5RllRZjF6Yk5hbDB6bzQ2bGlScUw0RGVuUU9rMjJaZVo1V2Z1RDlIVlZxT1daU3ZIUmw4WlRxMUFONlZPQmw1RlpUd3dTRnhNM1VBMS1VWFdUajhTbEVINlVXb3dleXNQUkZRTlA2MjgyUGY5Q3lWb19PSTk0YXNnVTNiLXVuQ25ndVRUVTBNdEtpQnE3UTBVcGNYclpIWDVmVXNWMzBmRU1WOG5NTUU1UDVqQlRFcHlwVzRwYkZRdkNVTS1UajRpcmZpTmFnYUJDU3lwT2VQ?oc=5",
       "date": "Oct 2, 2026",
-      "source": "hindustantimes.com"
+      "source": "Hindustan Times"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Citizens Bank Is Closing These 6 Branches in 2026: Is Yours One?",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xVzdRazI5OXlGNVZWSDFPR1VjaU9rYzg1bjFfWE4tTlRLeVc3U01TLWUzMTZJLVFOYU14RG1Kd1JhU0V5NEw4WXcxY29hdm0wNGpVYUh5OHBCQ2ktcV9sWmhyYXpuZUstU0E?oc=5",
-      "date": "Sep 29, 2026",
-      "source": "FinanceBuzz"
+      "headline": "Growth, Consolidation or Both?: Bank branch expansion and contraction in northern Michigan",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONU9KOGZldTlqTnphT2stX0NjbHVrRm4tNm4zWTVLZUxuZG0wd3JwLTgzN0F3bTZyTm41YjFCQ2htTml4SUtKOXN4MnR1Qm5FRVpQbEljWFNjSUs2UTdvS2QtRHotTl9Xa05ycDVDZFcwTlNnaGJhRmMyQWU2cTFtbzlpWDVzRk5MakM3Q21KSjA3SmM0V1liOHVqalZFb3RFS0N0RjkwODFzb3lUY0xhWkZXbW5mU0dxdWNhanVWZw?oc=5",
+      "date": "Oct 1, 2026",
+      "source": "Traverse City Business News"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Regions Bank plans five branch closures",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejJyU3dYUWd6am1RVGtvam9Dc1J3MnI2dXRGOHdUcHNUZUQtWF80SzY3UkZzZkVQVVFDcXZVd2c4MDVGLW1ucjN0WVdKZEktbGRyYzdwUDVvTS03YjA2eDFkcEg1d1B5NFVnNm9Ta0xLMlhLejU1MUdlU1Y4cDZRRTY1czFBV2xFX2FIVEFRRzlRZWhrRUJLSjdMWEZSUQ?oc=5",
-      "date": "Sep 24, 2026",
-      "source": "The Business Journals"
+      "headline": "No branch closures: bank’s 2030 promise to the regions",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYTVzaWt6UWhCc280M0oxYXdzUlZNRWxUTUFKeEtRenZ2NTR0TVJzdEJ2RVJMWDZ6SVQ2RGJpbmJIQU9BZkFYU1VzbFg4X3ltaVpCUGwtOVFWUUtaREMxaFVGSk1WMDEzNi1sa2Q1MTJ1Sno3cVpqY0JGR091Y1pERVl3?oc=5",
+      "date": "Oct 1, 2026",
+      "source": "Michael West Media"
     }
   ]
 }
