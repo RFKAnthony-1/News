@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T14:06:32.584Z",
+  "updatedAt": "2026-10-04T14:33:49.383Z",
   "categories": [
     {
       "id": "closures",
@@ -31,7 +31,7 @@
       "headline": "Solutions First FCU merges with Guardian Credit Union",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2s1OWJXenhzZjBKYUN6RjE5ZF9VS0tHUi1vUW5UTEpjS2wxaUphcTZpWWN3LUpfbS05OTBtNlpVTVZsYzhYVTRoYldsV2s4eUkzdTNDRUdKWG1vaFRIS2JtMjZ2andCZnpEYkV5Snh0WnhaZWx0UUhQM3RwWXhadV9TRjRWUW9QQWh3MVJxWUdwVmhNSTQ5UWtwVEgwa0M5V3hZcnNBUkJ3QQ?oc=5",
       "date": "Oct 1, 2026",
-      "source": "dothaneagle.com"
+      "source": "Dothan Eagle"
     },
     {
       "inst": "guardian",
@@ -48,10 +48,10 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Bracket Set for 2023 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMlJQcnppR0FIam02U0RIa2lkNzREVjVheXdqeGtLS3VBdHFNQnUwdm5FalhHYXE3X2lJRGVyN0RqdWZuYVFlSEI0WVBtSUo0LTlXSm9CN1pDSDVuM2x4S0hrQVFzZlB4eDZqWlpsZ3JWbURWb2ExbDlNTmZtVnBmZjRwa1VqNEJFS1U1aUNtcDJGTlhkWUszZEZ0UXEwNmxDSkF6NURMT0kxNDZYeVZpNTRYZ0lNOGJrcnBKMFZidDN3dWtMTDN1b3lFcGxmbm9nVklGVVFVZU5uZGZsSjVCNzN2WGk5SUVLYlBoQlFTSWU?oc=5",
-      "date": "May 20, 2023",
-      "source": "Sun Belt Conference"
+      "headline": "Montgomery-based Guardian Credit Union building HQ in Prattville",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGw2YTlYRnAweGVjbjIyOF84N0F0YUhtcTMxU2hGbjVzTFBRcmtiLUtGN2RuVTRzdHVHSDdGTzhFRER0YlFvRWlBV1JzaDhKRXFOeFlndFE3LW1VNTVaUW15VTZtNEVqRm84M2sxd2NsRzZyTF9zQmxGLTZWNWRJZjJsNk03cUVZTENwNHE0Y2hxMENyQW5qMll30gGuAUFVX3lxTE5hQWhXNm9qQUpUVUV1WHh3NXRpUWFMc1FKTlNhWW9tS0dBRVhmdFpYSTRodTUzSVlGVEtWOUhkOHlnNUJOeGVaamVjeFlhaFdsU3BQM3FyZHJJZWlXa18xN0JzQjJFd0E1a2pzQVZzd3ZpcE5jYVkyX3k0MXVSdE1GYWdiZ19Ba0NjWHB5Z1prNjRLOG50SUdmb3VPWF93QUFFYVlYWnNrNWZKX05FQQ?oc=5",
+      "date": "Feb 23, 2023",
+      "source": "WSFA"
     },
     {
       "inst": "marcus",
@@ -62,26 +62,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
       "date": "Jun 10, 2020",
       "source": "The Guardian"
-    },
-    {
-      "inst": "marcus",
-      "instLabel": "Marcus by Goldman Sachs",
-      "color": "c-coral",
-      "category": "closures",
-      "headline": "Savings surge forces Goldman to shut Marcus to new UK clients",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjRKYWY0eFA5TkxUdFRlVk0wMEQyTVFvV0pyeDEwdXowRzloQjByeVpwemFRVkZLaFVBYXB5S1JUQk1leTZ6eFNzRmdadVh5NjNHU1UyNk9iYmVWQWxJanhkcWVMWkZZU0JNQ2VRMGsxd0Iyc0R6SnlPMzFVNnp2SEhZTWluYjlsRTB1T000S0JrMklKd0lQZ2xIWFJTNTjSAaQBQVVfeXFMUFgwRklZaXVmV1k0dmFVNnlWZFlDdmdGM21fNUtiREZlaHlBZ0FsU3VQZnF5bExaLTVfTG94TUVZOEV4eEdNZjcyY1B2NGRhdXlfTVhoTWVEN0tUZ3BZZUc4YVQzZ0pPcTlDamcxWVlfY0RmOGt0bWhNRG9jUGMwc2UxRjhidXZEZ05kdW1EVC1Ib0RFODVlOG9rWlBWVjVGeDQ0WXE?oc=5",
-      "date": "Jun 10, 2020",
-      "source": "CNBC"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Gandhi Jayanti 2026: Are banks open or closed today? Check October 2 bank holiday status | India News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3djaWVUMWdYTGtkaUs5azhRZl9BTG9Wb1lnTmtsaXR4Nl9XN1ZGbWJTQ094YjNnenhxNmszVFVXaVgwRWU5d1NNR1BMYW56b2VNWXhyNmE3V3I5N1lKWGFjMHQxWDFzNWRKNkpFbjhXUWhoNVpSa0Q1QUdLajVfLWZOc2dYdXNZUk02VlB0TGoxWkR3Q0l4U3l0UkZ2Ujh2TklvcTRTUDNyOW1feXJaN3VzSm12Vkx5aDhpd1phTmFheHBKbzRBYTZCTV9WcjBfVDAtMktudUVtR09ITGFxa2dCa9IB6AFBVV95cUxQblpkYXA5R25VV2x0VG9uNHI5RllRZjF6Yk5hbDB6bzQ2bGlScUw0RGVuUU9rMjJaZVo1V2Z1RDlIVlZxT1daU3ZIUmw4WlRxMUFONlZPQmw1RlpUd3dTRnhNM1VBMS1VWFdUajhTbEVINlVXb3dleXNQUkZRTlA2MjgyUGY5Q3lWb19PSTk0YXNnVTNiLXVuQ25ndVRUVTBNdEtpQnE3UTBVcGNYclpIWDVmVXNWMzBmRU1WOG5NTUU1UDVqQlRFcHlwVzRwYkZRdkNVTS1UajRpcmZpTmFnYUJDU3lwT2VQ?oc=5",
-      "date": "Oct 2, 2026",
-      "source": "Hindustan Times"
     },
     {
       "inst": "industry",
@@ -98,10 +78,20 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "No branch closures: bank’s 2030 promise to the regions",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYTVzaWt6UWhCc280M0oxYXdzUlZNRWxUTUFKeEtRenZ2NTR0TVJzdEJ2RVJMWDZ6SVQ2RGJpbmJIQU9BZkFYU1VzbFg4X3ltaVpCUGwtOVFWUUtaREMxaFVGSk1WMDEzNi1sa2Q1MTJ1Sno3cVpqY0JGR091Y1pERVl3?oc=5",
-      "date": "Oct 1, 2026",
-      "source": "Michael West Media"
+      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
+      "date": "Sep 29, 2026",
+      "source": "FinanceBuzz"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "U.S. Bank Is Closing Local Branches in 2026: Is Yours One?",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xM1d3bmhPZDlqcHVMTVZFWWs0djljWWFOaW5tbFJmZ0h3VnJJNFNJU0g5bExCaGdJUDlHbFYzUWw2dkFYWkNfYklSQVdxcDZ5X2VFY0VNYWtZTktIZ2pvaWF3?oc=5",
+      "date": "Sep 29, 2026",
+      "source": "FinanceBuzz"
     }
   ]
 }
