@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T15:45:23.283Z",
+  "updatedAt": "2026-10-10T14:58:03.557Z",
   "categories": [
     {
       "id": "closures",
@@ -68,16 +68,6 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Banks could join forces to save regional branches",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXNTTC1wVWNqc1U5OVNlWFZSamZELUFPSkZFZlRGbV9XR0JLZjJCQmdmc0FLdlJLSzBVS2lQbHFoMVg3Y0RheTh4ZzgyWjNYRDBtSVI5M3dEZ3dPTnlvWVlPc1h4ZGExdWl3QU5iQUI0eFVaTEpXRFltSnpXN2JRb09ZXzdlMUEyYXA4SndhMVY4THRaNnNBQ3FyS3h3NWpEMUFFUw?oc=5",
-      "date": "Oct 8, 2026",
-      "source": "InDaily South Australia"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
       "headline": "Growth, Consolidation or Both?: Bank branch expansion and contraction in northern Michigan",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONU9KOGZldTlqTnphT2stX0NjbHVrRm4tNm4zWTVLZUxuZG0wd3JwLTgzN0F3bTZyTm41YjFCQ2htTml4SUtKOXN4MnR1Qm5FRVpQbEljWFNjSUs2UTdvS2QtRHotTl9Xa05ycDVDZFcwTlNnaGJhRmMyQWU2cTFtbzlpWDVzRk5MakM3Q21KSjA3SmM0V1liOHVqalZFb3RFS0N0RjkwODFzb3lUY0xhWkZXbW5mU0dxdWNhanVWZw?oc=5",
       "date": "Oct 1, 2026",
@@ -92,6 +82,16 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
       "date": "Sep 29, 2026",
       "source": "FinanceBuzz"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Regions Bank plans five branch closures",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejJyU3dYUWd6am1RVGtvam9Dc1J3MnI2dXRGOHdUcHNUZUQtWF80SzY3UkZzZkVQVVFDcXZVd2c4MDVGLW1ucjN0WVdKZEktbGRyYzdwUDVvTS03YjA2eDFkcEg1d1B5NFVnNm9Ta0xLMlhLejU1MUdlU1Y4cDZRRTY1czFBV2xFX2FIVEFRRzlRZWhrRUJLSjdMWEZSUQ?oc=5",
+      "date": "Sep 24, 2026",
+      "source": "The Business Journals"
     }
   ]
 }
