@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T13:41:48.735Z",
+  "updatedAt": "2026-10-17T12:38:22.362Z",
   "categories": [
     {
       "id": "closures",
@@ -78,6 +78,16 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "Saturday bank holiday: Are SBI, HDFC Bank, ICICI Bank and others open or closed today on October 17, 2026?",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUUp5ZTRzUTJseHZfQlEwYVVXaTBkS1ZfQXdIY3pQTFpfeklrWkdsOUZMckdlQTZ1bXBVMmZMU3EwaUxldjJYSF9uN3RpbldWcVY2OUV2SXpodHVGQTFocXVZMnJLd3MtYnlYVUNtZFFzRDVlRmlKWWpRUlJYUVItbjRfd2xlQVItcmg1blJ4MHBpeEJrZUhiM0J5VmlieWI2NU1MRkcwcVFFWWZpQ1FDdFJ6dlFCaDZ2TEdpZS1PdW43MUxnRVNBSDdJazhGUFBUUXpHY0hFWGJSNVlrWm8tWUNoSTVkQWUwZkE0czRQOXI1NEhxREFn?oc=5",
+      "date": "Oct 17, 2026",
+      "source": "The Economic Times"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "Bank branch closures: as banks shut their doors, brokers open theirs",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDVVazVrYXRIR0tzemNyVmdad1pFVjN6XzV4eVFiMWh2dlhfeGVSel83M3R2YnBVTkxJMW82XzNzZjBMUEJXSWh6cjNpVnYwTG9vX0F6RVRUUlVpOWptNzVqQ0F1a2ljTHY0Z0FKWGo0MnZRbHU5eGNfN0luVEs4Z1hkMVpCamFFQW1ZeXQxQjRQOVlCakZ4THRROTl6TDhtbXVfanBmS0MyeFFCMEZOTHRn?oc=5",
       "date": "Oct 15, 2026",
@@ -92,16 +102,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2QnhKUFYzRUh6STMwQkpHRmdtcUNRdDM0bDZ3TTl1NTFKOEdvbU9IblE5ckFuX2VIRFh5OHJYYnd6MnJhNUNfcHZ6WkQxOWkwa0U0OERQcWk2YmJhUW9zYk5meXhFaFR5Uy1fUC1ZN1RVcllLSnFr?oc=5",
       "date": "Oct 12, 2026",
       "source": "Aktualita.co"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "What's closed on Columbus Day? Are banks open, do we get mail?",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPclhtdGlwTHRZeHZvUzRtcVV0VzRnakRoQ0tXXzZfYmtDcVNKWEJtQi1vQjN5bXkwcC1pZUFsbnM5RmhPUDR2eWg3cU5sX0NWM28xczRvMjF1UnJuemZranJtd0lHcmJtT1VpcDk2Y0hsWFBhbFo5elVibmthZW1xTGJQTTlLZjNTQWI3Mm51LXQ3d1dBQ0psdmRsTnFMaFR2VkF4a0xOQkpzUXI1ZUJ2UUc3eTMzRE55NVhBMGxqNXZDS282OU9uQXFTR3ZhdXB6YVVCVWdQZnd0Vi1OQ3liLVBzRnBBYUhLS2pCbFJwTQ?oc=5",
-      "date": "Oct 9, 2026",
-      "source": "Bergen Record"
     }
   ]
 }
