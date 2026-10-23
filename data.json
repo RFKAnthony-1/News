@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T14:17:22.104Z",
+  "updatedAt": "2026-10-23T14:00:31.269Z",
   "categories": [
     {
       "id": "closures",
@@ -78,30 +78,30 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "Beacon Financial CEO eyes branch closures as bank pursues post-merger efficiencies",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXJabUVGcG1tTzNJOTVxMVJvWWk1bTlpb25LeXFZUG16ekdpOHZ5MFJDdUdsVHhDUEZlVWxRNjNqZFg1SjZqaWhFVVZ2cGRpSHlWYWd5b1BtMjk0cHhkWXcxWXBEMmg3eWNpaUZZQm9yRUlXVk1PbEVUMkRtREpVUlk5RjNsVDZsZGFNNk9aOER6cDR4UzR0eEotUEtwYVdfS2RHaF9lY1ZwZw?oc=5",
+      "date": "Oct 23, 2026",
+      "source": "The Business Journals"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "More Wendy’s Restaurants Closing in Michigan as Bankruptcy Continues",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3UHhhQnY0Si1QTkxHaTY1Z1ZteXM2NVh2S1VLdHdMLVc1SWd1TnhZdE12bnNvNlprZHcwU2FQQzJYMnhvVWxJZE5GZXNpZ3A5U2plZlBfa3dha2dKQlhmN0pUd0t1R2xzeFk0MQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1anczN3JUYkdvZ1p6RW14OXo5WE9qSkcwbWw5dndrc3lZZlBINW9jMUVFYlgyTjh2dDlnSUsxWnVwRVlLNmdHTzZVTi1SaFFwdDNxOTEzZm9WdkxnME5oVGZZd2hhb28?oc=5",
       "date": "Oct 20, 2026",
-      "source": "Mix 95.7"
+      "source": "97.9 WGRD"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Bank branch closures: as banks shut their doors, brokers open theirs",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDVVazVrYXRIR0tzemNyVmdad1pFVjN6XzV4eVFiMWh2dlhfeGVSel83M3R2YnBVTkxJMW82XzNzZjBMUEJXSWh6cjNpVnYwTG9vX0F6RVRUUlVpOWptNzVqQ0F1a2ljTHY0Z0FKWGo0MnZRbHU5eGNfN0luVEs4Z1hkMVpCamFFQW1ZeXQxQjRQOVlCakZ4THRROTl6TDhtbXVfanBmS0MyeFFCMEZOTHRn?oc=5",
-      "date": "Oct 15, 2026",
-      "source": "Mortgage Professional America"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Simmons Bank closing 26 locations, 6 in Arkansas in December",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1o5TEhvSmlhLWVxZ1JRQV9od2lBeVNHbmYyR3pVOElIb2pmY0h3d2o4dF9nRUw3VE1vWXRjRVZlS2dnWExZNkQ5S0pOOVpGeHVZcGtBdFhlV2xKOVowS1JZaFZWMWxBeTJGcVQwSHRIRzRXdzB1RTV0cG1XYUpPUXJRMWFzdjh5OEIyYndXR0JIT3FhOXZDUzJwN29xRXhDQk9tN29KMGpDM3ZFSGREYm9PbXJKSERscWFfZDREQUhDQXdjdVVwMXZXY1dGLTZSTDd1Y3Y1emZmNWNYYk1lX0pR?oc=5",
-      "date": "Sep 4, 2026",
-      "source": "KATV"
+      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
+      "date": "Oct 20, 2026",
+      "source": "FinanceBuzz"
     }
   ]
 }
