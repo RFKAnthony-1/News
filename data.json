@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T14:00:31.269Z",
+  "updatedAt": "2026-10-24T13:02:59.428Z",
   "categories": [
     {
       "id": "closures",
@@ -48,10 +48,10 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Guardian Credit Union coming to the Town of Pine Level",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW84dWNKY3dPOVFpTFB5cnozOXVhdXU1TVlyWFZLQ3dCMktLcG5Ia2x2cFgydDltRkoxaVU0MlpxM2JTNzUtVlVGXzcwLXFrQ0tjMkVPZ0E1MjZNQXQ1c3RwdWh5VkVmdWhpMkpQUWkzRFViRmxzUDduLXFEaEhFNi1QajR1Q292MzRoZFNXazM?oc=5",
-      "date": "Jun 19, 2025",
-      "source": "WAKA Action 8 News"
+      "headline": "Guardian Credit Union expanding to Prattville",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
+      "date": "Feb 24, 2023",
+      "source": "1819 News"
     },
     {
       "inst": "navyfederal",
@@ -88,18 +88,18 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "More Wendy’s Restaurants Closing in Michigan as Bankruptcy Continues",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1anczN3JUYkdvZ1p6RW14OXo5WE9qSkcwbWw5dndrc3lZZlBINW9jMUVFYlgyTjh2dDlnSUsxWnVwRVlLNmdHTzZVTi1SaFFwdDNxOTEzZm9WdkxnME5oVGZZd2hhb28?oc=5",
+      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
       "date": "Oct 20, 2026",
-      "source": "97.9 WGRD"
+      "source": "FinanceBuzz"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
+      "headline": "These Bank of America Branches Are Closing in 2026: Is Yours One?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNmpWeG5ZYUhwZS14Q28tb0NuamI2Z1pHdVdkcFNJOEIyTzRHMmk5bTUxd3Itcm15N204b0RfLU9HR2w0dVBmV0g0T0g2dmQ3cC1SVS1ncktabkF5Y0tUUzRId3Exdm5PeXFuQg?oc=5",
       "date": "Oct 20, 2026",
       "source": "FinanceBuzz"
     }
