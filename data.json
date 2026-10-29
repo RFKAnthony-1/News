@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T15:40:13.494Z",
+  "updatedAt": "2026-10-29T15:47:31.071Z",
   "categories": [
     {
       "id": "closures",
@@ -58,16 +58,6 @@
       "instLabel": "Navy Federal Credit Union",
       "color": "c-blue",
       "category": "closures",
-      "headline": "Navy Federal Credit Union Opening Branch in Newnan",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVVXOHN4UmRKMDgzcTRyQjhyY0FLUDd5NjRSRFRReFQ5VmhJbUZ0a0UyYlgwVkpqd2c2THFid1RQNEFtdHhwaVQzU2F6QmtoT3dWZFJYa0l4TzRTRVNMZDRwbXFhOC1sWHNqRW9ITVR6cE5lZ1UyU2tEeXB4UnlCbjhXYUFTNG5ZbWVnYnc0Slg?oc=5",
-      "date": "Nov 25, 2024",
-      "source": "The City Menus"
-    },
-    {
-      "inst": "navyfederal",
-      "instLabel": "Navy Federal Credit Union",
-      "color": "c-blue",
-      "category": "closures",
       "headline": "Navy Federal Credit Union branch in Columbus temporarily closes after positive COVID-19 case",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjBUM0FWcl9RWDVJMWxubVZhQUpCNmw3X0QwNFlTTzNYRWJadlFOcWI3VC12LTV0NWdleWZIc3hhVU1jMkdPdzhhd2tLTlFyMmppS29DVXlQWmV6a0JuXzlGalo1NTBZSTVoTGxBdkk0SUZQYktJQ0RMNFZMTS1SVEVZejBfTi1EVFlNWTRiWjRIelFDR0F5MGtMRnhiUWI3SUExY0VlQ2lQYmgzdEluYlh0VWxCbDdMcVFN0gHPAUFVX3lxTE9nT1VTR2tIczhhbmNkclBHT293SW40MGtHNjAxaVRQMnR3WDFQWXZ3SkxWcDNfMFFBTWozdVlVUV9kRGpqbFVPY3YycEx5SlFneGJTYU11ZVRZcUQ5RmM1UEVzZTdtQlVNcFRDMXJHLV9IczVab29mYVZGWUx0RFFzbFo4VUJ0X25jdVdaVGtBNWlGTDlSZElMQzE2dEdJVTBRTmpkb2xzcFdwTzI3U3FHTHNzcmVZOXhnN1YxZFFNdk5ON3RhT0dvQXhrTlQ0MA?oc=5",
       "date": "Aug 31, 2020",
@@ -84,12 +74,32 @@
       "source": "The Guardian"
     },
     {
+      "inst": "marcus",
+      "instLabel": "Marcus by Goldman Sachs",
+      "color": "c-coral",
+      "category": "closures",
+      "headline": "Savings surge forces Goldman to shut Marcus to new UK clients",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjRKYWY0eFA5TkxUdFRlVk0wMEQyTVFvV0pyeDEwdXowRzloQjByeVpwemFRVkZLaFVBYXB5S1JUQk1leTZ6eFNzRmdadVh5NjNHU1UyNk9iYmVWQWxJanhkcWVMWkZZU0JNQ2VRMGsxd0Iyc0R6SnlPMzFVNnp2SEhZTWluYjlsRTB1T000S0JrMklKd0lQZ2xIWFJTNTjSAaQBQVVfeXFMUFgwRklZaXVmV1k0dmFVNnlWZFlDdmdGM21fNUtiREZlaHlBZ0FsU3VQZnF5bExaLTVfTG94TUVZOEV4eEdNZjcyY1B2NGRhdXlfTVhoTWVEN0tUZ3BZZUc4YVQzZ0pPcTlDamcxWVlfY0RmOGt0bWhNRG9jUGMwc2UxRjhidXZEZ05kdW1EVC1Ib0RFODVlOG9rWlBWVjVGeDQ0WXE?oc=5",
+      "date": "Jun 10, 2020",
+      "source": "CNBC"
+    },
+    {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Bank holidays in November 2026: Check state-wise list of bank closures and festival dates",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNREdKTXN0c1dPNTdqS1VhSGdObkZhYnRpdUt3dlMwU1FEcHhpcmdiTmtOZmYxRDJRMVlXdWMzYWtaSGtsQjVrLWJPbmRZUEtuNVBOcXlkZzJhOVoxWEdlRHI0YWVXSmVVcldiNW9lazA4enFCVE1Gckk4NlZROGwxb0d6X0ZpV2RXc2VpTTJqaEtfZ3ZwRHd4Wi1fVTFNSklldUs0Wm1KdWJwLUQtNzFtM3pVbUFFM0swSEVqQUJ0anUtTk9ZcUduY3Y5eDJiZFBza0F4b0YtbFF6M0N5OEJHU19fVGdRSk5GZ2fSAe8BQVVfeXFMTWE1c0hHZS03bXR5VVU1VEx0dkZLaDYyanNWT191YXkwOWxIdXlxN3F3VWRsU3h1U2t3X3cxVFd0Q1pZXzk2V21PUnFNeGJ6LUs3OXlKY1drTzBJRzEyOGhRV1JiY2Y2MGxuaERHN0FndUNuV2RSS1F5aWZJNnU3ZDlNNVFCNzRxMXB3VURvQlBwZEJyMF9ub2FUVEdZQUJmX1p2MWRabFZ0bWhKcjlQb1BneXMxUS1tMlZ1MkFRQjJDbGdNSF90Wm1nU1ZQUlFMZVVCUVBnTEhjbVNaWEdOTklLSmFfV2tBUFBxNjBKTk0?oc=5",
+      "headline": "Karwa Chauth 2026 Bank Holiday: Are Banks Open Or Closed On October 29?",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNU1GYVNMVnJlVTZFLVJPUE9nWU1NaVNRR0JBaHczU011WHlWel9MSldEb2pnemVrODhybWtXVS1oUjNDZUJqeDJVbjVhbkxsblBQSUJjWkZYbVJPaVczb3BGTTVoUnVrTkl0amlMd1ZzWlpsWkkta21DQzgtaHpPbGMyWnVZMnByVkpVWkVJN09uSThFM0FhcEotenhwZGkyMFFZa0NiNHpQN2JiZlYydnZvNG3SAbwBQVVfeXFMTkx5RXVUTk54dXR0WlRFaEtXeEtlZmRSbG56NTlZQ2g2NmEybWp6VlRFeFN3cFdIaTdlRllGdWE3Vzl5Z21fSHBkTUR5NzQ0TFZKaWhVWlJYSEhJNVVOT0hNOUZ1bzJvU0dGSmJrb3J4Vks5S3RuZ0lHUGVqaS1maFZxQUZMX0g4aUg5b3V4VVEtTEJsczBOVjBVMHp1MXF0TGd4dFI2TnlZWU1uRzYtZWpqTmpuTnd6ZlNlaU0?oc=5",
+      "date": "Oct 28, 2026",
+      "source": "NDTV Profit"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Are banks open across the US on Halloween 2026? Hours, closures and what customers should check before goi",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNnVWbVdtX1R3QU5xZ2J0Qm9XQlpOMXk1XzhRSGpWX3d6TkJZM240US1jcTA1VHZuVklZZEpnVFFNRFp5UTN2aThtY3hucDRTX0t3dXZ0RUdZZjh3dklsR081cEs1X0dqUEFsQUs3SnNsOGJ1Y2JneDlzQkMwVHBLbzVHYmZITlBHX3V0UDEwaUN5TmtKeEFnVkNiTWh4S1plb0poaU5xZW9xeVMwall2Q19RZFBPcHNjaTR1cUNxVHlVeFg5NlVYaVNVa3lRX3h0RXJMRHVZVWNVOF9kU05mbDRwWHJsVE9wLWlIX3ZEQTlRcXRNMmdPOWJMR0dBalhYa1UzVzVJcldwbUlGUktiMTMtSElkQdIBmwJBVV95cUxPQldDRkRyZExrMklIT0NjS0ZtNVFzOWJJbGJCQnJmMUxIVUR6eS1DbE1CSlB1NFBpZG1uZFprVFpTVC1qamRvbXl3cWhCdWdvb3VKbko5eGZTcEt5LXhWSE1FWnBnTkxSN2dOazZNNzhvMXM5NmRtMFV6VVYtYnpJSzdwRHl3V2dGYzZsdnc4VlhDMWFaSzRYUDkwRk5IRXVoQ3Y5RWUwWURaYkwzdWYwM0NCNHpkNTRNamxyVThhb2hOSVFnbkh5ZmV0LTRIY1BDYVBTTUNPSkhCNmllQXFWak9KTUlzVjg2QmI1bWIwZGxETHhWbWozVlVtMm9MMGtiQ3FmVE42dTI2TG5ocnpGVGhkS1FmM05NbklV?oc=5",
       "date": "Oct 28, 2026",
       "source": "The Economic Times"
     },
@@ -102,16 +112,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2NZeVJZa1FncVVGVnRuU18tcTVaYjcxMnVZZzRQRFhQS1lJYnRPSWFwN04zWlhIcW9lWWlwVW11UWxfN3JMWW85RUtVS0RpM2tJcHJyV3BGVzlhWHJ4b0I4clNHS1dReTduQ0lhZ3Q4TU5kZkQ3ZEhhSDVtMGFWei1GX0JXTmwzNHM3QlBmWEPSAZYBQVVfeXFMT25Fb2xYenh3VG5RcmluZC1iM2FKTVNlQnZIVmQ0eXFveTFuS19jT0VCdDVFTnBZa1NFUlBTUE1JeDE1RllGeURaMDREZUZiUFMwUFpxTjVLOEpXQXdDS2RiM1lpa1JQMFg5d21IVmUzSzVmanBMLUU1bnFPTkRQX3hDWEVmeGJKa0RTREtMRnVkdG5Sa3NB?oc=5",
       "date": "Oct 27, 2026",
       "source": "Metro.co.uk"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Every high street bank closing in November",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0xvMjktY3Bna0tzZTlaXzI1Y1hZUUozSVByUzBNQmcyb1JjNVRfMmxhelhlWnlpMEt0OUJzQktRU1pLMW5jeTZSRVNJbXFvSFhyOG1Kd2FVOC1mVG4wS0RYUnh1X3JNRHJWV1hUN096bzlOUWhKWU9zVHVzMU8tS0RXaGJfSGd0dGYyaG9IUUJBZVU4ajc1Zll4X3NOZkU1VHlBN3Rjaw?oc=5",
-      "date": "Oct 27, 2026",
-      "source": "The Independent"
     }
   ]
 }
