@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T15:28:48.614Z",
+  "updatedAt": "2026-10-31T14:57:13.459Z",
   "categories": [
     {
       "id": "closures",
@@ -28,6 +28,16 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
+      "headline": "Guardian Credit Union Completes Lending in One Conversation with Eltropy's AI-Powered Digital Platform",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNUh0M0I0bzZnZXZSdlh1c1NwNVFGMHBOSDdFUW5nbHdKMEtJVEh1Zy0zRkZXUUtMTDItQ09rMjhDd1VVTlVmT2NUc0o1YVNfZllhbVlJZjJFVk9SV2R5MmgyWHA4R0gyRkg0Y0RiM0xOWXk4TFVQUG9aWjNtNVpCZUN0ZENtS0Zzb3RZSkM3Wld2LVRVd2NXTGRXYlp0T1gwZTZVaHJVNWpRUXlKNkp0bFpPRVlSb1R2X0VFTW5TREVfMnlCelQtM0dLY1pya3JFczJTbWI0LWJ1b28xd1BWM0EwWGY?oc=5",
+      "date": "Oct 15, 2025",
+      "source": "EIN Presswire"
+    },
+    {
+      "inst": "guardian",
+      "instLabel": "Guardian Credit Union (AL)",
+      "color": "c-teal",
+      "category": "closures",
       "headline": "App State & James Madison Advance to Semifinal Saturday at Guardian Credit Union Sun Belt Baseball Championship",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSlZUS0tkYjhjdmFUSXlJUERMSmhnWm5ueE1TeWFCcWZuOVo5SkdNSnNmRmhrLVZWbTgwd1lPRVlqRVdzRDd1ejkxdFdIRzJ1Nlhudkt0dnpqSE9jdmktb0dRNU9VTkhsOTFWR1l6Y1R6RXJmZ1NISGZtT2hiUW51UEl1WUxzNUktREE0REU4NVZ2TDBvN3F5LXp4eHhhaXNVZ1hvWktuSVBsZkd3cmxNYnVreVNua3dlODFReXFhRUZQcEgzT1l2RkZzMERjU0R0NE04Y0wzLV9Ra3hnckJKQU9WRDB2cUZUdUlF?oc=5",
       "date": "May 24, 2024",
@@ -38,20 +48,20 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Guardian Credit Union announces ‘Letters to Santa: A Holiday Giveback’ campaign",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVJLUnd3MWZiRzVBWFlRbVlOakxsV3RaSjVhTjZETnF6emxiR2hpbjMtVTZrdmdnVjVNRXpHczEtUGY5aGZTSXd4TWR6eGpvVk1IVFA3ZUltb3RhVFdRWWVvOUliRHREZ3JhTHBrMzRCRjlRQnpjb29ySFFuSEJWSS1MWE9BalM3SXd6R3U3dFJYSUxTdnVmdkJLY3RUSHhZWDFONV9PRQ?oc=5",
-      "date": "Nov 27, 2023",
-      "source": "WSFA"
-    },
-    {
-      "inst": "guardian",
-      "instLabel": "Guardian Credit Union (AL)",
-      "color": "c-teal",
-      "category": "closures",
       "headline": "Montgomery-based Guardian Credit Union building HQ in Prattville",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGw2YTlYRnAweGVjbjIyOF84N0F0YUhtcTMxU2hGbjVzTFBRcmtiLUtGN2RuVTRzdHVHSDdGTzhFRER0YlFvRWlBV1JzaDhKRXFOeFlndFE3LW1VNTVaUW15VTZtNEVqRm84M2sxd2NsRzZyTF9zQmxGLTZWNWRJZjJsNk03cUVZTENwNHE0Y2hxMENyQW5qMll30gGuAUFVX3lxTE5hQWhXNm9qQUpUVUV1WHh3NXRpUWFMc1FKTlNhWW9tS0dBRVhmdFpYSTRodTUzSVlGVEtWOUhkOHlnNUJOeGVaamVjeFlhaFdsU3BQM3FyZHJJZWlXa18xN0JzQjJFd0E1a2pzQVZzd3ZpcE5jYVkyX3k0MXVSdE1GYWdiZ19Ba0NjWHB5Z1prNjRLOG50SUdmb3VPWF93QUFFYVlYWnNrNWZKX05FQQ?oc=5",
       "date": "Feb 23, 2023",
       "source": "WSFA"
+    },
+    {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
+      "headline": "Navy Federal Credit Union Opening Branch in Newnan",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVVXOHN4UmRKMDgzcTRyQjhyY0FLUDd5NjRSRFRReFQ5VmhJbUZ0a0UyYlgwVkpqd2c2THFid1RQNEFtdHhwaVQzU2F6QmtoT3dWZFJYa0l4TzRTRVNMZDRwbXFhOC1sWHNqRW9ITVR6cE5lZ1UyU2tEeXB4UnlCbjhXYUFTNG5ZbWVnYnc0Slg?oc=5",
+      "date": "Nov 25, 2024",
+      "source": "The City Menus"
     },
     {
       "inst": "navyfederal",
@@ -88,10 +98,20 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Bank Holidays in November 2026: Check full list of dates & closures",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZWh0b2xQSVE4ZkVrOHJVVzdibS1BYnhSRUhWcml6OEZPYU1hR1d0RlF5eHpQM0J4TWVKS3JJV3ZLdm5WTUZUNllncjVpRzVLaHVKdXhoWmdraVZIU3ZKMlVRZXJRZ3RfZ1p6amNhX3dINzBJRWV2MTM5cHdqM0NvVlFJTEhtS3E5amRlU25PTktMc20xYjkxSmJmWEFSeURTb3k4Tnhxd3NWbnU1V1cwOUVfNXVKc0pRb0VHQ0dpOHVlc3JnUDhXTk9lXzRTQkh6SXFLdWpnQldOcXprSnfSAeQBQVVfeXFMTTdjclN1bEtqTGJoaDFMcWdJbUdiV3dPdllmN2JzenQtenpfX1FEd1BfQWpqcEZDa0FhSVpPZFBsMFVqX1VKa3M2YklsSG5vTlNLbklVR1R3QVA2Rm04MlRiZGtvYnJwSXR0Zl8xaWhfRFlWWjFWOGc4NlZfTXpTQjhmMTQteUxiSUpla0U2clRjSW5mSHA4M1NndGNHMjVQZEIxWjFiQ1UxN1BHZC1rOXd5eW02UGRHTk1fU2RBTElDcUJtMHJrTDBRei1uNjlvUVFVM1dRNUZfdEFHWVdPSkJTZUlF?oc=5",
-      "date": "Oct 30, 2026",
-      "source": "BusinessLine"
+      "headline": "Are banks open across the US on Halloween 2026? Hours, closures and what customers should check before goi",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNnVWbVdtX1R3QU5xZ2J0Qm9XQlpOMXk1XzhRSGpWX3d6TkJZM240US1jcTA1VHZuVklZZEpnVFFNRFp5UTN2aThtY3hucDRTX0t3dXZ0RUdZZjh3dklsR081cEs1X0dqUEFsQUs3SnNsOGJ1Y2JneDlzQkMwVHBLbzVHYmZITlBHX3V0UDEwaUN5TmtKeEFnVkNiTWh4S1plb0poaU5xZW9xeVMwall2Q19RZFBPcHNjaTR1cUNxVHlVeFg5NlVYaVNVa3lRX3h0RXJMRHVZVWNVOF9kU05mbDRwWHJsVE9wLWlIX3ZEQTlRcXRNMmdPOWJMR0dBalhYa1UzVzVJcldwbUlGUktiMTMtSElkQdIBmwJBVV95cUxPQldDRkRyZExrMklIT0NjS0ZtNVFzOWJJbGJCQnJmMUxIVUR6eS1DbE1CSlB1NFBpZG1uZFprVFpTVC1qamRvbXl3cWhCdWdvb3VKbko5eGZTcEt5LXhWSE1FWnBnTkxSN2dOazZNNzhvMXM5NmRtMFV6VVYtYnpJSzdwRHl3V2dGYzZsdnc4VlhDMWFaSzRYUDkwRk5IRXVoQ3Y5RWUwWURaYkwzdWYwM0NCNHpkNTRNamxyVThhb2hOSVFnbkh5ZmV0LTRIY1BDYVBTTUNPSkhCNmllQXFWak9KTUlzVjg2QmI1bWIwZGxETHhWbWozVlVtMm9MMGtiQ3FmVE42dTI2TG5ocnpGVGhkS1FmM05NbklV?oc=5",
+      "date": "Oct 31, 2026",
+      "source": "The Economic Times"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Bank Holiday Today: Are Banks Open Or Closed On October 31, 2026? Check State-Wise Details",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVy1pc2sydEt4ek40dDhKZldnUmFJZ2tvTWFfbGwwcnBGYjg4T0ZuM1Q3OE9yUm5OMWV5X202b1ozOG9WS3l6OVFBREMzMWlQNFJReEhUSEl2T2d3bm43T3BoOHdxMkl3eV84WlBxQUxwZ191V0RweENMbmU5d1VmQ2R1VWZRTWRJQUFuWGZvMlZ2T1F3M3RHMmc2dnR4eFo5c2g1dWZOSjRnOGxQS1N5YXdubHZrVnRSUGh0WTRNb2c1VDJ0cHJqU1BZQ2PSAdQBQVVfeXFMTUctVTZ0VkRwcTMyOXhqS0Q4N0JGN1Y2eXJRdGwyTVJEODNrV1hsd2ExYW5PSEgyZlp5aW5ZNmJNX051VE1ORUg1UUZSVzlfYVI5Vk12cG1hUFhXdWMwYzNYcXNSNE15RVNCak1Tc1VTbU1EbW4zYVZJa241aGxxbEJ1UEdYbVhlMVdGYlNCbnBpY2pobi1qS2RRX09vR25YWHFhZF8zVDNadnpTS09FZmtKWXh1UXk2TnpETWZJX2Z4bjZtT3JKV2drak9JM29FaHlsRGE?oc=5",
+      "date": "Oct 31, 2026",
+      "source": "NDTV Profit"
     },
     {
       "inst": "industry",
@@ -102,16 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2NZeVJZa1FncVVGVnRuU18tcTVaYjcxMnVZZzRQRFhQS1lJYnRPSWFwN04zWlhIcW9lWWlwVW11UWxfN3JMWW85RUtVS0RpM2tJcHJyV3BGVzlhWHJ4b0I4clNHS1dReTduQ0lhZ3Q4TU5kZkQ3ZEhhSDVtMGFWei1GX0JXTmwzNHM3QlBmWEPSAZYBQVVfeXFMT25Fb2xYenh3VG5RcmluZC1iM2FKTVNlQnZIVmQ0eXFveTFuS19jT0VCdDVFTnBZa1NFUlBTUE1JeDE1RllGeURaMDREZUZiUFMwUFpxTjVLOEpXQXdDS2RiM1lpa1JQMFg5d21IVmUzSzVmanBMLUU1bnFPTkRQX3hDWEVmeGJKa0RTREtMRnVkdG5Sa3NB?oc=5",
       "date": "Oct 27, 2026",
       "source": "Metro.co.uk"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Every high street bank closing in November",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0xvMjktY3Bna0tzZTlaXzI1Y1hZUUozSVByUzBNQmcyb1JjNVRfMmxhelhlWnlpMEt0OUJzQktRU1pLMW5jeTZSRVNJbXFvSFhyOG1Kd2FVOC1mVG4wS0RYUnh1X3JNRHJWV1hUN096bzlOUWhKWU9zVHVzMU8tS0RXaGJfSGd0dGYyaG9IUUJBZVU4ajc1Zll4X3NOZkU1VHlBN3Rjaw?oc=5",
-      "date": "Oct 27, 2026",
-      "source": "The Independent"
     }
   ]
 }
