@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:45:38.060Z",
+  "updatedAt": "2026-11-05T17:01:37.605Z",
   "categories": [
     {
       "id": "closures",
@@ -108,30 +108,30 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "What's open and closed on Thanksgiving 2026? Stores, banks, post office, trash pickup",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVNvbDVyN2oydlAyZWlxUE0yUXRoSUc4SC1JeF9nMF96NGVSTDlRQjlWS2hlYWxteGptNG1kaVo5TzI0TjJLMmJEdjdQVl9GVFFmT1Fxb2hmVVZra01RRW1xcjNyd2xWbTR5VHpHaEU2Z3BCcmJmQ1VTZkRwZV9GSmlWYmlLZ2VBOGVYWjhHQXBScWxDUXF4NGFIa0IyMUwyakRqajRBNVQzQkp1NkJVag?oc=5",
-      "date": "Nov 4, 2026",
-      "source": "Nacionale"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
       "headline": "From banks to schools to the post office, here's what's open and closed on Election Day in CT",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUNNN2pYa29vMU9kSkNDTlZtemNZbzlMTWM0a3ctZG9Ld1V4cUlPM3RfQlY5Sy1hbTg3bmtLU1hRYjEwS3Npd2tvUFpmSjF5c0tLYkV3eDB6QlJYTzZiRi1XT3VnS25femxJSUo4Y0x6b0xLU0VyWEVjcnk4ODNLamRHbjI0UmZocDN1Y1lDNUE?oc=5",
       "date": "Nov 2, 2026",
-      "source": "Chron"
+      "source": "CT Insider"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Simmons Bank closing 26 locations, 6 in Arkansas in December",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1o5TEhvSmlhLWVxZ1JRQV9od2lBeVNHbmYyR3pVOElIb2pmY0h3d2o4dF9nRUw3VE1vWXRjRVZlS2dnWExZNkQ5S0pOOVpGeHVZcGtBdFhlV2xKOVowS1JZaFZWMWxBeTJGcVQwSHRIRzRXdzB1RTV0cG1XYUpPUXJRMWFzdjh5OEIyYndXR0JIT3FhOXZDUzJwN29xRXhDQk9tN29KMGpDM3ZFSGREYm9PbXJKSERscWFfZDREQUhDQXdjdVVwMXZXY1dGLTZSTDd1Y3Y1emZmNWNYYk1lX0pR?oc=5",
-      "date": "Sep 4, 2026",
-      "source": "KATV"
+      "headline": "These Bank of America Branches Are Closing in 2026: Is Yours One?",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNmpWeG5ZYUhwZS14Q28tb0NuamI2Z1pHdVdkcFNJOEIyTzRHMmk5bTUxd3Itcm15N204b0RfLU9HR2w0dVBmV0g0T0g2dmQ3cC1SVS1ncktabkF5Y0tUUzRId3Exdm5PeXFuQg?oc=5",
+      "date": "Nov 2, 2026",
+      "source": "FinanceBuzz"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "U.S. Bank Is Closing Local Branches in 2026: Is Yours One?",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xM1d3bmhPZDlqcHVMTVZFWWs0djljWWFOaW5tbFJmZ0h3VnJJNFNJU0g5bExCaGdJUDlHbFYzUWw2dkFYWkNfYklSQVdxcDZ5X2VFY0VNYWtZTktIZ2pvaWF3?oc=5",
+      "date": "Nov 2, 2026",
+      "source": "FinanceBuzz"
     }
   ]
 }
