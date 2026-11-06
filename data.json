@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:01:37.605Z",
+  "updatedAt": "2026-11-06T16:32:24.155Z",
   "categories": [
     {
       "id": "closures",
@@ -108,10 +108,20 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "Dhanteras bank holiday: Will banks be open or closed today, November 6, 2026?",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc1FFUU8tVVZHZ0U1ekpoR3lrSHFwOTBwZTZSRUM1SkQxYkVGYWU0aFVGN0pyMXo4Ukx3UzBHeVhOQWtScG1xUGtvbjEyVGprcDUxaXM4Wll0U0NMNUdiNDhvcVR5cUlPN2Z2MnFjSEYwWTEwc1Fsd0NEY1Q5WlZaRTVQRHZ2WDNPMHphZmpzT1N4WUR4NHNmYnNqLTBXY0xlQ3JWYl9WdGw3YVloM1NYeXV0alRhMkxmMDhXaUpvWk53NlpqT294VU9vRllSTmxieHI0UlBB0gHbAUFVX3lxTE83SWIyWWp4OVVKMGRCM1JpZ3ZsZkMwOUtBa050eGRUTTdRTkRrMnBoTmNYd0lrekNmV3ZkR09SX2hKUi1XZFhaZURnY0Q5SUp5R1BmOGg0b2FyUFU4RDNWU2hqcGxlTW9RY2NERFJJa2p5S2lnUWVxM1Q3bnc4SnctN2FPZ1Z4X291WURVSERjYkFPYmJKV2xoNTBaaGpSeGpiS0Y0R1cydUo1VFJYMGRuOU5COVRwZ2lCanYxVTRrTkd2RFRJak5ZWFZndG1uVzJtdEYzSDFaYTZNaw?oc=5",
+      "date": "Nov 6, 2026",
+      "source": "The Economic Times"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "From banks to schools to the post office, here's what's open and closed on Election Day in CT",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeUNNN2pYa29vMU9kSkNDTlZtemNZbzlMTWM0a3ctZG9Ld1V4cUlPM3RfQlY5Sy1hbTg3bmtLU1hRYjEwS3Npd2tvUFpmSjF5c0tLYkV3eDB6QlJYTzZiRi1XT3VnS25femxJSUo4Y0x6b0xLU0VyWEVjcnk4ODNLamRHbjI0UmZocDN1Y1lDNUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3hUaWQxSlVRX3JObDNPYXlZSkh4RGNqU3FpcXRsTzlpMWVObW1FRFRTa3F5b3FGc0ZfYjdUVXNGZHU2QjR2UGZXRlJtb0xBcmQ5UnFBeGRKMlB6cms2bERxZWJINVRzVmJGeEhDVnk5cmRZM05PZkpRSTJWQkZuNkUwRkFMT0JHTklrVA?oc=5",
       "date": "Nov 2, 2026",
-      "source": "CT Insider"
+      "source": "CTPost"
     },
     {
       "inst": "industry",
@@ -120,16 +130,6 @@
       "category": "closures",
       "headline": "These Bank of America Branches Are Closing in 2026: Is Yours One?",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNmpWeG5ZYUhwZS14Q28tb0NuamI2Z1pHdVdkcFNJOEIyTzRHMmk5bTUxd3Itcm15N204b0RfLU9HR2w0dVBmV0g0T0g2dmQ3cC1SVS1ncktabkF5Y0tUUzRId3Exdm5PeXFuQg?oc=5",
-      "date": "Nov 2, 2026",
-      "source": "FinanceBuzz"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "U.S. Bank Is Closing Local Branches in 2026: Is Yours One?",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xM1d3bmhPZDlqcHVMTVZFWWs0djljWWFOaW5tbFJmZ0h3VnJJNFNJU0g5bExCaGdJUDlHbFYzUWw2dkFYWkNfYklSQVdxcDZ5X2VFY0VNYWtZTktIZ2pvaWF3?oc=5",
       "date": "Nov 2, 2026",
       "source": "FinanceBuzz"
     }
