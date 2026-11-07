@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:32:24.155Z",
+  "updatedAt": "2026-11-07T15:20:29.715Z",
   "categories": [
     {
       "id": "closures",
@@ -58,6 +58,16 @@
       "instLabel": "Navy Federal Credit Union",
       "color": "c-blue",
       "category": "closures",
+      "headline": "Navy Federal Credit Union Hours: Full Schedule and Holiday Closures",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDIteTBocWxnRjV2QlVOdDVLb1dLemFGQk1QMUpOUGVCMFBTZXpMSmpiUmswMDlpSkNzUHA0bFVBOWlTcnBzSFdTWDYtSVQ4QnluRVA5ZFNuaktKQWQ4aTFEMlRDSllVZkRUMGU0THZUcmVpTlg5eUQ3Sk9ETUVBanp4NlJvVWhIM3JRa2l3?oc=5",
+      "date": "Jan 2, 2026",
+      "source": "GOBankingRates"
+    },
+    {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
       "headline": "Navy Federal Credit Union Opening Branch in Newnan",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVVXOHN4UmRKMDgzcTRyQjhyY0FLUDd5NjRSRFRReFQ5VmhJbUZ0a0UyYlgwVkpqd2c2THFid1RQNEFtdHhwaVQzU2F6QmtoT3dWZFJYa0l4TzRTRVNMZDRwbXFhOC1sWHNqRW9ITVR6cE5lZ1UyU2tEeXB4UnlCbjhXYUFTNG5ZbWVnYnc0Slg?oc=5",
       "date": "Nov 25, 2024",
@@ -94,44 +104,34 @@
       "source": "Retail Banker International"
     },
     {
-      "inst": "marcus",
-      "instLabel": "Marcus by Goldman Sachs",
-      "color": "c-coral",
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
       "category": "closures",
-      "headline": "Exclusive: Savings surge forces Goldman to shut Marcus to new UK clients",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYmY3ZWtNSkJNdWdMRms0eDRrUW80ZjFmVEFMZTMzVjF2RmN0WTZnbERXcXpJcVRoYjludmZGNzdLOVJESmUxSlRYb3R5SUVNOFg5R0xQYVZNR2V6eE5USVlzYk93Y3BQR3l3TkVlYXRROV9OaGlpYllBY3BHVHVPOVNXWG4yVy14bElCWDI5dGVmdU9LQ3VGczR2RTNxNjFNMDVfdmlUbktZLXdsX3VldnNETDdaNzRTUTM4QVJLN0ktY0IxTHc?oc=5",
-      "date": "Jun 9, 2020",
-      "source": "Reuters"
+      "headline": "Diwali 2026 Bank Holidays: When will banks remain closed across India this week? Check full list",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQ3VwT282WW0tenpONmZuSURPRVI4bXdybG5UMWFvRFM4c3VnMTJMeXlzY3FxYVZZaHpXdnFadVZmYk9tTEZMRFRKdmxrRVZfZ19JVnlELVRCTHhRaXRoTkh0c09mel9ob1E0OXV6VUhwZVljd05PbUFTMW1ETDQ5aVZTYzBIcl9lS2plcXU3U05hWDFtbjlJVW1TVnpKVWJpTXJQMDg2LTdoTnNoTUQ3WEdiS3lqWUxkYnJnNFNlLVhEdnBUSHQxT0pQalIzeFFzTGw1NEJuanVELUhhdzFTNnlhcGQwdldObnFST3FUSFVqOUdrQjh4dUZUWnVxNU1qRjdhbXVDS2fSAY4CQVVfeXFMT21INGxLR2FEVjN3RFotSkxZbkpmZlNRcVlVVktlUHYzLWRVQUotcDVEbFpBbTBVcVg5VmxHZkVvanVCTVc5Y1A1cVZ2LVdPRlEtaE92WTUtcWFnYVpZTXBNYVB3WWZ1a3RvYll6cmZTaEhMdktJaTFQTzhuNEVxY3hDQTNkSGR6bXB3TnRPcTJ3UmJJbkpaMWpUaHFyN0Vkel9ZVDEzWDRqeVNyc0w5UzdMTC1sc29naEFLYVktdWdYbzRGR1JtWlZvWFZVYjRfdHdRd2Y2WkdLYkFWdHR5T3VuMEgxa055WE80c2FSX3hUQ1FLWE1iMzF3REVZN09JZWd0YktONmVRWnFVMTh3?oc=5",
+      "date": "Nov 7, 2026",
+      "source": "CNBC TV18"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Dhanteras bank holiday: Will banks be open or closed today, November 6, 2026?",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc1FFUU8tVVZHZ0U1ekpoR3lrSHFwOTBwZTZSRUM1SkQxYkVGYWU0aFVGN0pyMXo4Ukx3UzBHeVhOQWtScG1xUGtvbjEyVGprcDUxaXM4Wll0U0NMNUdiNDhvcVR5cUlPN2Z2MnFjSEYwWTEwc1Fsd0NEY1Q5WlZaRTVQRHZ2WDNPMHphZmpzT1N4WUR4NHNmYnNqLTBXY0xlQ3JWYl9WdGw3YVloM1NYeXV0alRhMkxmMDhXaUpvWk53NlpqT294VU9vRllSTmxieHI0UlBB0gHbAUFVX3lxTE83SWIyWWp4OVVKMGRCM1JpZ3ZsZkMwOUtBa050eGRUTTdRTkRrMnBoTmNYd0lrekNmV3ZkR09SX2hKUi1XZFhaZURnY0Q5SUp5R1BmOGg0b2FyUFU4RDNWU2hqcGxlTW9RY2NERFJJa2p5S2lnUWVxM1Q3bnc4SnctN2FPZ1Z4X291WURVSERjYkFPYmJKV2xoNTBaaGpSeGpiS0Y0R1cydUo1VFJYMGRuOU5COVRwZ2lCanYxVTRrTkd2RFRJak5ZWFZndG1uVzJtdEYzSDFaYTZNaw?oc=5",
-      "date": "Nov 6, 2026",
-      "source": "The Economic Times"
+      "headline": "Full list of all Lloyds and Halifax banks shutting this month and into 2027",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOanVHLVJkQmEyaWtJeW5NcXZnRDItOXdEVGEtYU4tQ1dRTnRYXzZKc3JCalNWR01vRGFoal9IRE9iamZDWFJha2kxYVlXZFpiTFRBalJmaktXcFhLbEZEUDhxcnViRG0xeWlRT3hhbEJFdjVmNzVvRjlmbFVaeXZwSHJuRnByZ0hPc3V5c2hneE54bEdHTF9uS0p3UHY?oc=5",
+      "date": "Nov 7, 2026",
+      "source": "Metro.co.uk"
     },
     {
       "inst": "industry",
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "From banks to schools to the post office, here's what's open and closed on Election Day in CT",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3hUaWQxSlVRX3JObDNPYXlZSkh4RGNqU3FpcXRsTzlpMWVObW1FRFRTa3F5b3FGc0ZfYjdUVXNGZHU2QjR2UGZXRlJtb0xBcmQ5UnFBeGRKMlB6cms2bERxZWJINVRzVmJGeEhDVnk5cmRZM05PZkpRSTJWQkZuNkUwRkFMT0JHTklrVA?oc=5",
-      "date": "Nov 2, 2026",
-      "source": "CTPost"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "These Bank of America Branches Are Closing in 2026: Is Yours One?",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNmpWeG5ZYUhwZS14Q28tb0NuamI2Z1pHdVdkcFNJOEIyTzRHMmk5bTUxd3Itcm15N204b0RfLU9HR2w0dVBmV0g0T0g2dmQ3cC1SVS1ncktabkF5Y0tUUzRId3Exdm5PeXFuQg?oc=5",
-      "date": "Nov 2, 2026",
-      "source": "FinanceBuzz"
+      "headline": "Diwali 2026 bank holidays: How many days will banks be closed next week?",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUDV3RUVIT3JSazRXWWN4dkxoRGtZWUVDUVBFSThkRTVkRUxNMGVVNVNWRW1ldWh1dTdwVHdDVjEwSllGSlZOb1cxcW9DTXZwNTJiSHc0NFcyM3k0RXZGMkt3ZE80VUFPdjVGLXVTMW1meFNMeHZTMkx6cnlvMjNUT0RmcXdtRFdZSTJTbHFhZ2JhemdKVUV6MXlmZUwzR3pLWXdjZ01lb2hJWUQ1cHBNVG9ucEwzcWFTTmZ4TWhLRGxERnZBSEhwcGptNEh3ZDFFMzFSZUtLaTFBeWFB0gHiAUFVX3lxTFBYWHJOUklGVlQ2VVFPU1M2ZXIydE4yLTZYSE5ERTY0VkE2UVJ1N3ZQSlRJUlFxVExiNy1ub2xzWHNYcTR1ZDRvckprakFLV0cyYkdNMVRudjJzd1I3RnN1LTI3NE5RNU94QkpteEQ2RXlvRUFvTjFid1NtaG92X0tzSkFaRm5KT21HMW5YN3I2TE1xelVfSm5sVlR0cHBRd2pLTC1JNm9XLWhQUjU1N0tmRTh0MDBqZGxqRXI2YmJuSjBaWEp5QXo2NHFWNE9mcVJvR1NVRFl0MnN4aGVLZkxQbFE?oc=5",
+      "date": "Nov 7, 2026",
+      "source": "Business Standard"
     }
   ]
 }
