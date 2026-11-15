@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:28:28.540Z",
+  "updatedAt": "2026-11-15T16:00:59.218Z",
   "categories": [
     {
       "id": "closures",
@@ -48,10 +48,10 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Guardian Credit Union expanding to Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
-      "date": "Feb 24, 2023",
-      "source": "1819 News"
+      "headline": "Guardian Credit Union announces ‘Letters to Santa: A Holiday Giveback’ campaign",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVJLUnd3MWZiRzVBWFlRbVlOakxsV3RaSjVhTjZETnF6emxiR2hpbjMtVTZrdmdnVjVNRXpHczEtUGY5aGZTSXd4TWR6eGpvVk1IVFA3ZUltb3RhVFdRWWVvOUliRHREZ3JhTHBrMzRCRjlRQnpjb29ySFFuSEJWSS1MWE9BalM3SXd6R3U3dFJYSUxTdnVmdkJLY3RUSHhZWDFONV9PRQ?oc=5",
+      "date": "Nov 27, 2023",
+      "source": "WSFA"
     },
     {
       "inst": "navyfederal",
@@ -98,6 +98,16 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
+      "headline": "Bank holiday alert: Check next week’s closures",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlZk5JeHBCVkRxaVBWS2Jrb0dVa3BGVENDV19JSmlxS2RaS0ozaGVLY2FaVVBVa2JLVVZ4S3l5ZzN3cGg1YnV4bnl3bHlGbDBNOWNZUzhjMnBEZEFGRzBsdTlYdEp5bFpJdi1qMGIzR1RjeU9BR0xF?oc=5",
+      "date": "Nov 15, 2026",
+      "source": "The Avenue Mail"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
       "headline": "Are banks closed today? What is closed on Veterans Day 2026? Does mail run today?",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQl9iOGdfT281cE5aaEFwWTVvWVoyRWN4Y0JRUEdLa0s2OUt5V1BmUndYRGFSWUs3LTExSVRHbERFX3drQXdNczRtTFB2Y1poQW1GRWw5MmtzZDRkT21JQmFwVjNINUJidmNjSGg2bDFuRnE2V2cydDRQa3U0b3BzbXlka3Z6RXJPZWJJanAxVVJ4RW5DWkdpemVEV3ZhVzBOQmVKdFJOcUVPZ01zNFJhZE1WSTVTOFVVRGJQOXZjOWxaLTByYlpkUXJma2NhSnNsN1BNMGFoNThmODdKWG1FQmFZaXgxQmg4QVA4SnRacw?oc=5",
       "date": "Nov 11, 2026",
@@ -112,16 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFBhSUJqZk9nd0s5LWQzNDViSlFEa05fS3lVUzNpLVY1bzYwaW1aR1JqWXZuX3Z0LWVhOXR3cnJLSWRId3dDSmdSZWpkVy15T1RVMWlGLW95Y1F2OGxoRjFiOHA3TGNSWmxxY3l0YTlVMTJjTVZQN0J6aUhuV044MlpRR2NLeEtDZHNuc0V6MUk5VGtndHA1QTc5VE9QWG1tTnBjeTlCbkpNT09YbWFJMGNJTDhjaEdwUEg2ejd5aDlZSGFFSVNWcWhkaGxJdENU?oc=5",
       "date": "Nov 11, 2026",
       "source": "Cincinnati Enquirer"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "Will banks be closed for Veterans Day 2026? Branch schedules, ATM access, and stock market hours",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOXdaWlViWGtOczdzOW50YVpUSWdpaFAxUW15Q0xybXkzTDBCT3dQN2lwV3J2Slc5YUJMRGdaVEZ0OGVpcmpXemxNVC1mSzZONnF1YXBIUC1qQ0xmcjZzSUJNdWdXbmdZZFBIdDRDbGRqSlNXT052ckRoSHM4a0dfa1RfSGU1dzJrZHBwSGZMTXZrWGFLVnhGYk9WNEQ1dW94ajRaaUh0UEtINVczV0gtMjFzTjE2dTRIVDNjLV9lcGRjMVJNbVBGTzJFTDBDdUVEVXp6a2VZTU1GZ9IB3wFBVV95cUxNeDEyRExucGNVRE56UnFOUDg3UE1ZRlRnOVIxNmNjeWpBeWd4TmtzWXkwdXp1RDRvcjB0V1drcmVzVWxkYnd0a242aFExdEJZNS15MW1Tc0hBS01KRl9xRUhCR3ozOUtRdnE2ZkFEbUVyWUIxRVBNTU1RMkJxX0wwOVFXT0RFOW8tQ01tbXlkVUQ3cWxpVVZGQmc1SE1qZjhQeHJRMkZlYmFOZnJPNTlleVV2U29FZHdTMEJkOEVicGtVTXlzdWtQYlpBMGJKX2puaWtXU2RCX0xCMUF6c2s4?oc=5",
-      "date": "Nov 10, 2026",
-      "source": "Clarin.com"
     }
   ]
 }
