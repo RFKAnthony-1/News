@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T20:48:12.346Z",
+  "updatedAt": "2026-11-24T19:51:39.688Z",
   "categories": [
     {
       "id": "closures",
@@ -38,9 +38,9 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Bracket Set for 2024 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLURrNmlVa0ZNVDRxdTQ2dUEwbEdWSl9nQjIybEk3TDhMeUJCUjJuXzVqRGJ1WUJncW5xeHJ2cVgxSWxjSjJfdmVTaVY4VDJ6aGdtSFhXdHlZN0QyUkhPWklFT0NfcHpKaXZVZ25kSVluM0lTSGk0RF9CWU05cEt0MXBUd1kxSjZkQzZXbHplRlRZZFJFbzhCSkMtZUw2X0VJbUF6X1pqWU1KVHhNcnJrLUYwcE5SVC11cTVOR05JenBSenI0Z3k0QmdYYzBpblFoekJiNWV5cVBYdTM5TnZxZDJkaE85VDRRUXluY0tvM0s?oc=5",
-      "date": "May 18, 2024",
+      "headline": "Coastal Carolina & Old Dominion Advance to Double-Elimination Portion of Guardian Credit Union Sun Belt Baseball Championship",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSm91TTEtSGJPWWJBX0x1Q3dpRkFqc3dBM0FfMW8wSktQRTRKN0pYcGc0Z1BXN3EyRTlXNkJhNUswUUFZeVI5ODQ2S2J0bWp6bkZKRHpyN1B0UzNHZjVmbzM3eW9NVnlOak94Wkl4VUJZTks4d0tXSjBfaXFJRWduZjJqU3UzYUZYMVRkOE9hSnRDLU5kUVhXdFBSTW1yaHBET3ItRkd0SjJOQXA0LWYyRnBjMFBRUXhDWlk3eGtwT2tkZUZtU1dkMjgyMmh1bDhNTXg0TUVMUjBmbVc3RVdRWjB0TXZMaXRWNW90RUFRdkZDRnpleGdoZE1Mc2RRdw?oc=5",
+      "date": "May 21, 2024",
       "source": "Sun Belt Conference"
     },
     {
@@ -48,10 +48,30 @@
       "instLabel": "Guardian Credit Union (AL)",
       "color": "c-teal",
       "category": "closures",
-      "headline": "Guardian Credit Union expanding to Prattville",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUF4c1JMQVB4V1kxN0tvSjV3OFRGbzU5bEVjT2tPR3NXcXRONHRvdEI3eGpjSF9SSjZSSnNZekgyeVYzZ2xXRElWeUFxaVFudUZKTHRkZzFWcVdFenJENV9GbWZXYTNxdHRWU00yYlZRQjViVmhrX2M3RC1MQ01ETUlhdDhUSFFkanlXa1Q5UmNVNENSSWV5R1dUX1h0cWRsOTNxNA?oc=5",
-      "date": "Feb 24, 2023",
-      "source": "1819 News"
+      "headline": "Bracket Set for 2024 Guardian Credit Union Sun Belt Conference Baseball Championship Presented by Troy University",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLURrNmlVa0ZNVDRxdTQ2dUEwbEdWSl9nQjIybEk3TDhMeUJCUjJuXzVqRGJ1WUJncW5xeHJ2cVgxSWxjSjJfdmVTaVY4VDJ6aGdtSFhXdHlZN0QyUkhPWklFT0NfcHpKaXZVZ25kSVluM0lTSGk0RF9CWU05cEt0MXBUd1kxSjZkQzZXbHplRlRZZFJFbzhCSkMtZUw2X0VJbUF6X1pqWU1KVHhNcnJrLUYwcE5SVC11cTVOR05JenBSenI0Z3k0QmdYYzBpblFoekJiNWV5cVBYdTM5TnZxZDJkaE85VDRRUXluY0tvM0s?oc=5",
+      "date": "May 18, 2024",
+      "source": "Sun Belt Conference"
+    },
+    {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
+      "headline": "Navy Federal Credit Union Opening Branch in Newnan",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVVXOHN4UmRKMDgzcTRyQjhyY0FLUDd5NjRSRFRReFQ5VmhJbUZ0a0UyYlgwVkpqd2c2THFid1RQNEFtdHhwaVQzU2F6QmtoT3dWZFJYa0l4TzRTRVNMZDRwbXFhOC1sWHNqRW9ITVR6cE5lZ1UyU2tEeXB4UnlCbjhXYUFTNG5ZbWVnYnc0Slg?oc=5",
+      "date": "Nov 25, 2024",
+      "source": "The City Menus"
+    },
+    {
+      "inst": "navyfederal",
+      "instLabel": "Navy Federal Credit Union",
+      "color": "c-blue",
+      "category": "closures",
+      "headline": "Navy Federal Credit Union branch in Columbus temporarily closes after positive COVID-19 case",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjBUM0FWcl9RWDVJMWxubVZhQUpCNmw3X0QwNFlTTzNYRWJadlFOcWI3VC12LTV0NWdleWZIc3hhVU1jMkdPdzhhd2tLTlFyMmppS29DVXlQWmV6a0JuXzlGalo1NTBZSTVoTGxBdkk0SUZQYktJQ0RMNFZMTS1SVEVZejBfTi1EVFlNWTRiWjRIelFDR0F5MGtMRnhiUWI3SUExY0VlQ2lQYmgzdEluYlh0VWxCbDdMcVFN0gHPAUFVX3lxTE9nT1VTR2tIczhhbmNkclBHT293SW40MGtHNjAxaVRQMnR3WDFQWXZ3SkxWcDNfMFFBTWozdVlVUV9kRGpqbFVPY3YycEx5SlFneGJTYU11ZVRZcUQ5RmM1UEVzZTdtQlVNcFRDMXJHLV9IczVab29mYVZGWUx0RFFzbFo4VUJ0X25jdVdaVGtBNWlGTDlSZElMQzE2dEdJVTBRTmpkb2xzcFdwTzI3U3FHTHNzcmVZOXhnN1YxZFFNdk5ON3RhT0dvQXhrTlQ0MA?oc=5",
+      "date": "Aug 31, 2020",
+      "source": "WTVM.com"
     },
     {
       "inst": "marcus",
@@ -68,10 +88,10 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "California Posting More Bank Closures Than Any State",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3lxQ0tuRC04Rk80ODhrU0g5aGdERnBlcWdHci1pVUNudkVoVHd4aG95QThtUDlWaXRRbEdibFRERkt5YTBPaS1UcXI2V1lCSnZEam5jREZaNy1xVl96eUpIUGY0RDlESU8yNU03cUtnV1Vqc0tfdGJxY29CMlZoQUprWWY5anM1SVZUNA?oc=5",
-      "date": "Nov 23, 2026",
-      "source": "Globest"
+      "headline": "California Leads Bank Branch Closures as Costs Climb",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmU2ZkVRV1RpMnZMM2IyNEhFcDFCNVJjZXk2SUJlUDdZS01aVXh2MzdwdzZLN2luRWIxMS14NGRJVnZObXNQUUlOaE9mYkhtYVhSZW9TRkFEUXZ3aFFMVU9ONjZSN1NNVjRpNnhCb0RET3Q1dUVDTFA0aV9HcUg4XzhQSVFVNVp0bmN2ckU2WVAzbXE1c3hQOF9iOURKX3Jh?oc=5",
+      "date": "Nov 24, 2026",
+      "source": "Yahoo Finance"
     },
     {
       "inst": "industry",
