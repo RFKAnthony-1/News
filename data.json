@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T18:46:29.821Z",
+  "updatedAt": "2026-11-27T18:38:34.812Z",
   "categories": [
     {
       "id": "closures",
@@ -54,26 +54,6 @@
       "source": "Sun Belt Conference"
     },
     {
-      "inst": "navyfederal",
-      "instLabel": "Navy Federal Credit Union",
-      "color": "c-blue",
-      "category": "closures",
-      "headline": "Navy Federal Credit Union Opening Branch in Newnan",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVVXOHN4UmRKMDgzcTRyQjhyY0FLUDd5NjRSRFRReFQ5VmhJbUZ0a0UyYlgwVkpqd2c2THFid1RQNEFtdHhwaVQzU2F6QmtoT3dWZFJYa0l4TzRTRVNMZDRwbXFhOC1sWHNqRW9ITVR6cE5lZ1UyU2tEeXB4UnlCbjhXYUFTNG5ZbWVnYnc0Slg?oc=5",
-      "date": "Nov 25, 2024",
-      "source": "The City Menus"
-    },
-    {
-      "inst": "navyfederal",
-      "instLabel": "Navy Federal Credit Union",
-      "color": "c-blue",
-      "category": "closures",
-      "headline": "Navy Federal Credit Union branch in Columbus temporarily closes after positive COVID-19 case",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjBUM0FWcl9RWDVJMWxubVZhQUpCNmw3X0QwNFlTTzNYRWJadlFOcWI3VC12LTV0NWdleWZIc3hhVU1jMkdPdzhhd2tLTlFyMmppS29DVXlQWmV6a0JuXzlGalo1NTBZSTVoTGxBdkk0SUZQYktJQ0RMNFZMTS1SVEVZejBfTi1EVFlNWTRiWjRIelFDR0F5MGtMRnhiUWI3SUExY0VlQ2lQYmgzdEluYlh0VWxCbDdMcVFN0gHPAUFVX3lxTE9nT1VTR2tIczhhbmNkclBHT293SW40MGtHNjAxaVRQMnR3WDFQWXZ3SkxWcDNfMFFBTWozdVlVUV9kRGpqbFVPY3YycEx5SlFneGJTYU11ZVRZcUQ5RmM1UEVzZTdtQlVNcFRDMXJHLV9IczVab29mYVZGWUx0RFFzbFo4VUJ0X25jdVdaVGtBNWlGTDlSZElMQzE2dEdJVTBRTmpkb2xzcFdwTzI3U3FHTHNzcmVZOXhnN1YxZFFNdk5ON3RhT0dvQXhrTlQ0MA?oc=5",
-      "date": "Aug 31, 2020",
-      "source": "WTVM.com"
-    },
-    {
       "inst": "marcus",
       "instLabel": "Marcus by Goldman Sachs",
       "color": "c-coral",
@@ -82,6 +62,26 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGVsZVZVMkMtMEVYQzFvVHZNdzFoWnNvN0RLekxFUVZFWUYyaTNRWUFKeG1qeVVudWYyM3FhX3VTSzVVQ25weTdQVFU5ZVpqR1lRSDFfMzZteEpyN1NFcFVtVXBndDAtRkpPN2M4YlVZdVpDS20yb0hSY0VvWV9IOTlkalYwYndKSG5Ha3FOWkNaRkF5Qlp1Qlp5NllXb1g2S0xYczd6ZkhJWkVHMFRn?oc=5",
       "date": "Jun 10, 2020",
       "source": "The Guardian"
+    },
+    {
+      "inst": "marcus",
+      "instLabel": "Marcus by Goldman Sachs",
+      "color": "c-coral",
+      "category": "closures",
+      "headline": "Savings surge forces Goldman to shut Marcus to new UK clients",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjRKYWY0eFA5TkxUdFRlVk0wMEQyTVFvV0pyeDEwdXowRzloQjByeVpwemFRVkZLaFVBYXB5S1JUQk1leTZ6eFNzRmdadVh5NjNHU1UyNk9iYmVWQWxJanhkcWVMWkZZU0JNQ2VRMGsxd0Iyc0R6SnlPMzFVNnp2SEhZTWluYjlsRTB1T000S0JrMklKd0lQZ2xIWFJTNTjSAaQBQVVfeXFMUFgwRklZaXVmV1k0dmFVNnlWZFlDdmdGM21fNUtiREZlaHlBZ0FsU3VQZnF5bExaLTVfTG94TUVZOEV4eEdNZjcyY1B2NGRhdXlfTVhoTWVEN0tUZ3BZZUc4YVQzZ0pPcTlDamcxWVlfY0RmOGt0bWhNRG9jUGMwc2UxRjhidXZEZ05kdW1EVC1Ib0RFODVlOG9rWlBWVjVGeDQ0WXE?oc=5",
+      "date": "Jun 10, 2020",
+      "source": "CNBC"
+    },
+    {
+      "inst": "industry",
+      "instLabel": "Industry-wide",
+      "color": "c-gray",
+      "category": "closures",
+      "headline": "Are banks open on Thanksgiving 2026? Branch hours, ATMs, and Black Friday reopening",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONUFxV3Nsb3lnaTVKQzlBYzZ4MjUtdkFJYXJSbjhxTFJEM1hCaU85U1ByWTJuUWFiZzFQUEUyb0FPQlFvOXo1M2dGNFJiMUNldjA0VlJsZ1BoRkpUNEFabUllQ19sNThjZDRPVEQzU1pyVW9sT1Y3V0hHQ1o0ejFrVk05MHVGU09wc1BHYnVSQjJ5MUhKbFJMbTBCdG1IWi1YR1lfZFBydWQ1VDFwRGtUVWI5dW5wTnlROG4wU2tuajVTVjJMRUg2btIBzgFBVV95cUxPQUYxWm9CNWhIblZVbUJDbUNYVnY3V3dlSm43LV9FazRqZEQ5MERmN2pZLVktUnRZMXE5WU43ajF5dG54bzFaaGNhTk5vMzJUS3J4LW02QkRTaThvd3BPQVhxVTNlWjk5YnRFOFppUWxzX2ltcDNWRE51LXlGM1QtekJDUGUxcEJSTnM5V1ZJQjhCXzhYMzQ4bUtaaVQyTzNnaDVtNkdLMGNsVE1WeFBVcmhBUU9ZZ2EtWnpTbWpZbjNvOElLNWpDdkJPRU5HQQ?oc=5",
+      "date": "Nov 25, 2026",
+      "source": "Clarin.com"
     },
     {
       "inst": "industry",
@@ -98,20 +98,10 @@
       "instLabel": "Industry-wide",
       "color": "c-gray",
       "category": "closures",
-      "headline": "Bank branch closures: is your local bank closing?",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblEyUzcwY0tHUHlxMVQ1MlhfdTdEM1NHMXptMUxhRjhJMDl1b1UxMmJiV2NnbkgyZ0ZFVWpyUnJWSnFqUFN3OFZYWlIwRUs1cWpPMHdqLW9NREV6cnhsRlRXTHVuN0EtWmNsUEJNUDZ6ZGhfNm1mSS1rMU9uWDJPN1Z2WFFwSS15WFhGd0JnT2RGeEdaTkp1bDREazBLU3pKeXVfNUJ6UXF5QklJd0tFUG9pTXJtWnlObnc?oc=5",
-      "date": "Nov 18, 2026",
-      "source": "Which?"
-    },
-    {
-      "inst": "industry",
-      "instLabel": "Industry-wide",
-      "color": "c-gray",
-      "category": "closures",
-      "headline": "TD Bank Has Closed Dozens of Branches in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOYnVHeHVtT1Yyd09tbHpzOFdwOVM1ZUN2cUhvT1Q3WU9INUUya0Nna3htc0hySDBXTC1YdHhKazNQb28zVzBtdmhnQ08ybXZtSWdzbWI5Tk9hU1k0VVpQZzV3?oc=5",
-      "date": "Nov 17, 2026",
-      "source": "FinanceBuzz"
+      "headline": "California Leads Bank Branch Closures as Costs Climb",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmU2ZkVRV1RpMnZMM2IyNEhFcDFCNVJjZXk2SUJlUDdZS01aVXh2MzdwdzZLN2luRWIxMS14NGRJVnZObXNQUUlOaE9mYkhtYVhSZW9TRkFEUXZ3aFFMVU9ONjZSN1NNVjRpNnhCb0RET3Q1dUVDTFA0aV9HcUg4XzhQSVFVNVp0bmN2ckU2WVAzbXE1c3hQOF9iOURKX3Jh?oc=5",
+      "date": "Nov 24, 2026",
+      "source": "Yahoo Finance"
     }
   ]
 }
